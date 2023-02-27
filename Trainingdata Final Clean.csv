@@ -1,0 +1,2819 @@
+year,month,day,exercise,set #,reps,weight
+2021,12,3,barbell hacksquat,1,5.0,85.0
+2021,12,3,barbell hacksquat,2,5.0,80.0
+2021,12,3,barbell hacksquat,3,5.0,75.0
+2021,12,3,barbell hacksquat,4,0.0,0.0
+2021,12,3,rdls,1,18.0,60.0
+2021,12,3,rdls,2,16.0,60.0
+2021,12,3,rdls,3,15.0,60.0
+2021,12,3,rdls,4,0.0,0.0
+2021,12,3,reverse nordics,1,12.0,0.0
+2021,12,3,reverse nordics,2,12.0,0.0
+2021,12,3,reverse nordics,3,12.0,0.0
+2021,12,3,reverse nordics,4,0.0,0.0
+2021,12,3,single leg hyper,1,8.0,0.0
+2021,12,3,single leg hyper,2,16.0,0.0
+2021,12,3,single leg hyper,3,14.0,0.0
+2021,12,3,single leg hyper,4,0.0,0.0
+2021,12,3,tibialis raise,1,17.0,0.0
+2021,12,3,tibialis raise,2,12.0,0.0
+2021,12,3,tibialis raise,3,10.0,0.0
+2021,12,3,tibialis raise,4,0.0,0.0
+2021,12,5,bench press,1,5.0,65.0
+2021,12,5,bench press,2,6.0,60.0
+2021,12,5,bench press,3,6.0,57.5
+2021,12,5,bench press,4,0.0,0.0
+2021,12,5,biceps,1,6.0,18.0
+2021,12,5,biceps,2,6.0,16.0
+2021,12,5,biceps,3,7.0,14.0
+2021,12,5,biceps,4,0.0,0.0
+2021,12,5,dips,1,6.0,0.0
+2021,12,5,dips,2,6.0,-10.0
+2021,12,5,dips,3,9.0,-20.0
+2021,12,5,dips,4,0.0,0.0
+2021,12,5,incline db press,1,8.0,26.0
+2021,12,5,incline db press,2,6.0,26.0
+2021,12,5,incline db press,3,7.0,24.0
+2021,12,5,incline db press,4,0.0,0.0
+2021,12,5,rear delt row,1,16.0,41.0
+2021,12,5,rear delt row,2,15.0,41.0
+2021,12,5,rear delt row,3,14.0,41.0
+2021,12,5,rear delt row,4,0.0,0.0
+2021,12,5,side lateral,1,15.0,6.0
+2021,12,5,side lateral,2,13.0,6.0
+2021,12,5,side lateral,3,10.0,6.0
+2021,12,5,side lateral,4,0.0,0.0
+2021,12,7,calves,1,12.0,127.0
+2021,12,7,calves,2,12.0,118.0
+2021,12,7,calves,3,10.0,109.0
+2021,12,7,calves,4,0.0,0.0
+2021,12,7,hamstring curls,1,8.0,60.0
+2021,12,7,hamstring curls,2,8.0,60.0
+2021,12,7,hamstring curls,3,7.0,55.0
+2021,12,7,hamstring curls,4,0.0,0.0
+2021,12,7,leg press,1,4.0,82.0
+2021,12,7,leg press,2,6.0,73.0
+2021,12,7,leg press,3,6.0,62.0
+2021,12,7,leg press,4,0.0,0.0
+2021,12,7,oblique maskin,1,16.0,32.0
+2021,12,7,oblique maskin,2,20.0,25.0
+2021,12,7,oblique maskin,3,20.0,25.0
+2021,12,7,oblique maskin,4,0.0,0.0
+2021,12,7,quad extensions,1,16.0,68.0
+2021,12,7,quad extensions,2,12.0,68.0
+2021,12,7,quad extensions,3,12.0,68.0
+2021,12,7,quad extensions,4,0.0,0.0
+2021,12,7,sumo dl,1,6.0,85.0
+2021,12,7,sumo dl,2,6.0,85.0
+2021,12,7,sumo dl,3,6.0,85.0
+2021,12,7,sumo dl,4,0.0,0.0
+2021,12,9,close grip row,1,16.0,35.0
+2021,12,9,close grip row,2,16.0,40.0
+2021,12,9,close grip row,3,15.0,40.0
+2021,12,9,close grip row,4,0.0,0.0
+2021,12,9,militärpress,1,5.0,42.5
+2021,12,9,militärpress,2,5.0,40.0
+2021,12,9,militärpress,3,6.0,37.5
+2021,12,9,militärpress,4,7.0,35.0
+2021,12,9,single leg hyper extensions,1,16.0,0.0
+2021,12,9,single leg hyper extensions,2,16.0,0.0
+2021,12,9,single leg hyper extensions,3,16.0,0.0
+2021,12,9,single leg hyper extensions,4,0.0,0.0
+2021,12,9,straight arm pulldown,1,12.0,22.0
+2021,12,9,straight arm pulldown,2,12.0,22.5
+2021,12,9,straight arm pulldown,3,10.0,22.5
+2021,12,9,straight arm pulldown,4,0.0,0.0
+2021,12,9,triceps,1,12.0,30.0
+2021,12,9,triceps,2,6.0,30.0
+2021,12,9,triceps,3,10.0,25.0
+2021,12,9,triceps,4,0.0,0.0
+2021,12,9,weighted pull ups,1,5.0,13.75
+2021,12,9,weighted pull ups,2,5.0,12.5
+2021,12,9,weighted pull ups,3,6.0,10.0
+2021,12,9,weighted pull ups,4,6.0,7.5
+2021,12,11,barbell hacksquat,1,5.0,90.0
+2021,12,11,barbell hacksquat,2,6.0,85.0
+2021,12,11,barbell hacksquat,3,5.0,85.0
+2021,12,11,barbell hacksquat,4,6.0,80.0
+2021,12,11,rdls,1,16.0,60.0
+2021,12,11,rdls,2,16.0,60.0
+2021,12,11,rdls,3,16.0,60.0
+2021,12,11,rdls,4,16.0,60.0
+2021,12,11,reverse nordics,1,16.0,0.0
+2021,12,11,reverse nordics,2,15.0,0.0
+2021,12,11,reverse nordics,3,15.0,0.0
+2021,12,11,reverse nordics,4,0.0,0.0
+2021,12,11,single leg hyper,1,22.0,0.0
+2021,12,11,single leg hyper,2,22.0,0.0
+2021,12,11,single leg hyper,3,22.0,0.0
+2021,12,11,single leg hyper,4,0.0,0.0
+2021,12,11,tibialis raise,1,22.0,0.0
+2021,12,11,tibialis raise,2,15.0,0.0
+2021,12,11,tibialis raise,3,12.0,0.0
+2021,12,11,tibialis raise,4,0.0,0.0
+2021,12,13,band curls,1,22.0,0.0
+2021,12,13,band curls,2,16.0,0.0
+2021,12,13,band curls,3,16.0,0.0
+2021,12,13,band curls,4,0.0,0.0
+2021,12,13,decline push ups,1,9.0,0.0
+2021,12,13,decline push ups,2,7.0,0.0
+2021,12,13,decline push ups,3,6.0,0.0
+2021,12,13,decline push ups,4,6.0,0.0
+2021,12,13,dips,1,6.0,0.0
+2021,12,13,dips,2,6.0,0.0
+2021,12,13,dips,3,5.0,0.0
+2021,12,13,dips,4,0.0,0.0
+2021,12,13,weighted push ups,1,6.0,20.0
+2021,12,13,weighted push ups,2,5.0,17.5
+2021,12,13,weighted push ups,3,5.0,15.0
+2021,12,13,weighted push ups,4,5.0,12.5
+2021,12,13,wide row,1,16.0,19.5
+2021,12,13,wide row,2,16.0,19.5
+2021,12,13,wide row,3,16.0,19.5
+2021,12,13,wide row,4,0.0,0.0
+2021,12,13,y raise,1,12.0,5.0
+2021,12,13,y raise,2,12.0,5.0
+2021,12,13,y raise,3,12.0,5.0
+2021,12,13,y raise,4,0.0,0.0
+2021,12,17,axelpress,1,6.0,19.5
+2021,12,17,axelpress,2,5.0,19.5
+2021,12,17,axelpress,3,5.0,19.5
+2021,12,17,axelpress,4,4.0,19.5
+2021,12,17,close grip row,1,15.0,0.0
+2021,12,17,close grip row,2,13.0,0.0
+2021,12,17,close grip row,3,12.0,0.0
+2021,12,17,close grip row,4,0.0,0.0
+2021,12,17,hyper extensions,1,28.0,0.0
+2021,12,17,hyper extensions,2,25.0,0.0
+2021,12,17,hyper extensions,3,25.0,0.0
+2021,12,17,hyper extensions,4,0.0,0.0
+2021,12,17,straight arm pulldown,1,15.0,15.0
+2021,12,17,straight arm pulldown,2,13.0,15.0
+2021,12,17,straight arm pulldown,3,13.0,15.0
+2021,12,17,straight arm pulldown,4,0.0,0.0
+2021,12,17,triceps,1,22.0,15.0
+2021,12,17,triceps,2,12.0,20.0
+2021,12,17,triceps,3,12.0,20.0
+2021,12,17,triceps,4,0.0,0.0
+2021,12,17,weighted pull ups,1,6.0,15.0
+2021,12,17,weighted pull ups,2,5.0,15.0
+2021,12,17,weighted pull ups,3,5.0,12.5
+2021,12,17,weighted pull ups,4,5.0,12.5
+2021,12,21,barbell curls,1,10.0,35.0
+2021,12,21,barbell curls,2,10.0,35.0
+2021,12,21,barbell curls,3,9.0,35.0
+2021,12,21,barbell curls,4,0.0,0.0
+2021,12,21,barbell hacksquat,1,4.0,90.0
+2021,12,21,barbell hacksquat,2,5.0,85.0
+2021,12,21,barbell hacksquat,3,5.0,85.0
+2021,12,21,barbell hacksquat,4,5.0,85.0
+2021,12,21,decline push ups,1,10.0,0.0
+2021,12,21,decline push ups,2,8.0,0.0
+2021,12,21,decline push ups,3,7.0,0.0
+2021,12,21,decline push ups,4,7.0,0.0
+2021,12,21,dips,1,6.0,0.0
+2021,12,21,dips,2,6.0,0.0
+2021,12,21,dips,3,6.0,0.0
+2021,12,21,dips,4,0.0,0.0
+2021,12,21,hyperextension,1,30.0,0.0
+2021,12,21,hyperextension,2,30.0,0.0
+2021,12,21,hyperextension,3,28.0,0.0
+2021,12,21,hyperextension,4,0.0,0.0
+2021,12,21,rdls,1,13.0,70.0
+2021,12,21,rdls,2,16.0,70.0
+2021,12,21,rdls,3,16.0,70.0
+2021,12,21,rdls,4,16.0,70.0
+2021,12,21,reverse nordics,1,14.0,0.0
+2021,12,21,reverse nordics,2,14.0,0.0
+2021,12,21,reverse nordics,3,13.0,0.0
+2021,12,21,reverse nordics,4,0.0,0.0
+2021,12,21,side lateral,1,12.0,5.0
+2021,12,21,side lateral,2,12.0,5.0
+2021,12,21,side lateral,3,8.0,5.0
+2021,12,21,side lateral,4,0.0,0.0
+2021,12,21,tibialis raise,1,20.0,0.0
+2021,12,21,tibialis raise,2,14.0,0.0
+2021,12,21,tibialis raise,3,11.0,0.0
+2021,12,21,tibialis raise,4,0.0,0.0
+2021,12,21,weighted push ups,1,5.0,20.0
+2021,12,21,weighted push ups,2,4.0,17.5
+2021,12,21,weighted push ups,3,4.0,15.0
+2021,12,21,weighted push ups,4,4.0,12.5
+2021,12,21,wide row,1,20.0,19.5
+2021,12,21,wide row,2,18.0,19.5
+2021,12,21,wide row,3,18.0,19.5
+2021,12,21,wide row,4,0.0,0.0
+2021,12,25,atg split squat,1,10.0,20.0
+2021,12,25,atg split squat,2,14.0,10.0
+2021,12,25,atg split squat,3,12.0,10.0
+2021,12,25,atg split squat,4,10.0,10.0
+2021,12,25,nordic curls,1,16.0,0.0
+2021,12,25,nordic curls,2,15.0,0.0
+2021,12,25,nordic curls,3,12.0,0.0
+2021,12,25,nordic curls,4,0.0,0.0
+2021,12,25,sumo dl,1,6.0,90.0
+2021,12,25,sumo dl,2,6.0,90.0
+2021,12,25,sumo dl,3,6.0,90.0
+2021,12,25,sumo dl,4,6.0,90.0
+2021,12,25,utfall?,1,20.0,0.0
+2021,12,25,utfall?,2,20.0,0.0
+2021,12,25,utfall?,3,20.0,0.0
+2021,12,25,utfall?,4,0.0,0.0
+2021,12,27,axelpress,1,5.0,40.0
+2021,12,27,axelpress,2,6.0,35.0
+2021,12,27,axelpress,3,5.0,35.0
+2021,12,27,axelpress,4,6.0,30.0
+2021,12,27,close grip row,1,18.0,19.5
+2021,12,27,close grip row,2,16.0,19.5
+2021,12,27,close grip row,3,14.0,19.5
+2021,12,27,close grip row,4,0.0,0.0
+2021,12,27,hyper extensions,1,25.0,10.0
+2021,12,27,hyper extensions,2,25.0,10.0
+2021,12,27,hyper extensions,3,18.0,16.0
+2021,12,27,hyper extensions,4,0.0,0.0
+2021,12,27,overhead band triceps,1,12.0,0.0
+2021,12,27,overhead band triceps,2,10.0,0.0
+2021,12,27,overhead band triceps,3,9.0,0.0
+2021,12,27,overhead band triceps,4,0.0,0.0
+2021,12,27,straight arm pulldown,1,10.0,20.0
+2021,12,27,straight arm pulldown,2,10.0,20.0
+2021,12,27,straight arm pulldown,3,15.0,15.0
+2021,12,27,straight arm pulldown,4,0.0,0.0
+2021,12,27,weighted pull ups,1,5.0,15.0
+2021,12,27,weighted pull ups,2,5.0,15.0
+2021,12,27,weighted pull ups,3,4.0,12.5
+2021,12,27,weighted pull ups,4,4.0,10.0
+2021,12,29,barbell hacksquat,1,6.0,90.0
+2021,12,29,barbell hacksquat,2,6.0,90.0
+2021,12,29,barbell hacksquat,3,5.0,90.0
+2021,12,29,barbell hacksquat,4,5.0,90.0
+2021,12,29,hyperextension,1,36.0,0.0
+2021,12,29,hyperextension,2,35.0,0.0
+2021,12,29,hyperextension,3,32.0,0.0
+2021,12,29,hyperextension,4,0.0,0.0
+2021,12,29,laying leg raise,1,20.0,0.0
+2021,12,29,laying leg raise,2,18.0,0.0
+2021,12,29,laying leg raise,3,16.0,0.0
+2021,12,29,laying leg raise,4,0.0,0.0
+2021,12,29,rdls,1,16.0,80.0
+2021,12,29,rdls,2,15.0,80.0
+2021,12,29,rdls,3,16.0,70.0
+2021,12,29,rdls,4,16.0,70.0
+2021,12,29,reverse nordics,1,16.0,0.0
+2021,12,29,reverse nordics,2,22.0,0.0
+2021,12,29,reverse nordics,3,12.0,0.0
+2021,12,29,reverse nordics,4,0.0,0.0
+2021,12,29,tibialis raise,1,18.0,0.0
+2021,12,29,tibialis raise,2,14.0,0.0
+2021,12,29,tibialis raise,3,12.0,0.0
+2021,12,29,tibialis raise,4,0.0,0.0
+2021,12,31,barbell curls,1,11.0,35.0
+2021,12,31,barbell curls,2,9.0,35.0
+2021,12,31,barbell curls,3,9.0,35.0
+2021,12,31,barbell curls,4,0.0,0.0
+2021,12,31,decline push ups,1,8.0,0.0
+2021,12,31,decline push ups,2,6.0,0.0
+2021,12,31,decline push ups,3,6.0,0.0
+2021,12,31,decline push ups,4,5.0,0.0
+2021,12,31,machine press,1,13.0,40.0
+2021,12,31,machine press,2,10.0,40.0
+2021,12,31,machine press,3,10.0,40.0
+2021,12,31,machine press,4,0.0,0.0
+2021,12,31,side lateral,1,16.0,10.0
+2021,12,31,side lateral,2,16.0,10.0
+2021,12,31,side lateral,3,16.0,10.0
+2021,12,31,side lateral,4,0.0,0.0
+2021,12,31,weighted push ups,1,5.0,20.0
+2021,12,31,weighted push ups,2,5.0,20.0
+2021,12,31,weighted push ups,3,5.0,17.5
+2021,12,31,weighted push ups,4,5.0,15.0
+2021,12,31,wide row,1,15.0,30.0
+2021,12,31,wide row,2,18.0,30.0
+2021,12,31,wide row,3,16.0,30.0
+2021,12,31,wide row,4,0.0,0.0
+2022,1,2,atg split squat,1,10.0,20.0
+2022,1,2,atg split squat,2,8.0,20.0
+2022,1,2,atg split squat,3,7.0,20.0
+2022,1,2,atg split squat,4,7.0,20.0
+2022,1,2,leg curls,1,16.0,5.0
+2022,1,2,leg curls,2,12.0,5.0
+2022,1,2,leg curls,3,12.0,5.0
+2022,1,2,leg curls,4,0.0,0.0
+2022,1,2,sumo dl,1,5.0,95.0
+2022,1,2,sumo dl,2,5.0,95.0
+2022,1,2,sumo dl,3,5.0,90.0
+2022,1,2,sumo dl,4,5.0,90.0
+2022,1,2,utfall,1,26.0,0.0
+2022,1,2,utfall,2,24.0,0.0
+2022,1,2,utfall,3,24.0,0.0
+2022,1,2,utfall,4,0.0,0.0
+2022,1,4,axelpress,1,8.0,24.75
+2022,1,4,axelpress,2,6.5,24.75
+2022,1,4,axelpress,3,7.0,22.25
+2022,1,4,axelpress,4,2.5,9.75
+2022,1,4,overhead band triceps,1,13.0,0.0
+2022,1,4,overhead band triceps,2,11.0,0.0
+2022,1,4,overhead band triceps,3,10.0,0.0
+2022,1,4,overhead band triceps,4,0.0,0.0
+2022,1,4,single arm band row,1,30.0,0.0
+2022,1,4,single arm band row,2,24.0,0.0
+2022,1,4,single arm band row,3,20.0,0.0
+2022,1,4,single arm band row,4,0.0,0.0
+2022,1,4,straight arm pulldown,1,9.0,20.0
+2022,1,4,straight arm pulldown,2,16.0,15.0
+2022,1,4,straight arm pulldown,3,15.0,15.0
+2022,1,4,straight arm pulldown,4,0.0,0.0
+2022,1,4,weighted chin ups,1,6.0,15.0
+2022,1,4,weighted chin ups,2,5.0,12.5
+2022,1,4,weighted chin ups,3,5.0,10.0
+2022,1,4,weighted chin ups,4,4.0,10.0
+2022,1,6,barbell hacksquat,1,5.0,95.0
+2022,1,6,barbell hacksquat,2,5.0,95.0
+2022,1,6,barbell hacksquat,3,5.0,95.0
+2022,1,6,barbell hacksquat,4,5.0,95.0
+2022,1,6,nordic curls,1,7.0,0.0
+2022,1,6,nordic curls,2,6.0,0.0
+2022,1,6,nordic curls,3,5.0,0.0
+2022,1,6,nordic curls,4,0.0,0.0
+2022,1,6,rdls,1,16.0,75.0
+2022,1,6,rdls,2,16.0,80.0
+2022,1,6,rdls,3,16.0,80.0
+2022,1,6,rdls,4,14.0,80.0
+2022,1,6,reverse nordics,1,12.0,0.0
+2022,1,6,reverse nordics,2,10.0,0.0
+2022,1,6,reverse nordics,3,10.0,0.0
+2022,1,6,reverse nordics,4,0.0,0.0
+2022,1,8,barbell curls,1,10.0,37.5
+2022,1,8,barbell curls,2,8.0,37.5
+2022,1,8,barbell curls,3,7.0,37.5
+2022,1,8,barbell curls,4,0.0,0.0
+2022,1,8,decline push ups,1,9.0,0.0
+2022,1,8,decline push ups,2,8.0,0.0
+2022,1,8,decline push ups,3,7.0,0.0
+2022,1,8,decline push ups,4,6.0,0.0
+2022,1,8,side lateral,1,10.0,3.75
+2022,1,8,side lateral,2,6.0,3.75
+2022,1,8,side lateral,3,10.0,0.0
+2022,1,8,side lateral,4,0.0,0.0
+2022,1,8,straight arm pulldown,1,13.0,15.0
+2022,1,8,straight arm pulldown,2,12.0,15.0
+2022,1,8,straight arm pulldown,3,10.0,15.0
+2022,1,8,straight arm pulldown,4,0.0,0.0
+2022,1,8,weighted push ups,1,5.0,20.0
+2022,1,8,weighted push ups,2,4.0,20.0
+2022,1,8,weighted push ups,3,4.0,17.5
+2022,1,8,weighted push ups,4,5.0,15.0
+2022,1,8,wide row,1,15.0,40.0
+2022,1,8,wide row,2,12.0,35.0
+2022,1,8,wide row,3,15.0,30.0
+2022,1,8,wide row,4,0.0,0.0
+2022,1,10,atg split squat,1,11.0,20.0
+2022,1,10,atg split squat,2,9.0,20.0
+2022,1,10,atg split squat,3,7.0,20.0
+2022,1,10,atg split squat,4,7.0,20.0
+2022,1,10,leg curls,1,7.0,10.0
+2022,1,10,leg curls,2,13.0,5.0
+2022,1,10,leg curls,3,11.0,5.0
+2022,1,10,leg curls,4,0.0,0.0
+2022,1,10,sissy sqauts,1,6.0,0.0
+2022,1,10,sissy sqauts,2,6.0,0.0
+2022,1,10,sissy sqauts,3,6.0,0.0
+2022,1,10,sissy sqauts,4,0.0,0.0
+2022,1,10,sumo dl,1,4.0,100.0
+2022,1,10,sumo dl,2,6.0,95.0
+2022,1,10,sumo dl,3,6.0,95.0
+2022,1,10,sumo dl,4,6.0,95.0
+2022,1,12,axelpress,1,8.0,19.5
+2022,1,12,axelpress,2,7.0,19.5
+2022,1,12,axelpress,3,5.0,19.5
+2022,1,12,axelpress,4,5.0,19.5
+2022,1,12,decline press,1,10.0,0.0
+2022,1,12,decline press,2,9.0,0.0
+2022,1,12,decline press,3,8.0,0.0
+2022,1,12,decline press,4,0.0,0.0
+2022,1,12,inverted row,1,13.0,0.0
+2022,1,12,inverted row,2,12.0,0.0
+2022,1,12,inverted row,3,12.0,0.0
+2022,1,12,inverted row,4,0.0,0.0
+2022,1,12,lat pulldown,1,15.0,50.0
+2022,1,12,lat pulldown,2,10.0,55.0
+2022,1,12,lat pulldown,3,8.0,55.0
+2022,1,12,lat pulldown,4,0.0,0.0
+2022,1,12,overhead band triceps,1,11.0,0.0
+2022,1,12,overhead band triceps,2,11.0,0.0
+2022,1,12,overhead band triceps,3,9.0,0.0
+2022,1,12,overhead band triceps,4,0.0,0.0
+2022,1,12,weighted chin ups,1,5.5,15.0
+2022,1,12,weighted chin ups,2,5.0,12.5
+2022,1,12,weighted chin ups,3,5.0,10.0
+2022,1,12,weighted chin ups,4,4.0,10.0
+2022,1,14,barbell hacksquat,1,5.0,105.0
+2022,1,14,barbell hacksquat,2,5.0,105.0
+2022,1,14,barbell hacksquat,3,5.0,105.0
+2022,1,14,barbell hacksquat,4,5.0,105.0
+2022,1,14,rdls,1,14.0,90.0
+2022,1,14,rdls,2,13.0,90.0
+2022,1,14,rdls,3,12.0,90.0
+2022,1,14,rdls,4,12.0,90.0
+2022,1,14,reverse nordics,1,18.0,0.0
+2022,1,14,reverse nordics,2,16.0,0.0
+2022,1,14,reverse nordics,3,16.0,0.0
+2022,1,14,reverse nordics,4,0.0,0.0
+2022,1,14,single leg machine curls,1,6.0,5.0
+2022,1,14,single leg machine curls,2,6.0,5.0
+2022,1,14,single leg machine curls,3,6.0,5.0
+2022,1,14,single leg machine curls,4,0.0,0.0
+2022,1,16,barbell curls,1,11.0,37.5
+2022,1,16,barbell curls,2,9.0,37.5
+2022,1,16,barbell curls,3,8.0,37.5
+2022,1,16,barbell curls,4,0.0,0.0
+2022,1,16,decline push ups,1,7.0,0.0
+2022,1,16,decline push ups,2,6.0,0.0
+2022,1,16,decline push ups,3,6.0,0.0
+2022,1,16,decline push ups,4,5.0,0.0
+2022,1,16,side lateral,1,8.0,3.75
+2022,1,16,side lateral,2,12.0,0.0
+2022,1,16,side lateral,3,14.0,0.0
+2022,1,16,side lateral,4,0.0,0.0
+2022,1,16,straight arm pulldown,1,15.0,15.0
+2022,1,16,straight arm pulldown,2,12.0,15.0
+2022,1,16,straight arm pulldown,3,11.0,15.0
+2022,1,16,straight arm pulldown,4,0.0,0.0
+2022,1,16,weighted push ups,1,5.0,20.0
+2022,1,16,weighted push ups,2,5.0,17.5
+2022,1,16,weighted push ups,3,5.0,15.0
+2022,1,16,weighted push ups,4,4.0,15.0
+2022,1,16,wide row,1,12.0,45.0
+2022,1,16,wide row,2,13.0,40.0
+2022,1,16,wide row,3,12.0,40.0
+2022,1,16,wide row,4,0.0,0.0
+2022,1,19,atg split squat,1,10.0,20.0
+2022,1,19,atg split squat,2,9.0,20.0
+2022,1,19,atg split squat,3,8.0,20.0
+2022,1,19,atg split squat,4,0.0,0.0
+2022,1,19,leg curls,1,9.0,5.0
+2022,1,19,leg curls,2,9.0,5.0
+2022,1,19,leg curls,3,7.0,5.0
+2022,1,19,leg curls,4,0.0,0.0
+2022,1,19,sissy squats,1,7.0,0.0
+2022,1,19,sissy squats,2,7.0,0.0
+2022,1,19,sissy squats,3,7.0,0.0
+2022,1,19,sissy squats,4,0.0,0.0
+2022,1,19,sumo dl,1,6.0,100.0
+2022,1,19,sumo dl,2,5.0,100.0
+2022,1,19,sumo dl,3,5.0,100.0
+2022,1,19,sumo dl,4,5.0,100.0
+2022,1,21, band triceps pushdowns,1,17.0,0.0
+2022,1,21, band triceps pushdowns,2,18.0,0.0
+2022,1,21, band triceps pushdowns,3,16.0,0.0
+2022,1,21, band triceps pushdowns,4,0.0,0.0
+2022,1,21,axelpress,1,9.0,19.5
+2022,1,21,axelpress,2,7.0,19.5
+2022,1,21,axelpress,3,5.0,19.5
+2022,1,21,axelpress,4,5.0,19.5
+2022,1,21,decline press,1,9.0,0.0
+2022,1,21,decline press,2,8.0,0.0
+2022,1,21,decline press,3,7.0,0.0
+2022,1,21,decline press,4,0.0,0.0
+2022,1,21,inverted row,1,14.0,0.0
+2022,1,21,inverted row,2,13.0,0.0
+2022,1,21,inverted row,3,13.0,0.0
+2022,1,21,inverted row,4,0.0,0.0
+2022,1,21,lat pulldown,1,12.0,55.0
+2022,1,21,lat pulldown,2,10.0,55.0
+2022,1,21,lat pulldown,3,8.0,55.0
+2022,1,21,lat pulldown,4,0.0,0.0
+2022,1,21,weighted chin ups,1,6.0,15.0
+2022,1,21,weighted chin ups,2,5.0,15.0
+2022,1,21,weighted chin ups,3,5.0,12.5
+2022,1,21,weighted chin ups,4,5.0,10.0
+2022,1,23,barbell hacksquat,1,6.0,100.0
+2022,1,23,barbell hacksquat,2,5.0,100.0
+2022,1,23,barbell hacksquat,3,5.0,100.0
+2022,1,23,barbell hacksquat,4,5.0,100.0
+2022,1,23,rdls,1,14.0,90.0
+2022,1,23,rdls,2,14.0,90.0
+2022,1,23,rdls,3,14.0,90.0
+2022,1,23,rdls,4,0.0,0.0
+2022,1,23,reverse nordics,1,16.0,0.0
+2022,1,23,reverse nordics,2,12.0,0.0
+2022,1,23,reverse nordics,3,12.0,0.0
+2022,1,23,reverse nordics,4,0.0,0.0
+2022,1,23,single leg machine curls,1,9.0,5.0
+2022,1,23,single leg machine curls,2,7.0,5.0
+2022,1,23,single leg machine curls,3,6.0,5.0
+2022,1,23,single leg machine curls,4,0.0,0.0
+2022,1,25,barbell curls,1,9.0,40.0
+2022,1,25,barbell curls,2,8.0,40.0
+2022,1,25,barbell curls,3,7.0,40.0
+2022,1,25,barbell curls,4,0.0,0.0
+2022,1,25,decline push ups,1,8.0,0.0
+2022,1,25,decline push ups,2,6.0,0.0
+2022,1,25,decline push ups,3,6.0,0.0
+2022,1,25,decline push ups,4,5.0,0.0
+2022,1,25,side lateral,1,9.0,3.75
+2022,1,25,side lateral,2,13.0,0.0
+2022,1,25,side lateral,3,13.0,0.0
+2022,1,25,side lateral,4,0.0,0.0
+2022,1,25,straight arm pulldown,1,14.0,20.0
+2022,1,25,straight arm pulldown,2,14.0,20.0
+2022,1,25,straight arm pulldown,3,12.0,20.0
+2022,1,25,straight arm pulldown,4,0.0,0.0
+2022,1,25,weighted push ups,1,6.0,20.0
+2022,1,25,weighted push ups,2,5.0,17.5
+2022,1,25,weighted push ups,3,6.0,15.0
+2022,1,25,weighted push ups,4,4.0,15.0
+2022,1,25,wide row,1,14.0,45.0
+2022,1,25,wide row,2,13.0,45.0
+2022,1,25,wide row,3,13.0,45.0
+2022,1,25,wide row,4,0.0,0.0
+2022,1,28,atg split squat,1,11.0,20.0
+2022,1,28,atg split squat,2,10.0,20.0
+2022,1,28,atg split squat,3,9.0,20.0
+2022,1,28,atg split squat,4,0.0,0.0
+2022,1,28,leg curls,1,10.0,5.0
+2022,1,28,leg curls,2,7.0,5.0
+2022,1,28,leg curls,3,7.0,5.0
+2022,1,28,leg curls,4,0.0,0.0
+2022,1,28,sissy squats,1,7.0,0.0
+2022,1,28,sissy squats,2,7.0,0.0
+2022,1,28,sissy squats,3,7.0,0.0
+2022,1,28,sissy squats,4,0.0,0.0
+2022,1,28,sumo dl,1,6.0,105.0
+2022,1,28,sumo dl,2,6.0,105.0
+2022,1,28,sumo dl,3,6.0,105.0
+2022,1,28,sumo dl,4,5.0,105.0
+2022,1,30, band triceps pushdowns,1,16.0,0.0
+2022,1,30, band triceps pushdowns,2,16.0,0.0
+2022,1,30, band triceps pushdowns,3,16.0,0.0
+2022,1,30, band triceps pushdowns,4,0.0,0.0
+2022,1,30,axelpress,1,6.0,22.0
+2022,1,30,axelpress,2,4.0,22.0
+2022,1,30,axelpress,3,6.0,19.5
+2022,1,30,axelpress,4,5.0,19.5
+2022,1,30,decline press,1,11.0,0.0
+2022,1,30,decline press,2,9.0,0.0
+2022,1,30,decline press,3,7.0,0.0
+2022,1,30,decline press,4,0.0,0.0
+2022,1,30,inverted row,1,15.0,0.0
+2022,1,30,inverted row,2,14.0,0.0
+2022,1,30,inverted row,3,12.0,0.0
+2022,1,30,inverted row,4,0.0,0.0
+2022,1,30,lat pulldown,1,13.0,55.0
+2022,1,30,lat pulldown,2,10.0,55.0
+2022,1,30,lat pulldown,3,8.0,55.0
+2022,1,30,lat pulldown,4,0.0,0.0
+2022,1,30,weighted chin ups,1,6.0,16.25
+2022,1,30,weighted chin ups,2,5.0,15.0
+2022,1,30,weighted chin ups,3,5.0,13.75
+2022,1,30,weighted chin ups,4,5.0,12.5
+2022,2,1,barbell hacksquat,1,5.0,110.0
+2022,2,1,barbell hacksquat,2,5.0,110.0
+2022,2,1,barbell hacksquat,3,5.0,110.0
+2022,2,1,barbell hacksquat,4,5.0,110.0
+2022,2,1,rdls,1,11.0,95.0
+2022,2,1,rdls,2,10.0,95.0
+2022,2,1,rdls,3,10.0,95.0
+2022,2,1,rdls,4,0.0,0.0
+2022,2,1,reverse nordics,1,12.0,0.0
+2022,2,1,reverse nordics,2,12.0,0.0
+2022,2,1,reverse nordics,3,11.0,0.0
+2022,2,1,reverse nordics,4,0.0,0.0
+2022,2,1,single leg machine curls,1,10.0,5.0
+2022,2,1,single leg machine curls,2,8.0,5.0
+2022,2,1,single leg machine curls,3,8.0,5.0
+2022,2,1,single leg machine curls,4,0.0,0.0
+2022,2,3,barbell curls,1,10.0,40.0
+2022,2,3,barbell curls,2,9.0,40.0
+2022,2,3,barbell curls,3,7.0,40.0
+2022,2,3,barbell curls,4,0.0,0.0
+2022,2,3,decline push ups,1,7.0,0.0
+2022,2,3,decline push ups,2,7.0,0.0
+2022,2,3,decline push ups,3,6.0,0.0
+2022,2,3,decline push ups,4,5.0,0.0
+2022,2,3,side lateral,1,15.0,0.0
+2022,2,3,side lateral,2,14.0,0.0
+2022,2,3,side lateral,3,9.0,0.0
+2022,2,3,side lateral,4,0.0,0.0
+2022,2,3,straight arm pulldown,1,16.0,20.0
+2022,2,3,straight arm pulldown,2,13.0,20.0
+2022,2,3,straight arm pulldown,3,10.0,20.0
+2022,2,3,straight arm pulldown,4,0.0,0.0
+2022,2,3,weighted push ups,1,5.0,20.0
+2022,2,3,weighted push ups,2,5.0,17.5
+2022,2,3,weighted push ups,3,5.0,15.0
+2022,2,3,weighted push ups,4,5.0,12.5
+2022,2,3,wide row,1,12.0,50.0
+2022,2,3,wide row,2,12.0,50.0
+2022,2,3,wide row,3,10.0,50.0
+2022,2,3,wide row,4,0.0,0.0
+2022,2,6,atg split squat,1,12.0,20.0
+2022,2,6,atg split squat,2,10.0,20.0
+2022,2,6,atg split squat,3,9.0,20.0
+2022,2,6,atg split squat,4,0.0,0.0
+2022,2,6,leg curls,1,10.0,5.0
+2022,2,6,leg curls,2,9.0,5.0
+2022,2,6,leg curls,3,7.0,5.0
+2022,2,6,leg curls,4,0.0,0.0
+2022,2,6,sissy squats,1,8.0,0.0
+2022,2,6,sissy squats,2,7.0,0.0
+2022,2,6,sissy squats,3,7.0,0.0
+2022,2,6,sissy squats,4,0.0,0.0
+2022,2,6,sumo dl,1,5.0,110.0
+2022,2,6,sumo dl,2,5.0,110.0
+2022,2,6,sumo dl,3,5.0,110.0
+2022,2,6,sumo dl,4,5.0,110.0
+2022,2,7, band triceps pushdowns,1,18.0,0.0
+2022,2,7, band triceps pushdowns,2,16.0,0.0
+2022,2,7, band triceps pushdowns,3,16.0,0.0
+2022,2,7, band triceps pushdowns,4,0.0,0.0
+2022,2,7,axelpress,1,6.0,22.0
+2022,2,7,axelpress,2,5.0,22.0
+2022,2,7,axelpress,3,6.0,19.5
+2022,2,7,axelpress,4,5.0,19.5
+2022,2,7,decline press,1,12.0,0.0
+2022,2,7,decline press,2,10.0,0.0
+2022,2,7,decline press,3,8.0,0.0
+2022,2,7,decline press,4,0.0,0.0
+2022,2,7,inverted row,1,13.0,0.0
+2022,2,7,inverted row,2,13.0,0.0
+2022,2,7,inverted row,3,12.0,0.0
+2022,2,7,inverted row,4,0.0,0.0
+2022,2,7,lat pulldown,1,10.0,60.0
+2022,2,7,lat pulldown,2,8.0,60.0
+2022,2,7,lat pulldown,3,8.0,55.0
+2022,2,7,lat pulldown,4,0.0,0.0
+2022,2,7,weighted chin ups,1,6.0,16.25
+2022,2,7,weighted chin ups,2,5.0,16.25
+2022,2,7,weighted chin ups,3,5.0,13.75
+2022,2,7,weighted chin ups,4,5.0,12.5
+2022,2,9,barbell hacksquat,1,5.0,112.5
+2022,2,9,barbell hacksquat,2,5.0,112.5
+2022,2,9,barbell hacksquat,3,5.0,110.0
+2022,2,9,barbell hacksquat,4,5.0,110.0
+2022,2,9,rdls,1,12.0,95.0
+2022,2,9,rdls,2,11.0,95.0
+2022,2,9,rdls,3,10.0,95.0
+2022,2,9,rdls,4,0.0,0.0
+2022,2,9,reverse nordics,1,13.0,5.0
+2022,2,9,reverse nordics,2,12.0,0.0
+2022,2,9,reverse nordics,3,11.0,0.0
+2022,2,9,reverse nordics,4,0.0,0.0
+2022,2,9,single leg machine curls,1,10.0,5.0
+2022,2,9,single leg machine curls,2,9.0,5.0
+2022,2,9,single leg machine curls,3,9.0,5.0
+2022,2,9,single leg machine curls,4,0.0,0.0
+2022,2,13,barbell curls,1,8.0,42.5
+2022,2,13,barbell curls,2,6.0,42.5
+2022,2,13,barbell curls,3,5.0,42.5
+2022,2,13,barbell curls,4,0.0,0.0
+2022,2,13,decline push ups,1,9.0,0.0
+2022,2,13,decline push ups,2,6.0,0.0
+2022,2,13,decline push ups,3,6.0,0.0
+2022,2,13,decline push ups,4,5.0,0.0
+2022,2,13,side lateral,1,16.0,0.0
+2022,2,13,side lateral,2,16.0,0.0
+2022,2,13,side lateral,3,16.0,0.0
+2022,2,13,side lateral,4,0.0,0.0
+2022,2,13,straight arm pulldown,1,14.0,20.0
+2022,2,13,straight arm pulldown,2,12.0,20.0
+2022,2,13,straight arm pulldown,3,10.0,20.0
+2022,2,13,straight arm pulldown,4,0.0,0.0
+2022,2,13,weighted push ups,1,4.0,20.0
+2022,2,13,weighted push ups,2,6.0,15.0
+2022,2,13,weighted push ups,3,5.0,15.0
+2022,2,13,weighted push ups,4,6.0,12.5
+2022,2,13,wide row,1,10.0,55.0
+2022,2,13,wide row,2,10.0,55.0
+2022,2,13,wide row,3,8.0,55.0
+2022,2,13,wide row,4,0.0,0.0
+2022,2,15,atg split squat,1,6.0,29.0
+2022,2,15,atg split squat,2,6.0,29.0
+2022,2,15,atg split squat,3,5.0,29.0
+2022,2,15,atg split squat,4,0.0,0.0
+2022,2,15,leg curls,1,11.0,5.0
+2022,2,15,leg curls,2,9.0,5.0
+2022,2,15,leg curls,3,9.0,5.0
+2022,2,15,leg curls,4,0.0,0.0
+2022,2,15,sissy squats,1,9.0,0.0
+2022,2,15,sissy squats,2,8.0,0.0
+2022,2,15,sissy squats,3,8.0,0.0
+2022,2,15,sissy squats,4,0.0,0.0
+2022,2,15,sumo dl,1,5.0,110.0
+2022,2,15,sumo dl,2,6.0,105.0
+2022,2,15,sumo dl,3,6.0,105.0
+2022,2,15,sumo dl,4,6.0,105.0
+2022,2,18, band triceps pushdowns,1,16.0,0.0
+2022,2,18, band triceps pushdowns,2,15.0,0.0
+2022,2,18, band triceps pushdowns,3,14.0,0.0
+2022,2,18, band triceps pushdowns,4,0.0,0.0
+2022,2,18,axelpress,1,6.0,22.0
+2022,2,18,axelpress,2,5.0,22.0
+2022,2,18,axelpress,3,6.0,19.5
+2022,2,18,axelpress,4,5.0,19.5
+2022,2,18,decline press,1,12.0,0.0
+2022,2,18,decline press,2,10.0,0.0
+2022,2,18,decline press,3,9.0,0.0
+2022,2,18,decline press,4,0.0,0.0
+2022,2,18,inverted row,1,12.0,0.0
+2022,2,18,inverted row,2,12.0,0.0
+2022,2,18,inverted row,3,12.0,0.0
+2022,2,18,inverted row,4,0.0,0.0
+2022,2,18,lat pulldown,1,10.0,60.0
+2022,2,18,lat pulldown,2,8.0,60.0
+2022,2,18,lat pulldown,3,10.0,55.0
+2022,2,18,lat pulldown,4,0.0,0.0
+2022,2,18,weighted pull ups,1,5.0,16.25
+2022,2,18,weighted pull ups,2,5.0,15.0
+2022,2,18,weighted pull ups,3,5.0,13.75
+2022,2,18,weighted pull ups,4,5.0,12.5
+2022,2,20,barbell hacksquat,1,5.0,112.5
+2022,2,20,barbell hacksquat,2,4.0,112.5
+2022,2,20,barbell hacksquat,3,4.0,110.0
+2022,2,20,barbell hacksquat,4,4.0,110.0
+2022,2,20,rdls,1,14.0,95.0
+2022,2,20,rdls,2,12.0,95.0
+2022,2,20,rdls,3,11.0,95.0
+2022,2,20,rdls,4,0.0,0.0
+2022,2,20,reverse nordics,1,16.0,0.0
+2022,2,20,reverse nordics,2,12.0,0.0
+2022,2,20,reverse nordics,3,11.0,0.0
+2022,2,20,reverse nordics,4,0.0,0.0
+2022,2,20,single leg machine curls,1,10.0,5.0
+2022,2,20,single leg machine curls,2,9.0,5.0
+2022,2,20,single leg machine curls,3,7.0,5.0
+2022,2,20,single leg machine curls,4,0.0,0.0
+2022,2,22,barbell curls,1,8.0,42.5
+2022,2,22,barbell curls,2,7.0,42.5
+2022,2,22,barbell curls,3,6.0,42.5
+2022,2,22,barbell curls,4,0.0,0.0
+2022,2,22,decline push ups,1,9.0,0.0
+2022,2,22,decline push ups,2,6.0,0.0
+2022,2,22,decline push ups,3,6.0,0.0
+2022,2,22,decline push ups,4,6.0,0.0
+2022,2,22,side lateral,1,18.0,0.0
+2022,2,22,side lateral,2,18.0,0.0
+2022,2,22,side lateral,3,18.0,0.0
+2022,2,22,side lateral,4,0.0,0.0
+2022,2,22,straight arm pulldown,1,16.0,20.0
+2022,2,22,straight arm pulldown,2,14.0,20.0
+2022,2,22,straight arm pulldown,3,12.0,20.0
+2022,2,22,straight arm pulldown,4,0.0,0.0
+2022,2,22,weighted push ups,1,5.0,20.0
+2022,2,22,weighted push ups,2,5.0,20.0
+2022,2,22,weighted push ups,3,5.0,17.5
+2022,2,22,weighted push ups,4,4.0,15.0
+2022,2,22,wide row,1,12.0,55.0
+2022,2,22,wide row,2,11.0,55.0
+2022,2,22,wide row,3,10.0,55.0
+2022,2,22,wide row,4,0.0,0.0
+2022,2,24,atg split squat,1,7.0,29.0
+2022,2,24,atg split squat,2,7.0,29.0
+2022,2,24,atg split squat,3,7.0,29.0
+2022,2,24,atg split squat,4,0.0,0.0
+2022,2,24,leg curls,1,12.0,5.0
+2022,2,24,leg curls,2,10.0,5.0
+2022,2,24,leg curls,3,8.0,5.0
+2022,2,24,leg curls,4,0.0,0.0
+2022,2,24,sissy squats,1,9.0,0.0
+2022,2,24,sissy squats,2,8.0,0.0
+2022,2,24,sissy squats,3,8.0,0.0
+2022,2,24,sissy squats,4,0.0,0.0
+2022,2,24,sumo dl,1,6.0,110.0
+2022,2,24,sumo dl,2,5.0,110.0
+2022,2,24,sumo dl,3,5.0,110.0
+2022,2,24,sumo dl,4,5.0,110.0
+2022,2,26, band triceps pushdowns,1,16.0,0.0
+2022,2,26, band triceps pushdowns,2,15.0,0.0
+2022,2,26, band triceps pushdowns,3,14.0,0.0
+2022,2,26, band triceps pushdowns,4,0.0,0.0
+2022,2,26,axelpress,1,6.0,22.0
+2022,2,26,axelpress,2,6.0,22.0
+2022,2,26,axelpress,3,4.0,22.0
+2022,2,26,axelpress,4,6.0,19.5
+2022,2,26,decline press,1,11.0,0.0
+2022,2,26,decline press,2,9.0,0.0
+2022,2,26,decline press,3,8.0,0.0
+2022,2,26,decline press,4,0.0,0.0
+2022,2,26,lat pulldown,1,12.0,60.0
+2022,2,26,lat pulldown,2,9.0,60.0
+2022,2,26,lat pulldown,3,8.0,60.0
+2022,2,26,lat pulldown,4,0.0,0.0
+2022,2,26,ring rows,1,11.0,0.0
+2022,2,26,ring rows,2,11.0,0.0
+2022,2,26,ring rows,3,9.0,0.0
+2022,2,26,ring rows,4,0.0,0.0
+2022,2,26,weighted pull ups,1,5.0,16.25
+2022,2,26,weighted pull ups,2,5.0,15.0
+2022,2,26,weighted pull ups,3,4.0,12.5
+2022,2,26,weighted pull ups,4,5.0,10.0
+2022,2,28,barbell hacksquat,1,5.0,110.0
+2022,2,28,barbell hacksquat,2,4.0,110.0
+2022,2,28,barbell hacksquat,3,4.0,105.0
+2022,2,28,barbell hacksquat,4,4.0,105.0
+2022,2,28,rdls,1,14.0,95.0
+2022,2,28,rdls,2,12.0,95.0
+2022,2,28,rdls,3,12.0,95.0
+2022,2,28,rdls,4,0.0,0.0
+2022,2,28,reverse nordics,1,14.0,0.0
+2022,2,28,reverse nordics,2,12.0,0.0
+2022,2,28,reverse nordics,3,20.0,0.0
+2022,2,28,reverse nordics,4,0.0,0.0
+2022,2,28,single leg machine curls,1,11.0,5.0
+2022,2,28,single leg machine curls,2,9.0,5.0
+2022,2,28,single leg machine curls,3,8.0,5.0
+2022,2,28,single leg machine curls,4,0.0,0.0
+2022,3,2,barbell curls,1,10.0,42.5
+2022,3,2,barbell curls,2,8.0,42.5
+2022,3,2,barbell curls,3,7.0,42.5
+2022,3,2,barbell curls,4,0.0,0.0
+2022,3,2,decline push ups,1,9.0,0.0
+2022,3,2,decline push ups,2,7.0,0.0
+2022,3,2,decline push ups,3,6.0,0.0
+2022,3,2,decline push ups,4,6.0,0.0
+2022,3,2,ring push ups,1,6.0,5.0
+2022,3,2,ring push ups,2,5.0,5.0
+2022,3,2,ring push ups,3,5.0,5.0
+2022,3,2,ring push ups,4,5.0,0.0
+2022,3,2,side lateral,1,21.0,0.0
+2022,3,2,side lateral,2,21.0,0.0
+2022,3,2,side lateral,3,20.0,0.0
+2022,3,2,side lateral,4,0.0,0.0
+2022,3,2,straight arm pulldown,1,16.0,20.0
+2022,3,2,straight arm pulldown,2,14.0,20.0
+2022,3,2,straight arm pulldown,3,12.0,20.0
+2022,3,2,straight arm pulldown,4,0.0,0.0
+2022,3,2,wide row,1,12.0,55.0
+2022,3,2,wide row,2,11.0,55.0
+2022,3,2,wide row,3,10.0,55.0
+2022,3,2,wide row,4,0.0,0.0
+2022,3,4,atg split squat,1,5.0,34.0
+2022,3,4,atg split squat,2,7.0,29.0
+2022,3,4,atg split squat,3,7.0,29.0
+2022,3,4,atg split squat,4,0.0,0.0
+2022,3,4,sumo dl,1,5.0,112.5
+2022,3,4,sumo dl,2,5.0,112.5
+2022,3,4,sumo dl,3,5.0,112.5
+2022,3,4,sumo dl,4,5.0,110.0
+2022,3,6, band triceps pushdowns,1,16.0,0.0
+2022,3,6, band triceps pushdowns,2,15.0,0.0
+2022,3,6, band triceps pushdowns,3,15.0,0.0
+2022,3,6, band triceps pushdowns,4,0.0,0.0
+2022,3,6,axelpress,1,6.0,22.0
+2022,3,6,axelpress,2,5.0,22.0
+2022,3,6,axelpress,3,7.0,19.5
+2022,3,6,axelpress,4,6.0,19.5
+2022,3,6,decline press,1,11.0,0.0
+2022,3,6,decline press,2,10.0,0.0
+2022,3,6,decline press,3,8.0,0.0
+2022,3,6,decline press,4,0.0,0.0
+2022,3,6,lat pulldown,1,10.0,65.0
+2022,3,6,lat pulldown,2,8.0,65.0
+2022,3,6,lat pulldown,3,7.0,65.0
+2022,3,6,lat pulldown,4,0.0,0.0
+2022,3,6,ring rows,1,11.0,0.0
+2022,3,6,ring rows,2,11.0,0.0
+2022,3,6,ring rows,3,11.0,0.0
+2022,3,6,ring rows,4,0.0,0.0
+2022,3,6,weighted pull ups,1,5.0,16.25
+2022,3,6,weighted pull ups,2,5.0,13.75
+2022,3,6,weighted pull ups,3,4.0,12.5
+2022,3,6,weighted pull ups,4,5.0,10.0
+2022,3,8,barbell hacksquat,1,5.0,110.0
+2022,3,8,barbell hacksquat,2,5.0,110.0
+2022,3,8,barbell hacksquat,3,5.0,110.0
+2022,3,8,barbell hacksquat,4,5.0,110.0
+2022,3,8,rdls,1,12.0,100.0
+2022,3,8,rdls,2,11.0,100.0
+2022,3,8,rdls,3,11.0,100.0
+2022,3,8,rdls,4,0.0,0.0
+2022,3,8,reverse nordics,1,16.0,0.0
+2022,3,8,reverse nordics,2,14.0,0.0
+2022,3,8,reverse nordics,3,12.0,0.0
+2022,3,8,reverse nordics,4,0.0,0.0
+2022,3,8,single leg machine curls,1,11.0,5.0
+2022,3,8,single leg machine curls,2,9.0,5.0
+2022,3,8,single leg machine curls,3,8.0,5.0
+2022,3,8,single leg machine curls,4,0.0,0.0
+2022,3,10,barbell curls,1,9.0,45.0
+2022,3,10,barbell curls,2,7.0,45.0
+2022,3,10,barbell curls,3,6.0,45.0
+2022,3,10,barbell curls,4,0.0,0.0
+2022,3,10,decline push ups,1,9.0,0.0
+2022,3,10,decline push ups,2,7.0,0.0
+2022,3,10,decline push ups,3,6.0,0.0
+2022,3,10,decline push ups,4,6.0,0.0
+2022,3,10,ring push ups,1,5.0,10.0
+2022,3,10,ring push ups,2,5.0,10.0
+2022,3,10,ring push ups,3,5.0,7.5
+2022,3,10,ring push ups,4,5.0,5.0
+2022,3,10,side lateral,1,20.0,0.0
+2022,3,10,side lateral,2,20.0,0.0
+2022,3,10,side lateral,3,18.0,0.0
+2022,3,10,side lateral,4,0.0,0.0
+2022,3,10,straight arm pulldown,1,10.0,0.0
+2022,3,10,straight arm pulldown,2,10.0,0.0
+2022,3,10,straight arm pulldown,3,9.0,0.0
+2022,3,10,straight arm pulldown,4,0.0,0.0
+2022,3,10,wide row,1,14.0,55.0
+2022,3,10,wide row,2,12.0,55.0
+2022,3,10,wide row,3,12.0,55.0
+2022,3,10,wide row,4,0.0,0.0
+2022,3,12,atg split squat,1,6.0,34.0
+2022,3,12,atg split squat,2,6.0,31.5
+2022,3,12,atg split squat,3,6.0,31.5
+2022,3,12,atg split squat,4,0.0,0.0
+2022,3,12,leg curls,1,10.0,5.0
+2022,3,12,leg curls,2,9.0,5.0
+2022,3,12,leg curls,3,8.0,5.0
+2022,3,12,leg curls,4,0.0,0.0
+2022,3,12,sissy squats,1,12.0,0.0
+2022,3,12,sissy squats,2,11.0,0.0
+2022,3,12,sissy squats,3,10.0,0.0
+2022,3,12,sissy squats,4,0.0,0.0
+2022,3,12,sumo dl,1,5.0,112.5
+2022,3,12,sumo dl,2,5.0,112.5
+2022,3,12,sumo dl,3,5.0,112.5
+2022,3,12,sumo dl,4,5.0,112.5
+2022,3,14, band triceps pushdowns,1,0.0,0.0
+2022,3,14, band triceps pushdowns,2,0.0,0.0
+2022,3,14, band triceps pushdowns,3,0.0,0.0
+2022,3,14, band triceps pushdowns,4,0.0,0.0
+2022,3,14,axelpress,1,8.0,0.0
+2022,3,14,axelpress,2,7.0,0.0
+2022,3,14,axelpress,3,7.0,0.0
+2022,3,14,axelpress,4,7.0,0.0
+2022,3,14,decline press,1,0.0,0.0
+2022,3,14,decline press,2,0.0,0.0
+2022,3,14,decline press,3,0.0,0.0
+2022,3,14,decline press,4,0.0,0.0
+2022,3,14,lat pulldown,1,0.0,0.0
+2022,3,14,lat pulldown,2,0.0,0.0
+2022,3,14,lat pulldown,3,0.0,0.0
+2022,3,14,lat pulldown,4,0.0,0.0
+2022,3,14,ring rows,1,0.0,0.0
+2022,3,14,ring rows,2,0.0,0.0
+2022,3,14,ring rows,3,0.0,0.0
+2022,3,14,ring rows,4,0.0,0.0
+2022,3,14,weighted pull ups,1,12.0,0.0
+2022,3,14,weighted pull ups,2,8.0,0.0
+2022,3,14,weighted pull ups,3,6.0,0.0
+2022,3,14,weighted pull ups,4,6.0,0.0
+2022,3,17,barbell hacksquat,1,5.0,112.5
+2022,3,17,barbell hacksquat,2,5.0,112.5
+2022,3,17,barbell hacksquat,3,5.0,110.0
+2022,3,17,barbell hacksquat,4,5.0,110.0
+2022,3,17,rdls,1,13.0,100.0
+2022,3,17,rdls,2,12.0,100.0
+2022,3,17,rdls,3,12.0,100.0
+2022,3,17,rdls,4,0.0,0.0
+2022,3,17,reverse nordics,1,14.0,0.0
+2022,3,17,reverse nordics,2,14.0,0.0
+2022,3,17,reverse nordics,3,12.0,0.0
+2022,3,17,reverse nordics,4,0.0,0.0
+2022,3,17,single leg machine curls,1,11.0,5.0
+2022,3,17,single leg machine curls,2,9.0,5.0
+2022,3,17,single leg machine curls,3,6.0,5.0
+2022,3,17,single leg machine curls,4,0.0,0.0
+2022,3,20,barbell curls,1,9.0,45.0
+2022,3,20,barbell curls,2,7.0,45.0
+2022,3,20,barbell curls,3,7.0,45.0
+2022,3,20,barbell curls,4,0.0,0.0
+2022,3,20,decline push ups,1,9.0,0.0
+2022,3,20,decline push ups,2,7.0,0.0
+2022,3,20,decline push ups,3,6.0,0.0
+2022,3,20,decline push ups,4,6.0,0.0
+2022,3,20,inverted delt row,1,16.0,5.0
+2022,3,20,inverted delt row,2,12.0,7.0
+2022,3,20,inverted delt row,3,12.0,7.0
+2022,3,20,inverted delt row,4,0.0,0.0
+2022,3,20,ring push ups,1,5.0,10.0
+2022,3,20,ring push ups,2,5.0,10.0
+2022,3,20,ring push ups,3,4.0,7.5
+2022,3,20,ring push ups,4,5.0,5.0
+2022,3,20,side lateral,1,20.0,0.0
+2022,3,20,side lateral,2,16.0,0.0
+2022,3,20,side lateral,3,16.0,0.0
+2022,3,20,side lateral,4,0.0,0.0
+2022,3,20,straight arm pulldown,1,8.0,25.0
+2022,3,20,straight arm pulldown,2,14.0,20.0
+2022,3,20,straight arm pulldown,3,12.0,20.0
+2022,3,20,straight arm pulldown,4,0.0,0.0
+2022,3,22,atg split squat,1,6.0,31.5
+2022,3,22,atg split squat,2,6.0,31.5
+2022,3,22,atg split squat,3,5.0,31.5
+2022,3,22,atg split squat,4,0.0,0.0
+2022,3,22,leg curls,1,10.0,5.0
+2022,3,22,leg curls,2,9.0,5.0
+2022,3,22,leg curls,3,8.0,5.0
+2022,3,22,leg curls,4,0.0,0.0
+2022,3,22,regular dl,1,5.0,90.0
+2022,3,22,regular dl,2,5.0,100.0
+2022,3,22,regular dl,3,5.0,100.0
+2022,3,22,regular dl,4,5.0,100.0
+2022,3,22,sissy squats,1,12.0,0.0
+2022,3,22,sissy squats,2,12.0,0.0
+2022,3,22,sissy squats,3,12.0,0.0
+2022,3,22,sissy squats,4,0.0,0.0
+2022,3,25, band triceps extensions,1,13.0,0.0
+2022,3,25, band triceps extensions,2,9.0,0.0
+2022,3,25, band triceps extensions,3,9.0,0.0
+2022,3,25, band triceps extensions,4,0.0,0.0
+2022,3,25,axelpress,1,7.0,20.0
+2022,3,25,axelpress,2,6.0,20.75
+2022,3,25,axelpress,3,4.0,20.75
+2022,3,25,axelpress,4,4.0,20.75
+2022,3,25,decline press,1,12.0,0.0
+2022,3,25,decline press,2,10.0,0.0
+2022,3,25,decline press,3,8.0,0.0
+2022,3,25,decline press,4,0.0,0.0
+2022,3,25,lat pulldown,1,8.0,65.0
+2022,3,25,lat pulldown,2,8.0,60.0
+2022,3,25,lat pulldown,3,10.0,55.0
+2022,3,25,lat pulldown,4,0.0,0.0
+2022,3,25,ring rows,1,12.0,0.0
+2022,3,25,ring rows,2,11.0,0.0
+2022,3,25,ring rows,3,10.0,0.0
+2022,3,25,ring rows,4,0.0,0.0
+2022,3,25,weighted pull ups,1,4.0,13.75
+2022,3,25,weighted pull ups,2,5.0,11.25
+2022,3,25,weighted pull ups,3,4.0,8.75
+2022,3,25,weighted pull ups,4,4.0,7.5
+2022,3,27,beltsquat,1,6.0,45.0
+2022,3,27,beltsquat,2,10.0,45.0
+2022,3,27,beltsquat,3,7.0,45.0
+2022,3,27,beltsquat,4,7.0,45.0
+2022,3,27,rdls,1,12.0,95.0
+2022,3,27,rdls,2,12.0,90.0
+2022,3,27,rdls,3,12.0,90.0
+2022,3,27,rdls,4,0.0,0.0
+2022,3,27,reverse nordics,1,16.0,0.0
+2022,3,27,reverse nordics,2,14.0,0.0
+2022,3,27,reverse nordics,3,13.0,0.0
+2022,3,27,reverse nordics,4,0.0,0.0
+2022,3,27,single leg machine curls,1,11.0,5.0
+2022,3,27,single leg machine curls,2,11.0,5.0
+2022,3,27,single leg machine curls,3,9.0,5.0
+2022,3,27,single leg machine curls,4,0.0,0.0
+2022,3,29,barbell curls,1,9.0,45.0
+2022,3,29,barbell curls,2,7.0,45.0
+2022,3,29,barbell curls,3,6.0,45.0
+2022,3,29,barbell curls,4,0.0,0.0
+2022,3,29,decline push ups,1,10.0,0.0
+2022,3,29,decline push ups,2,7.0,0.0
+2022,3,29,decline push ups,3,6.0,0.0
+2022,3,29,decline push ups,4,6.0,0.0
+2022,3,29,inverted delt row,1,13.0,0.0
+2022,3,29,inverted delt row,2,12.0,0.0
+2022,3,29,inverted delt row,3,12.0,0.0
+2022,3,29,inverted delt row,4,0.0,0.0
+2022,3,29,ring push ups,1,5.0,7.5
+2022,3,29,ring push ups,2,5.0,6.25
+2022,3,29,ring push ups,3,5.0,5.0
+2022,3,29,ring push ups,4,4.0,3.75
+2022,3,29,side lateral,1,24.0,0.0
+2022,3,29,side lateral,2,22.0,0.0
+2022,3,29,side lateral,3,22.0,0.0
+2022,3,29,side lateral,4,0.0,0.0
+2022,3,29,straight arm pulldown,1,3.0,25.0
+2022,3,29,straight arm pulldown,2,12.0,20.0
+2022,3,29,straight arm pulldown,3,10.0,20.0
+2022,3,29,straight arm pulldown,4,0.0,0.0
+2022,3,31,atg split squat,1,6.0,31.5
+2022,3,31,atg split squat,2,6.0,31.5
+2022,3,31,atg split squat,3,6.0,31.5
+2022,3,31,atg split squat,4,0.0,0.0
+2022,3,31,leg curls,1,9.0,5.0
+2022,3,31,leg curls,2,8.0,5.0
+2022,3,31,leg curls,3,8.0,5.0
+2022,3,31,leg curls,4,0.0,0.0
+2022,3,31,regular dl,1,6.0,105.0
+2022,3,31,regular dl,2,6.0,105.0
+2022,3,31,regular dl,3,5.0,105.0
+2022,3,31,regular dl,4,6.0,105.0
+2022,4,2, band triceps extensions,1,10.0,0.0
+2022,4,2, band triceps extensions,2,8.0,0.0
+2022,4,2, band triceps extensions,3,8.0,0.0
+2022,4,2, band triceps extensions,4,0.0,0.0
+2022,4,2,axelpress,1,8.0,20.0
+2022,4,2,axelpress,2,5.0,20.75
+2022,4,2,axelpress,3,5.0,20.75
+2022,4,2,axelpress,4,4.0,20.75
+2022,4,2,decline press,1,11.0,0.0
+2022,4,2,decline press,2,9.0,0.0
+2022,4,2,decline press,3,9.0,0.0
+2022,4,2,decline press,4,0.0,0.0
+2022,4,2,lat pulldown,1,9.0,65.0
+2022,4,2,lat pulldown,2,7.0,65.0
+2022,4,2,lat pulldown,3,8.0,60.0
+2022,4,2,lat pulldown,4,0.0,0.0
+2022,4,2,ring rows,1,12.0,0.0
+2022,4,2,ring rows,2,11.0,0.0
+2022,4,2,ring rows,3,10.0,0.0
+2022,4,2,ring rows,4,0.0,0.0
+2022,4,2,weighted pull ups,1,5.0,13.75
+2022,4,2,weighted pull ups,2,5.0,11.25
+2022,4,2,weighted pull ups,3,5.0,8.75
+2022,4,2,weighted pull ups,4,5.0,7.5
+2022,4,4,back squat,1,6.0,60.0
+2022,4,4,back squat,2,7.0,60.0
+2022,4,4,back squat,3,6.0,60.0
+2022,4,4,back squat,4,7.0,60.0
+2022,4,4,rdls,1,14.0,90.0
+2022,4,4,rdls,2,13.0,90.0
+2022,4,4,rdls,3,13.0,90.0
+2022,4,4,rdls,4,0.0,0.0
+2022,4,4,reverse nordics,1,0.0,0.0
+2022,4,4,reverse nordics,2,0.0,0.0
+2022,4,4,reverse nordics,3,0.0,0.0
+2022,4,4,reverse nordics,4,0.0,0.0
+2022,4,4,single leg machine curls,1,0.0,0.0
+2022,4,4,single leg machine curls,2,0.0,0.0
+2022,4,4,single leg machine curls,3,0.0,0.0
+2022,4,4,single leg machine curls,4,0.0,0.0
+2022,4,7,barbell benchpress,1,3.0,70.0
+2022,4,7,barbell benchpress,2,5.0,65.0
+2022,4,7,barbell benchpress,3,4.0,65.0
+2022,4,7,barbell benchpress,4,4.0,60.0
+2022,4,7,barbell curls,1,8.0,45.0
+2022,4,7,barbell curls,2,7.0,42.5
+2022,4,7,barbell curls,3,6.0,42.5
+2022,4,7,barbell curls,4,0.0,0.0
+2022,4,7,decline push ups,1,11.0,0.0
+2022,4,7,decline push ups,2,7.0,0.0
+2022,4,7,decline push ups,3,7.0,0.0
+2022,4,7,decline push ups,4,6.0,0.0
+2022,4,7,inverted delt row,1,11.0,0.0
+2022,4,7,inverted delt row,2,11.0,0.0
+2022,4,7,inverted delt row,3,11.0,0.0
+2022,4,7,inverted delt row,4,0.0,0.0
+2022,4,7,side lateral,1,23.0,0.0
+2022,4,7,side lateral,2,20.0,0.0
+2022,4,7,side lateral,3,20.0,0.0
+2022,4,7,side lateral,4,0.0,0.0
+2022,4,7,straight arm pulldown,1,16.0,20.0
+2022,4,7,straight arm pulldown,2,14.0,20.0
+2022,4,7,straight arm pulldown,3,13.0,20.0
+2022,4,7,straight arm pulldown,4,0.0,0.0
+2022,4,9,atg split squat,1,8.0,31.5
+2022,4,9,atg split squat,2,7.0,31.5
+2022,4,9,atg split squat,3,7.0,31.5
+2022,4,9,atg split squat,4,0.0,0.0
+2022,4,9,regular dl,1,5.0,110.0
+2022,4,9,regular dl,2,6.0,105.0
+2022,4,9,regular dl,3,6.0,105.0
+2022,4,9,regular dl,4,5.0,105.0
+2022,4,10, band triceps extensions,1,11.0,0.0
+2022,4,10, band triceps extensions,2,9.0,0.0
+2022,4,10, band triceps extensions,3,8.0,0.0
+2022,4,10, band triceps extensions,4,0.0,0.0
+2022,4,10,decline push ups,1,10.0,0.0
+2022,4,10,decline push ups,2,10.0,0.0
+2022,4,10,decline push ups,3,9.0,0.0
+2022,4,10,decline push ups,4,0.0,0.0
+2022,4,10,lat pulldown,1,9.0,65.0
+2022,4,10,lat pulldown,2,8.0,65.0
+2022,4,10,lat pulldown,3,9.0,60.0
+2022,4,10,lat pulldown,4,0.0,0.0
+2022,4,10,militärpress,1,5.0,40.0
+2022,4,10,militärpress,2,5.0,40.0
+2022,4,10,militärpress,3,5.0,40.0
+2022,4,10,militärpress,4,5.0,40.0
+2022,4,10,ring rows,1,10.0,4.0
+2022,4,10,ring rows,2,11.0,3.0
+2022,4,10,ring rows,3,11.0,0.0
+2022,4,10,ring rows,4,0.0,0.0
+2022,4,10,weighted pull ups,1,6.0,13.75
+2022,4,10,weighted pull ups,2,5.0,11.25
+2022,4,10,weighted pull ups,3,5.0,8.75
+2022,4,10,weighted pull ups,4,5.0,7.5
+2022,4,14,back squat,1,5.0,80.0
+2022,4,14,back squat,2,5.0,80.0
+2022,4,14,back squat,3,5.0,80.0
+2022,4,14,back squat,4,5.0,80.0
+2022,4,14,rdls,1,12.0,100.0
+2022,4,14,rdls,2,12.0,100.0
+2022,4,14,rdls,3,11.0,100.0
+2022,4,14,rdls,4,0.0,0.0
+2022,4,14,reverse nordics,1,16.0,0.0
+2022,4,14,reverse nordics,2,16.0,0.0
+2022,4,14,reverse nordics,3,15.0,0.0
+2022,4,14,reverse nordics,4,0.0,0.0
+2022,4,14,single leg machine curls,1,12.0,0.0
+2022,4,14,single leg machine curls,2,15.0,0.0
+2022,4,14,single leg machine curls,3,15.0,0.0
+2022,4,14,single leg machine curls,4,0.0,0.0
+2022,4,16,barbell benchpress,1,4.0,70.0
+2022,4,16,barbell benchpress,2,5.0,65.0
+2022,4,16,barbell benchpress,3,6.0,60.0
+2022,4,16,barbell benchpress,4,6.0,60.0
+2022,4,16,barbell curls,1,7.0,45.0
+2022,4,16,barbell curls,2,8.0,40.0
+2022,4,16,barbell curls,3,7.0,40.0
+2022,4,16,barbell curls,4,0.0,0.0
+2022,4,16,inverted delt row,1,16.0,0.0
+2022,4,16,inverted delt row,2,12.0,0.0
+2022,4,16,inverted delt row,3,13.0,0.0
+2022,4,16,inverted delt row,4,0.0,0.0
+2022,4,16,ring push ups,1,7.0,0.0
+2022,4,16,ring push ups,2,5.0,0.0
+2022,4,16,ring push ups,3,4.0,0.0
+2022,4,16,ring push ups,4,5.0,0.0
+2022,4,16,side lateral,1,24.0,0.0
+2022,4,16,side lateral,2,24.0,0.0
+2022,4,16,side lateral,3,24.0,0.0
+2022,4,16,side lateral,4,0.0,0.0
+2022,4,16,straight arm pulldown,1,18.0,20.0
+2022,4,16,straight arm pulldown,2,14.0,20.0
+2022,4,16,straight arm pulldown,3,13.0,20.0
+2022,4,16,straight arm pulldown,4,0.0,0.0
+2022,4,18,atg split squat,1,6.0,34.0
+2022,4,18,atg split squat,2,6.0,34.0
+2022,4,18,atg split squat,3,6.0,34.0
+2022,4,18,atg split squat,4,0.0,0.0
+2022,4,18,regular dl,1,5.0,115.0
+2022,4,18,regular dl,2,5.0,115.0
+2022,4,18,regular dl,3,5.0,115.0
+2022,4,18,regular dl,4,4.0,115.0
+2022,4,18,sissy squats,1,17.0,0.0
+2022,4,18,sissy squats,2,16.0,0.0
+2022,4,18,sissy squats,3,10.0,10.0
+2022,4,18,sissy squats,4,0.0,0.0
+2022,4,22, band triceps extensions,1,10.0,0.0
+2022,4,22, band triceps extensions,2,9.0,0.0
+2022,4,22, band triceps extensions,3,9.0,0.0
+2022,4,22, band triceps extensions,4,0.0,0.0
+2022,4,22,band crossover,1,18.0,0.0
+2022,4,22,band crossover,2,16.0,0.0
+2022,4,22,band crossover,3,15.0,0.0
+2022,4,22,band crossover,4,0.0,0.0
+2022,4,22,bench press,1,5.0,65.0
+2022,4,22,bench press,2,4.0,65.0
+2022,4,22,bench press,3,5.0,60.0
+2022,4,22,bench press,4,5.0,60.0
+2022,4,22,lat pulldown,1,9.0,65.0
+2022,4,22,lat pulldown,2,8.0,65.0
+2022,4,22,lat pulldown,3,7.0,65.0
+2022,4,22,lat pulldown,4,0.0,0.0
+2022,4,22,ring rows,1,12.0,0.0
+2022,4,22,ring rows,2,11.0,0.0
+2022,4,22,ring rows,3,9.0,0.0
+2022,4,22,ring rows,4,0.0,0.0
+2022,4,22,weighted pull ups,1,5.0,10.0
+2022,4,22,weighted pull ups,2,5.0,10.0
+2022,4,22,weighted pull ups,3,5.0,5.0
+2022,4,22,weighted pull ups,4,5.0,5.0
+2022,4,24,back squat,1,5.0,85.0
+2022,4,24,back squat,2,5.0,80.0
+2022,4,24,back squat,3,6.0,75.0
+2022,4,24,back squat,4,8.0,70.0
+2022,4,24,rdls,1,12.0,100.0
+2022,4,24,rdls,2,11.0,100.0
+2022,4,24,rdls,3,11.0,100.0
+2022,4,24,rdls,4,0.0,0.0
+2022,4,24,reverse nordics,1,13.0,10.0
+2022,4,24,reverse nordics,2,12.0,10.0
+2022,4,24,reverse nordics,3,12.0,10.0
+2022,4,24,reverse nordics,4,0.0,0.0
+2022,4,24,single leg machine curls,1,11.0,5.0
+2022,4,24,single leg machine curls,2,11.0,5.0
+2022,4,24,single leg machine curls,3,10.0,5.0
+2022,4,24,single leg machine curls,4,0.0,0.0
+2022,4,26,bench press (pause),1,4.0,65.0
+2022,4,26,bench press (pause),2,5.0,60.0
+2022,4,26,bench press (pause),3,7.0,55.0
+2022,4,26,bench press (pause),4,6.0,55.0
+2022,4,26,dips,1,10.0,0.0
+2022,4,26,dips,2,7.0,0.0
+2022,4,26,dips,3,6.0,0.0
+2022,4,26,dips,4,0.0,0.0
+2022,4,26,lat pulldown,1,10.0,65.0
+2022,4,26,lat pulldown,2,9.0,65.0
+2022,4,26,lat pulldown,3,8.0,65.0
+2022,4,26,lat pulldown,4,0.0,0.0
+2022,4,26,ring rows,1,15.0,0.0
+2022,4,26,ring rows,2,12.0,0.0
+2022,4,26,ring rows,3,8.0,0.0
+2022,4,26,ring rows,4,0.0,0.0
+2022,4,26,side lateral,1,15.0,5.0
+2022,4,26,side lateral,2,15.0,5.0
+2022,4,26,side lateral,3,15.0,5.0
+2022,4,26,side lateral,4,0.0,0.0
+2022,4,26,tricep extensions,1,10.0,0.0
+2022,4,26,tricep extensions,2,10.0,0.0
+2022,4,26,tricep extensions,3,10.0,0.0
+2022,4,26,tricep extensions,4,0.0,0.0
+2022,4,28,bw atg split squats,1,18.0,0.0
+2022,4,28,bw atg split squats,2,16.0,0.0
+2022,4,28,bw atg split squats,3,16.0,0.0
+2022,4,28,bw atg split squats,4,0.0,0.0
+2022,4,28,hamstring curls,1,11.0,5.0
+2022,4,28,hamstring curls,2,11.0,5.0
+2022,4,28,hamstring curls,3,10.0,5.0
+2022,4,28,hamstring curls,4,0.0,0.0
+2022,4,28,squat (pin),1,9.0,70.0
+2022,4,28,squat (pin),2,10.0,70.0
+2022,4,28,squat (pin),3,10.0,70.0
+2022,4,28,squat (pin),4,0.0,0.0
+2022,4,28,sumo dl,1,5.0,115.0
+2022,4,28,sumo dl,2,6.0,115.0
+2022,4,28,sumo dl,3,5.0,115.0
+2022,4,28,sumo dl,4,0.0,0.0
+2022,4,30,barbell curls,1,8.0,40.0
+2022,4,30,barbell curls,2,8.0,40.0
+2022,4,30,barbell curls,3,7.0,40.0
+2022,4,30,barbell curls,4,0.0,0.0
+2022,4,30,bench press,1,4.0,70.0
+2022,4,30,bench press,2,5.0,65.0
+2022,4,30,bench press,3,6.0,60.0
+2022,4,30,bench press,4,6.0,60.0
+2022,4,30,delt row,1,13.0,0.0
+2022,4,30,delt row,2,11.0,0.0
+2022,4,30,delt row,3,11.0,0.0
+2022,4,30,delt row,4,0.0,0.0
+2022,4,30,overhead press,1,6.0,40.0
+2022,4,30,overhead press,2,7.0,35.0
+2022,4,30,overhead press,3,7.0,35.0
+2022,4,30,overhead press,4,0.0,0.0
+2022,4,30,straight arm pulldown,1,18.0,20.0
+2022,4,30,straight arm pulldown,2,16.0,20.0
+2022,4,30,straight arm pulldown,3,14.0,20.0
+2022,4,30,straight arm pulldown,4,0.0,0.0
+2022,4,30,weighted pull ups,1,6.0,10.0
+2022,4,30,weighted pull ups,2,5.0,10.0
+2022,4,30,weighted pull ups,3,6.0,5.0
+2022,4,30,weighted pull ups,4,0.0,0.0
+2022,5,2,backsquats,1,6.0,85.0
+2022,5,2,backsquats,2,5.0,85.0
+2022,5,2,backsquats,3,6.0,80.0
+2022,5,2,backsquats,4,5.0,80.0
+2022,5,2,leg curls,1,10.0,5.0
+2022,5,2,leg curls,2,7.0,5.0
+2022,5,2,leg curls,3,8.0,5.0
+2022,5,2,leg curls,4,0.0,0.0
+2022,5,2,rdls,1,11.0,105.0
+2022,5,2,rdls,2,10.0,105.0
+2022,5,2,rdls,3,13.0,100.0
+2022,5,2,rdls,4,0.0,0.0
+2022,5,2,reverse nordics,1,16.0,10.0
+2022,5,2,reverse nordics,2,14.0,0.0
+2022,5,2,reverse nordics,3,14.0,0.0
+2022,5,2,reverse nordics,4,0.0,0.0
+2022,5,4,bench press (pause),1,4.0,65.0
+2022,5,4,bench press (pause),2,5.0,60.0
+2022,5,4,bench press (pause),3,6.0,57.5
+2022,5,4,bench press (pause),4,5.0,57.5
+2022,5,4,dips,1,10.0,0.0
+2022,5,4,dips,2,9.0,0.0
+2022,5,4,dips,3,8.0,0.0
+2022,5,4,dips,4,0.0,0.0
+2022,5,4,one arm lat pulldown,1,10.0,25.0
+2022,5,4,one arm lat pulldown,2,10.0,25.0
+2022,5,4,one arm lat pulldown,3,9.0,25.0
+2022,5,4,one arm lat pulldown,4,0.0,0.0
+2022,5,4,ring rows,1,14.0,0.0
+2022,5,4,ring rows,2,10.0,0.0
+2022,5,4,ring rows,3,9.0,0.0
+2022,5,4,ring rows,4,0.0,0.0
+2022,5,4,side lateral,1,16.0,5.0
+2022,5,4,side lateral,2,15.0,5.0
+2022,5,4,side lateral,3,12.0,5.0
+2022,5,4,side lateral,4,0.0,0.0
+2022,5,4,tricep extensions,1,15.0,0.0
+2022,5,4,tricep extensions,2,12.0,0.0
+2022,5,4,tricep extensions,3,10.0,0.0
+2022,5,4,tricep extensions,4,0.0,0.0
+2022,5,6,bw atg split squats,1,20.0,0.0
+2022,5,6,bw atg split squats,2,18.0,0.0
+2022,5,6,bw atg split squats,3,18.0,0.0
+2022,5,6,bw atg split squats,4,0.0,0.0
+2022,5,6,hamstring curls,1,15.0,5.0
+2022,5,6,hamstring curls,2,14.0,5.0
+2022,5,6,hamstring curls,3,13.0,5.0
+2022,5,6,hamstring curls,4,0.0,0.0
+2022,5,6,squat (pin),1,4.0,75.0
+2022,5,6,squat (pin),2,7.0,70.0
+2022,5,6,squat (pin),3,8.0,65.0
+2022,5,6,squat (pin),4,0.0,0.0
+2022,5,6,sumo dl,1,5.0,120.0
+2022,5,6,sumo dl,2,5.0,115.0
+2022,5,6,sumo dl,3,5.0,115.0
+2022,5,6,sumo dl,4,5.0,115.0
+2022,5,8,barbell curls,1,9.0,40.0
+2022,5,8,barbell curls,2,8.0,40.0
+2022,5,8,barbell curls,3,7.0,40.0
+2022,5,8,barbell curls,4,0.0,0.0
+2022,5,8,bench press,1,3.0,70.0
+2022,5,8,bench press,2,5.0,65.0
+2022,5,8,bench press,3,6.0,60.0
+2022,5,8,bench press,4,6.0,60.0
+2022,5,8,delt row,1,14.0,0.0
+2022,5,8,delt row,2,12.0,0.0
+2022,5,8,delt row,3,11.0,0.0
+2022,5,8,delt row,4,0.0,0.0
+2022,5,8,overhead press,1,6.0,42.5
+2022,5,8,overhead press,2,5.0,42.5
+2022,5,8,overhead press,3,5.0,40.0
+2022,5,8,overhead press,4,0.0,0.0
+2022,5,8,straight arm pulldown,1,12.0,0.0
+2022,5,8,straight arm pulldown,2,12.0,0.0
+2022,5,8,straight arm pulldown,3,11.0,0.0
+2022,5,8,straight arm pulldown,4,0.0,0.0
+2022,5,8,weighted pull ups,1,6.0,10.0
+2022,5,8,weighted pull ups,2,5.0,10.0
+2022,5,8,weighted pull ups,3,7.0,5.0
+2022,5,8,weighted pull ups,4,0.0,0.0
+2022,5,10,backsquats,1,6.0,87.5
+2022,5,10,backsquats,2,5.0,87.5
+2022,5,10,backsquats,3,6.0,85.0
+2022,5,10,backsquats,4,5.0,85.0
+2022,5,10,leg curls,1,7.0,10.0
+2022,5,10,leg curls,2,7.0,10.0
+2022,5,10,leg curls,3,7.0,10.0
+2022,5,10,leg curls,4,0.0,0.0
+2022,5,10,rdls,1,10.0,110.0
+2022,5,10,rdls,2,12.0,105.0
+2022,5,10,rdls,3,12.0,105.0
+2022,5,10,rdls,4,0.0,0.0
+2022,5,10,reverse nordics,1,14.0,0.0
+2022,5,10,reverse nordics,2,13.0,0.0
+2022,5,10,reverse nordics,3,12.0,0.0
+2022,5,10,reverse nordics,4,0.0,0.0
+2022,5,12,dips,1,12.0,0.0
+2022,5,12,dips,2,9.0,0.0
+2022,5,12,dips,3,7.0,0.0
+2022,5,12,dips,4,0.0,0.0
+2022,5,12,larsen press,1,5.0,65.0
+2022,5,12,larsen press,2,8.0,60.0
+2022,5,12,larsen press,3,6.0,60.0
+2022,5,12,larsen press,4,5.0,60.0
+2022,5,12,one arm lat pulldown,1,9.0,30.0
+2022,5,12,one arm lat pulldown,2,9.0,30.0
+2022,5,12,one arm lat pulldown,3,8.0,30.0
+2022,5,12,one arm lat pulldown,4,0.0,0.0
+2022,5,12,ring rows,1,16.0,0.0
+2022,5,12,ring rows,2,11.0,0.0
+2022,5,12,ring rows,3,10.0,0.0
+2022,5,12,ring rows,4,0.0,0.0
+2022,5,12,side lateral,1,17.0,5.0
+2022,5,12,side lateral,2,14.0,5.0
+2022,5,12,side lateral,3,15.0,3.75
+2022,5,12,side lateral,4,0.0,0.0
+2022,5,12,tricep extensions,1,16.0,0.0
+2022,5,12,tricep extensions,2,14.0,0.0
+2022,5,12,tricep extensions,3,11.0,0.0
+2022,5,12,tricep extensions,4,0.0,0.0
+2022,5,14,bw atg split squats,1,22.0,0.0
+2022,5,14,bw atg split squats,2,20.0,0.0
+2022,5,14,bw atg split squats,3,20.0,0.0
+2022,5,14,bw atg split squats,4,0.0,0.0
+2022,5,14,hamstring curls,1,10.0,10.0
+2022,5,14,hamstring curls,2,9.0,10.0
+2022,5,14,hamstring curls,3,9.0,10.0
+2022,5,14,hamstring curls,4,0.0,0.0
+2022,5,14,squat (pin),1,6.0,75.0
+2022,5,14,squat (pin),2,6.0,75.0
+2022,5,14,squat (pin),3,6.0,75.0
+2022,5,14,squat (pin),4,0.0,0.0
+2022,5,14,sumo dl,1,5.0,120.0
+2022,5,14,sumo dl,2,4.0,120.0
+2022,5,14,sumo dl,3,6.0,115.0
+2022,5,14,sumo dl,4,5.0,115.0
+2022,5,18,barbell curls,1,8.0,42.5
+2022,5,18,barbell curls,2,8.0,40.0
+2022,5,18,barbell curls,3,7.0,40.0
+2022,5,18,barbell curls,4,0.0,0.0
+2022,5,18,bench press,1,3.0,70.0
+2022,5,18,bench press,2,5.0,65.0
+2022,5,18,bench press,3,4.0,65.0
+2022,5,18,bench press,4,7.0,60.0
+2022,5,18,delt row,1,13.0,0.0
+2022,5,18,delt row,2,11.0,0.0
+2022,5,18,delt row,3,10.0,0.0
+2022,5,18,delt row,4,0.0,0.0
+2022,5,18,overhead press,1,5.0,45.0
+2022,5,18,overhead press,2,5.0,42.5
+2022,5,18,overhead press,3,5.0,40.0
+2022,5,18,overhead press,4,0.0,0.0
+2022,5,18,straight arm pulldown,1,11.0,5.0
+2022,5,18,straight arm pulldown,2,11.0,5.0
+2022,5,18,straight arm pulldown,3,11.0,5.0
+2022,5,18,straight arm pulldown,4,0.0,0.0
+2022,5,18,weighted pull ups,1,7.0,10.0
+2022,5,18,weighted pull ups,2,6.0,10.0
+2022,5,18,weighted pull ups,3,5.0,10.0
+2022,5,18,weighted pull ups,4,0.0,0.0
+2022,5,20,backsquats,1,5.0,90.0
+2022,5,20,backsquats,2,6.0,85.0
+2022,5,20,backsquats,3,6.0,85.0
+2022,5,20,backsquats,4,5.0,85.0
+2022,5,20,leg curls,1,11.0,10.0
+2022,5,20,leg curls,2,10.0,10.0
+2022,5,20,leg curls,3,9.0,10.0
+2022,5,20,leg curls,4,0.0,0.0
+2022,5,20,rdls,1,10.0,110.0
+2022,5,20,rdls,2,12.0,105.0
+2022,5,20,rdls,3,12.0,105.0
+2022,5,20,rdls,4,0.0,0.0
+2022,5,20,reverse nordics,1,14.0,0.0
+2022,5,20,reverse nordics,2,13.0,0.0
+2022,5,20,reverse nordics,3,12.0,0.0
+2022,5,20,reverse nordics,4,0.0,0.0
+2022,5,22,dips,1,8.0,5.0
+2022,5,22,dips,2,10.0,0.0
+2022,5,22,dips,3,9.0,0.0
+2022,5,22,dips,4,0.0,0.0
+2022,5,22,larsen press,1,5.0,67.5
+2022,5,22,larsen press,2,7.0,62.5
+2022,5,22,larsen press,3,5.0,62.5
+2022,5,22,larsen press,4,6.0,60.0
+2022,5,22,one arm lat pulldown,1,9.0,30.0
+2022,5,22,one arm lat pulldown,2,8.0,30.0
+2022,5,22,one arm lat pulldown,3,8.0,30.0
+2022,5,22,one arm lat pulldown,4,0.0,0.0
+2022,5,22,ring rows,1,15.0,0.0
+2022,5,22,ring rows,2,13.0,0.0
+2022,5,22,ring rows,3,12.0,0.0
+2022,5,22,ring rows,4,0.0,0.0
+2022,5,22,side lateral,1,14.0,5.0
+2022,5,22,side lateral,2,11.0,5.0
+2022,5,22,side lateral,3,10.0,5.0
+2022,5,22,side lateral,4,0.0,0.0
+2022,5,22,tricep extensions,1,14.0,0.0
+2022,5,22,tricep extensions,2,13.0,0.0
+2022,5,22,tricep extensions,3,12.0,0.0
+2022,5,22,tricep extensions,4,0.0,0.0
+2022,5,26,bw lunges,1,34.0,0.0
+2022,5,26,bw lunges,2,16.0,10.0
+2022,5,26,bw lunges,3,16.0,10.0
+2022,5,26,bw lunges,4,0.0,0.0
+2022,5,26,hamstring curls,1,12.0,10.0
+2022,5,26,hamstring curls,2,11.0,10.0
+2022,5,26,hamstring curls,3,9.0,10.0
+2022,5,26,hamstring curls,4,0.0,0.0
+2022,5,26,squat (pin),1,6.0,80.0
+2022,5,26,squat (pin),2,5.0,80.0
+2022,5,26,squat (pin),3,7.0,75.0
+2022,5,26,squat (pin),4,0.0,0.0
+2022,5,26,sumo dl,1,4.0,125.0
+2022,5,26,sumo dl,2,5.0,120.0
+2022,5,26,sumo dl,3,4.0,120.0
+2022,5,26,sumo dl,4,6.0,115.0
+2022,5,28,backsquats,1,5.0,90.0
+2022,5,28,backsquats,2,5.0,90.0
+2022,5,28,backsquats,3,6.0,85.0
+2022,5,28,backsquats,4,6.0,85.0
+2022,5,28,barbell curls,1,8.0,42.5
+2022,5,28,barbell curls,2,6.0,42.5
+2022,5,28,barbell curls,3,7.0,40.0
+2022,5,28,barbell curls,4,0.0,0.0
+2022,5,28,bench press,1,4.0,67.5
+2022,5,28,bench press,2,5.0,65.0
+2022,5,28,bench press,3,5.0,62.5
+2022,5,28,bench press,4,5.0,62.5
+2022,5,28,delt row,1,13.0,0.0
+2022,5,28,delt row,2,11.0,0.0
+2022,5,28,delt row,3,11.0,0.0
+2022,5,28,delt row,4,0.0,0.0
+2022,5,28,good mornings,1,12.0,50.0
+2022,5,28,good mornings,2,12.0,50.0
+2022,5,28,good mornings,3,12.0,50.0
+2022,5,28,good mornings,4,0.0,0.0
+2022,5,28,leg curls,1,0.0,0.0
+2022,5,28,leg curls,2,0.0,0.0
+2022,5,28,leg curls,3,0.0,0.0
+2022,5,28,leg curls,4,0.0,0.0
+2022,5,28,overhead press,1,5.0,45.0
+2022,5,28,overhead press,2,5.0,42.5
+2022,5,28,overhead press,3,6.0,40.0
+2022,5,28,overhead press,4,0.0,0.0
+2022,5,28,reverse nordics,1,0.0,0.0
+2022,5,28,reverse nordics,2,0.0,0.0
+2022,5,28,reverse nordics,3,0.0,0.0
+2022,5,28,reverse nordics,4,0.0,0.0
+2022,5,28,straight arm pulldown,1,13.0,5.0
+2022,5,28,straight arm pulldown,2,12.0,5.0
+2022,5,28,straight arm pulldown,3,10.0,5.0
+2022,5,28,straight arm pulldown,4,0.0,0.0
+2022,5,28,weighted pull ups,1,8.0,10.0
+2022,5,28,weighted pull ups,2,6.0,10.0
+2022,5,28,weighted pull ups,3,6.0,10.0
+2022,5,28,weighted pull ups,4,0.0,0.0
+2022,6,2,dips,1,8.0,5.0
+2022,6,2,dips,2,8.0,0.0
+2022,6,2,dips,3,6.0,0.0
+2022,6,2,dips,4,0.0,0.0
+2022,6,2,larsen press,1,4.0,70.0
+2022,6,2,larsen press,2,5.0,65.0
+2022,6,2,larsen press,3,7.0,62.5
+2022,6,2,larsen press,4,5.0,62.5
+2022,6,2,one arm lat pulldown,1,9.0,30.0
+2022,6,2,one arm lat pulldown,2,8.0,30.0
+2022,6,2,one arm lat pulldown,3,8.0,30.0
+2022,6,2,one arm lat pulldown,4,0.0,0.0
+2022,6,2,ring rows,1,14.0,0.0
+2022,6,2,ring rows,2,10.0,0.0
+2022,6,2,ring rows,3,8.0,0.0
+2022,6,2,ring rows,4,0.0,0.0
+2022,6,2,side lateral,1,15.0,5.0
+2022,6,2,side lateral,2,15.0,5.0
+2022,6,2,side lateral,3,14.0,5.0
+2022,6,2,side lateral,4,0.0,0.0
+2022,6,2,tricep extensions,1,12.0,0.0
+2022,6,2,tricep extensions,2,14.0,0.0
+2022,6,2,tricep extensions,3,13.0,0.0
+2022,6,2,tricep extensions,4,0.0,0.0
+2022,6,4,atg heel elevated squat,1,16.0,19.5
+2022,6,4,atg heel elevated squat,2,12.0,19.5
+2022,6,4,atg heel elevated squat,3,11.0,19.5
+2022,6,4,atg heel elevated squat,4,0.0,0.0
+2022,6,4,hamstring curls,1,11.0,10.0
+2022,6,4,hamstring curls,2,10.0,10.0
+2022,6,4,hamstring curls,3,9.0,10.0
+2022,6,4,hamstring curls,4,0.0,0.0
+2022,6,4,squat (pin),1,7.0,80.0
+2022,6,4,squat (pin),2,7.0,80.0
+2022,6,4,squat (pin),3,6.0,80.0
+2022,6,4,squat (pin),4,0.0,0.0
+2022,6,4,sumo dl,1,5.0,125.0
+2022,6,4,sumo dl,2,5.0,120.0
+2022,6,4,sumo dl,3,5.0,120.0
+2022,6,4,sumo dl,4,6.0,115.0
+2022,6,6,bench press,1,4.0,70.0
+2022,6,6,bench press,2,5.0,65.0
+2022,6,6,bench press,3,6.0,62.5
+2022,6,6,bench press,4,4.0,62.5
+2022,6,6,db curls,1,12.0,19.5
+2022,6,6,db curls,2,14.0,17.0
+2022,6,6,db curls,3,16.0,14.5
+2022,6,6,db curls,4,0.0,0.0
+2022,6,6,delt row,1,15.0,0.0
+2022,6,6,delt row,2,13.0,0.0
+2022,6,6,delt row,3,11.0,0.0
+2022,6,6,delt row,4,0.0,0.0
+2022,6,6,overhead press,1,5.0,45.0
+2022,6,6,overhead press,2,4.0,45.0
+2022,6,6,overhead press,3,5.0,42.5
+2022,6,6,overhead press,4,0.0,0.0
+2022,6,6,straight arm pulldown,1,16.0,5.0
+2022,6,6,straight arm pulldown,2,14.0,5.0
+2022,6,6,straight arm pulldown,3,14.0,5.0
+2022,6,6,straight arm pulldown,4,0.0,0.0
+2022,6,6,weighted pull ups,1,6.0,12.5
+2022,6,6,weighted pull ups,2,6.0,10.0
+2022,6,6,weighted pull ups,3,6.0,10.0
+2022,6,6,weighted pull ups,4,0.0,0.0
+2022,6,8,backsquats,1,5.0,92.5
+2022,6,8,backsquats,2,5.0,90.0
+2022,6,8,backsquats,3,6.0,85.0
+2022,6,8,backsquats,4,6.0,85.0
+2022,6,8,good mornings,1,14.0,60.0
+2022,6,8,good mornings,2,14.0,60.0
+2022,6,8,good mornings,3,13.0,60.0
+2022,6,8,good mornings,4,0.0,0.0
+2022,6,8,leg curls,1,12.0,10.0
+2022,6,8,leg curls,2,11.0,10.0
+2022,6,8,leg curls,3,8.0,10.0
+2022,6,8,leg curls,4,0.0,0.0
+2022,6,8,reverse nordics,1,8.0,0.0
+2022,6,8,reverse nordics,2,8.0,0.0
+2022,6,8,reverse nordics,3,7.0,0.0
+2022,6,8,reverse nordics,4,0.0,0.0
+2022,6,11,dips,1,11.0,0.0
+2022,6,11,dips,2,9.0,0.0
+2022,6,11,dips,3,7.0,0.0
+2022,6,11,dips,4,0.0,0.0
+2022,6,11,larsen press,1,4.0,70.0
+2022,6,11,larsen press,2,5.0,65.0
+2022,6,11,larsen press,3,5.0,62.5
+2022,6,11,larsen press,4,7.0,57.5
+2022,6,11,one arm lat pulldown,1,7.0,30.0
+2022,6,11,one arm lat pulldown,2,9.0,25.0
+2022,6,11,one arm lat pulldown,3,9.0,25.0
+2022,6,11,one arm lat pulldown,4,0.0,0.0
+2022,6,11,ring rows,1,14.0,0.0
+2022,6,11,ring rows,2,11.0,0.0
+2022,6,11,ring rows,3,10.0,0.0
+2022,6,11,ring rows,4,0.0,0.0
+2022,6,11,side lateral,1,16.0,5.0
+2022,6,11,side lateral,2,15.0,5.0
+2022,6,11,side lateral,3,14.0,5.0
+2022,6,11,side lateral,4,0.0,0.0
+2022,6,11,tricep extensions,1,14.0,0.0
+2022,6,11,tricep extensions,2,12.0,0.0
+2022,6,11,tricep extensions,3,11.0,0.0
+2022,6,11,tricep extensions,4,0.0,0.0
+2022,6,13,atg heel elevated squat,1,14.0,22.0
+2022,6,13,atg heel elevated squat,2,12.0,22.0
+2022,6,13,atg heel elevated squat,3,12.0,22.0
+2022,6,13,atg heel elevated squat,4,0.0,0.0
+2022,6,13,hamstring curls,1,10.0,10.0
+2022,6,13,hamstring curls,2,9.0,10.0
+2022,6,13,hamstring curls,3,8.0,10.0
+2022,6,13,hamstring curls,4,0.0,0.0
+2022,6,13,squat (pin),1,7.0,80.0
+2022,6,13,squat (pin),2,6.0,80.0
+2022,6,13,squat (pin),3,6.0,80.0
+2022,6,13,squat (pin),4,0.0,0.0
+2022,6,13,sumo dl,1,2.0,125.0
+2022,6,13,sumo dl,2,5.0,115.0
+2022,6,13,sumo dl,3,3.0,110.0
+2022,6,13,sumo dl,4,10.0,90.0
+2022,6,15,db curls,1,10.0,19.5
+2022,6,15,db curls,2,10.0,17.0
+2022,6,15,db curls,3,18.0,12.0
+2022,6,15,db curls,4,0.0,0.0
+2022,6,15,delt row,1,13.0,0.0
+2022,6,15,delt row,2,11.0,0.0
+2022,6,15,delt row,3,11.0,0.0
+2022,6,15,delt row,4,0.0,0.0
+2022,6,15,overhead press,1,5.0,45.0
+2022,6,15,overhead press,2,6.0,40.0
+2022,6,15,overhead press,3,5.0,40.0
+2022,6,15,overhead press,4,0.0,0.0
+2022,6,15,push ups,1,6.0,20.0
+2022,6,15,push ups,2,5.0,20.0
+2022,6,15,push ups,3,4.0,17.5
+2022,6,15,push ups,4,5.0,15.0
+2022,6,15,straight arm pulldown,1,8.0,10.0
+2022,6,15,straight arm pulldown,2,16.0,5.0
+2022,6,15,straight arm pulldown,3,14.0,5.0
+2022,6,15,straight arm pulldown,4,0.0,0.0
+2022,6,15,weighted pull ups,1,6.0,12.5
+2022,6,15,weighted pull ups,2,6.0,10.0
+2022,6,15,weighted pull ups,3,6.0,10.0
+2022,6,15,weighted pull ups,4,0.0,0.0
+2022,6,17,backsquats,1,6.0,90.0
+2022,6,17,backsquats,2,5.0,90.0
+2022,6,17,backsquats,3,5.0,90.0
+2022,6,17,backsquats,4,6.0,85.0
+2022,6,17,good mornings,1,12.0,65.0
+2022,6,17,good mornings,2,14.0,65.0
+2022,6,17,good mornings,3,13.0,65.0
+2022,6,17,good mornings,4,0.0,0.0
+2022,6,17,leg curls,1,11.0,10.0
+2022,6,17,leg curls,2,10.0,10.0
+2022,6,17,leg curls,3,9.0,10.0
+2022,6,17,leg curls,4,0.0,0.0
+2022,6,17,reverse nordics,1,8.0,0.0
+2022,6,17,reverse nordics,2,7.0,0.0
+2022,6,17,reverse nordics,3,7.0,0.0
+2022,6,17,reverse nordics,4,0.0,0.0
+2022,6,19,bench press,1,5.0,65.0
+2022,6,19,bench press,2,6.0,60.0
+2022,6,19,bench press,3,7.0,55.0
+2022,6,19,bench press,4,7.0,55.0
+2022,6,19,dips,1,10.0,0.0
+2022,6,19,dips,2,8.0,0.0
+2022,6,19,dips,3,7.0,0.0
+2022,6,19,dips,4,0.0,0.0
+2022,6,19,one arm lat pulldown,1,8.0,30.0
+2022,6,19,one arm lat pulldown,2,11.0,25.0
+2022,6,19,one arm lat pulldown,3,11.0,25.0
+2022,6,19,one arm lat pulldown,4,0.0,0.0
+2022,6,19,ring rows,1,15.0,0.0
+2022,6,19,ring rows,2,12.0,0.0
+2022,6,19,ring rows,3,11.0,0.0
+2022,6,19,ring rows,4,0.0,0.0
+2022,6,19,side lateral,1,14.0,5.0
+2022,6,19,side lateral,2,12.0,5.0
+2022,6,19,side lateral,3,10.0,5.0
+2022,6,19,side lateral,4,0.0,0.0
+2022,6,19,tricep extensions,1,14.0,0.0
+2022,6,19,tricep extensions,2,11.0,0.0
+2022,6,19,tricep extensions,3,10.0,0.0
+2022,6,19,tricep extensions,4,0.0,0.0
+2022,6,22,atg heel elevated squat,1,16.0,22.0
+2022,6,22,atg heel elevated squat,2,14.0,22.0
+2022,6,22,atg heel elevated squat,3,12.0,22.0
+2022,6,22,atg heel elevated squat,4,0.0,0.0
+2022,6,22,hamstring curls,1,12.0,10.0
+2022,6,22,hamstring curls,2,11.0,10.0
+2022,6,22,hamstring curls,3,9.0,10.0
+2022,6,22,hamstring curls,4,0.0,0.0
+2022,6,22,squat (pin),1,6.0,85.0
+2022,6,22,squat (pin),2,5.0,85.0
+2022,6,22,squat (pin),3,6.0,80.0
+2022,6,22,squat (pin),4,0.0,0.0
+2022,6,22,sumo dl,1,6.0,120.0
+2022,6,22,sumo dl,2,5.0,120.0
+2022,6,22,sumo dl,3,5.0,120.0
+2022,6,22,sumo dl,4,6.0,115.0
+2022,6,24,delt row,1,14.0,0.0
+2022,6,24,delt row,2,11.0,0.0
+2022,6,24,delt row,3,11.0,0.0
+2022,6,24,delt row,4,0.0,0.0
+2022,6,24,overhead press,1,7.0,40.0
+2022,6,24,overhead press,2,5.0,40.0
+2022,6,24,overhead press,3,5.0,40.0
+2022,6,24,overhead press,4,0.0,0.0
+2022,6,24,push ups,1,7.0,20.0
+2022,6,24,push ups,2,5.0,20.0
+2022,6,24,push ups,3,6.0,15.0
+2022,6,24,push ups,4,5.0,15.0
+2022,6,24,ring curls,1,7.0,0.0
+2022,6,24,ring curls,2,6.0,0.0
+2022,6,24,ring curls,3,6.0,0.0
+2022,6,24,ring curls,4,0.0,0.0
+2022,6,24,straight arm pulldown,1,8.0,10.0
+2022,6,24,straight arm pulldown,2,7.0,10.0
+2022,6,24,straight arm pulldown,3,14.0,5.0
+2022,6,24,straight arm pulldown,4,0.0,0.0
+2022,6,24,weighted pull ups,1,7.0,12.5
+2022,6,24,weighted pull ups,2,6.0,12.5
+2022,6,24,weighted pull ups,3,7.0,10.0
+2022,6,24,weighted pull ups,4,0.0,0.0
+2022,6,27,backsquats,1,5.0,95.0
+2022,6,27,backsquats,2,5.0,90.0
+2022,6,27,backsquats,3,5.0,90.0
+2022,6,27,backsquats,4,6.0,85.0
+2022,6,27,good mornings,1,16.0,65.0
+2022,6,27,good mornings,2,14.0,65.0
+2022,6,27,good mornings,3,14.0,65.0
+2022,6,27,good mornings,4,0.0,0.0
+2022,6,27,leg curls,1,13.0,10.0
+2022,6,27,leg curls,2,11.0,10.0
+2022,6,27,leg curls,3,11.0,10.0
+2022,6,27,leg curls,4,0.0,0.0
+2022,6,27,reverse nordics,1,11.0,0.0
+2022,6,27,reverse nordics,2,9.0,0.0
+2022,6,27,reverse nordics,3,8.0,0.0
+2022,6,27,reverse nordics,4,0.0,0.0
+2022,6,29,dips,1,10.0,0.0
+2022,6,29,dips,2,8.0,0.0
+2022,6,29,dips,3,7.0,0.0
+2022,6,29,dips,4,0.0,0.0
+2022,6,29,one arm lat pulldown,1,8.0,30.0
+2022,6,29,one arm lat pulldown,2,12.0,25.0
+2022,6,29,one arm lat pulldown,3,11.0,25.0
+2022,6,29,one arm lat pulldown,4,0.0,0.0
+2022,6,29,push ups,1,5.0,22.5
+2022,6,29,push ups,2,6.0,20.0
+2022,6,29,push ups,3,5.0,20.0
+2022,6,29,push ups,4,5.0,17.5
+2022,6,29,ring rows,1,15.0,0.0
+2022,6,29,ring rows,2,13.0,0.0
+2022,6,29,ring rows,3,12.0,0.0
+2022,6,29,ring rows,4,0.0,0.0
+2022,6,29,side lateral,1,14.0,5.0
+2022,6,29,side lateral,2,12.0,5.0
+2022,6,29,side lateral,3,11.0,0.0
+2022,6,29,side lateral,4,0.0,0.0
+2022,6,29,tricep extensions,1,15.0,0.0
+2022,6,29,tricep extensions,2,14.0,0.0
+2022,6,29,tricep extensions,3,11.0,0.0
+2022,6,29,tricep extensions,4,0.0,0.0
+2022,7,1,atg heel elevated squat,1,10.0,30.0
+2022,7,1,atg heel elevated squat,2,10.0,30.0
+2022,7,1,atg heel elevated squat,3,10.0,30.0
+2022,7,1,atg heel elevated squat,4,0.0,0.0
+2022,7,1,hamstring curls,1,6.0,15.0
+2022,7,1,hamstring curls,2,10.0,10.0
+2022,7,1,hamstring curls,3,10.0,10.0
+2022,7,1,hamstring curls,4,0.0,0.0
+2022,7,1,squat (pin),1,6.0,85.0
+2022,7,1,squat (pin),2,6.0,85.0
+2022,7,1,squat (pin),3,5.0,85.0
+2022,7,1,squat (pin),4,0.0,0.0
+2022,7,1,sumo dl,1,5.0,125.0
+2022,7,1,sumo dl,2,5.0,120.0
+2022,7,1,sumo dl,3,2.0,120.0
+2022,7,1,sumo dl,4,8.0,110.0
+2022,7,3,db curls,1,7.0,17.0
+2022,7,3,db curls,2,6.0,17.0
+2022,7,3,db curls,3,9.0,14.5
+2022,7,3,db curls,4,0.0,0.0
+2022,7,3,delt row,1,16.0,0.0
+2022,7,3,delt row,2,13.0,0.0
+2022,7,3,delt row,3,12.0,0.0
+2022,7,3,delt row,4,0.0,0.0
+2022,7,3,overhead press,1,5.0,42.5
+2022,7,3,overhead press,2,6.0,40.0
+2022,7,3,overhead press,3,5.0,40.0
+2022,7,3,overhead press,4,0.0,0.0
+2022,7,3,push ups,1,5.0,22.5
+2022,7,3,push ups,2,5.0,20.0
+2022,7,3,push ups,3,5.0,20.0
+2022,7,3,push ups,4,6.0,17.5
+2022,7,3,straight arm pulldown,1,9.0,10.0
+2022,7,3,straight arm pulldown,2,8.0,10.0
+2022,7,3,straight arm pulldown,3,16.0,5.0
+2022,7,3,straight arm pulldown,4,0.0,0.0
+2022,7,3,weighted pull ups,1,6.0,15.0
+2022,7,3,weighted pull ups,2,5.0,15.0
+2022,7,3,weighted pull ups,3,6.0,12.5
+2022,7,3,weighted pull ups,4,0.0,0.0
+2022,7,8,backsquats,1,5.0,90.0
+2022,7,8,backsquats,2,5.0,90.0
+2022,7,8,backsquats,3,5.0,90.0
+2022,7,8,backsquats,4,5.0,90.0
+2022,7,8,hypers,1,16.0,44.0
+2022,7,8,hypers,2,14.0,44.0
+2022,7,8,hypers,3,10.0,44.0
+2022,7,8,hypers,4,0.0,0.0
+2022,7,8,leg curls,1,10.0,10.0
+2022,7,8,leg curls,2,8.0,10.0
+2022,7,8,leg curls,3,7.0,10.0
+2022,7,8,leg curls,4,0.0,0.0
+2022,7,8,reverse nordics,1,10.0,0.0
+2022,7,8,reverse nordics,2,10.0,0.0
+2022,7,8,reverse nordics,3,10.0,0.0
+2022,7,8,reverse nordics,4,0.0,0.0
+2022,7,10,dips,1,11.0,0.0
+2022,7,10,dips,2,6.0,0.0
+2022,7,10,dips,3,5.0,0.0
+2022,7,10,dips,4,0.0,0.0
+2022,7,10,one arm lat pulldown,1,9.0,30.0
+2022,7,10,one arm lat pulldown,2,9.0,30.0
+2022,7,10,one arm lat pulldown,3,8.0,30.0
+2022,7,10,one arm lat pulldown,4,0.0,0.0
+2022,7,10,push ups,1,6.0,22.5
+2022,7,10,push ups,2,5.0,22.5
+2022,7,10,push ups,3,5.0,20.0
+2022,7,10,push ups,4,5.0,17.5
+2022,7,10,side lateral,1,12.0,5.0
+2022,7,10,side lateral,2,10.0,5.0
+2022,7,10,side lateral,3,8.0,5.0
+2022,7,10,side lateral,4,0.0,0.0
+2022,7,10,tricep extensions,1,10.0,0.0
+2022,7,10,tricep extensions,2,9.0,0.0
+2022,7,10,tricep extensions,3,7.0,0.0
+2022,7,10,tricep extensions,4,0.0,0.0
+2022,7,10,trx rows,1,14.0,0.0
+2022,7,10,trx rows,2,10.0,0.0
+2022,7,10,trx rows,3,9.0,0.0
+2022,7,10,trx rows,4,0.0,0.0
+2022,7,12,atg split squat,1,17.0,0.0
+2022,7,12,atg split squat,2,20.0,0.0
+2022,7,12,atg split squat,3,18.0,0.0
+2022,7,12,atg split squat,4,0.0,0.0
+2022,7,12,hamstring curls,1,6.0,15.0
+2022,7,12,hamstring curls,2,9.0,10.0
+2022,7,12,hamstring curls,3,9.0,10.0
+2022,7,12,hamstring curls,4,0.0,0.0
+2022,7,12,squat (pause),1,6.0,70.0
+2022,7,12,squat (pause),2,6.0,70.0
+2022,7,12,squat (pause),3,6.0,70.0
+2022,7,12,squat (pause),4,0.0,0.0
+2022,7,12,sumo dl,1,5.0,125.0
+2022,7,12,sumo dl,2,5.0,125.0
+2022,7,12,sumo dl,3,6.0,120.0
+2022,7,12,sumo dl,4,5.0,120.0
+2022,7,14,db curls,1,8.0,17.0
+2022,7,14,db curls,2,7.0,17.0
+2022,7,14,db curls,3,9.0,14.5
+2022,7,14,db curls,4,0.0,0.0
+2022,7,14,delt row,1,14.0,0.0
+2022,7,14,delt row,2,13.0,0.0
+2022,7,14,delt row,3,13.0,0.0
+2022,7,14,delt row,4,0.0,0.0
+2022,7,14,overhead press,1,5.0,42.5
+2022,7,14,overhead press,2,5.0,42.5
+2022,7,14,overhead press,3,6.0,40.0
+2022,7,14,overhead press,4,0.0,0.0
+2022,7,14,ring push ups,1,7.0,0.0
+2022,7,14,ring push ups,2,5.0,0.0
+2022,7,14,ring push ups,3,4.0,0.0
+2022,7,14,ring push ups,4,4.0,0.0
+2022,7,14,straight arm pulldown,1,9.0,10.0
+2022,7,14,straight arm pulldown,2,8.0,10.0
+2022,7,14,straight arm pulldown,3,16.0,5.0
+2022,7,14,straight arm pulldown,4,0.0,0.0
+2022,7,14,weighted pull ups,1,6.0,15.0
+2022,7,14,weighted pull ups,2,5.0,15.0
+2022,7,14,weighted pull ups,3,6.0,12.5
+2022,7,14,weighted pull ups,4,0.0,0.0
+2022,7,16,backsquats,1,5.0,95.0
+2022,7,16,backsquats,2,5.0,90.0
+2022,7,16,backsquats,3,5.0,90.0
+2022,7,16,backsquats,4,5.0,90.0
+2022,7,16,hypers,1,16.0,44.0
+2022,7,16,hypers,2,14.0,44.0
+2022,7,16,hypers,3,11.0,44.0
+2022,7,16,hypers,4,0.0,0.0
+2022,7,16,leg curls,1,11.0,10.0
+2022,7,16,leg curls,2,9.0,10.0
+2022,7,16,leg curls,3,8.0,10.0
+2022,7,16,leg curls,4,0.0,0.0
+2022,7,16,reverse nordics,1,9.0,0.0
+2022,7,16,reverse nordics,2,9.0,0.0
+2022,7,16,reverse nordics,3,8.0,0.0
+2022,7,16,reverse nordics,4,0.0,0.0
+2022,7,18,dips,1,11.0,0.0
+2022,7,18,dips,2,6.0,0.0
+2022,7,18,dips,3,6.0,0.0
+2022,7,18,dips,4,0.0,0.0
+2022,7,18,one arm lat pulldown,1,10.0,30.0
+2022,7,18,one arm lat pulldown,2,9.0,30.0
+2022,7,18,one arm lat pulldown,3,9.0,30.0
+2022,7,18,one arm lat pulldown,4,0.0,0.0
+2022,7,18,push ups,1,6.0,22.5
+2022,7,18,push ups,2,5.0,22.5
+2022,7,18,push ups,3,6.0,20.0
+2022,7,18,push ups,4,5.0,20.0
+2022,7,18,side lateral,1,13.0,5.0
+2022,7,18,side lateral,2,12.0,5.0
+2022,7,18,side lateral,3,10.0,5.0
+2022,7,18,side lateral,4,0.0,0.0
+2022,7,18,tricep extensions,1,12.0,0.0
+2022,7,18,tricep extensions,2,9.0,0.0
+2022,7,18,tricep extensions,3,7.0,0.0
+2022,7,18,tricep extensions,4,0.0,0.0
+2022,7,18,trx rows,1,14.0,0.0
+2022,7,18,trx rows,2,11.0,0.0
+2022,7,18,trx rows,3,9.0,0.0
+2022,7,18,trx rows,4,0.0,0.0
+2022,7,20,atg split squat,1,24.0,0.0
+2022,7,20,atg split squat,2,20.0,0.0
+2022,7,20,atg split squat,3,18.0,0.0
+2022,7,20,atg split squat,4,0.0,0.0
+2022,7,20,hamstring curls,1,12.0,10.0
+2022,7,20,hamstring curls,2,11.0,10.0
+2022,7,20,hamstring curls,3,10.0,10.0
+2022,7,20,hamstring curls,4,0.0,0.0
+2022,7,20,squat (pause),1,5.0,80.0
+2022,7,20,squat (pause),2,5.0,80.0
+2022,7,20,squat (pause),3,5.0,80.0
+2022,7,20,squat (pause),4,0.0,0.0
+2022,7,20,sumo dl,1,5.0,127.5
+2022,7,20,sumo dl,2,5.0,125.0
+2022,7,20,sumo dl,3,6.0,120.0
+2022,7,20,sumo dl,4,6.0,120.0
+2022,7,23,db curls,1,8.0,17.0
+2022,7,23,db curls,2,7.0,17.0
+2022,7,23,db curls,3,9.0,14.5
+2022,7,23,db curls,4,0.0,0.0
+2022,7,23,delt row,1,14.0,0.0
+2022,7,23,delt row,2,12.0,0.0
+2022,7,23,delt row,3,12.0,0.0
+2022,7,23,delt row,4,0.0,0.0
+2022,7,23,overhead press,1,6.0,42.5
+2022,7,23,overhead press,2,5.0,42.5
+2022,7,23,overhead press,3,6.0,40.0
+2022,7,23,overhead press,4,0.0,0.0
+2022,7,23,ring push ups,1,8.0,0.0
+2022,7,23,ring push ups,2,5.0,0.0
+2022,7,23,ring push ups,3,5.0,0.0
+2022,7,23,ring push ups,4,4.0,0.0
+2022,7,23,straight arm pulldown,1,10.0,10.0
+2022,7,23,straight arm pulldown,2,8.0,10.0
+2022,7,23,straight arm pulldown,3,16.0,5.0
+2022,7,23,straight arm pulldown,4,0.0,0.0
+2022,7,23,weighted pull ups,1,6.0,15.0
+2022,7,23,weighted pull ups,2,5.0,15.0
+2022,7,23,weighted pull ups,3,5.0,15.0
+2022,7,23,weighted pull ups,4,0.0,0.0
+2022,7,26,backsquats,1,5.0,95.0
+2022,7,26,backsquats,2,6.0,90.0
+2022,7,26,backsquats,3,5.0,90.0
+2022,7,26,backsquats,4,5.0,90.0
+2022,7,26,hypers,1,16.0,44.0
+2022,7,26,hypers,2,13.0,44.0
+2022,7,26,hypers,3,10.0,44.0
+2022,7,26,hypers,4,0.0,0.0
+2022,7,26,leg curls,1,11.0,10.0
+2022,7,26,leg curls,2,10.0,10.0
+2022,7,26,leg curls,3,0.0,0.0
+2022,7,26,leg curls,4,0.0,0.0
+2022,7,26,reverse nordics,1,0.0,0.0
+2022,7,26,reverse nordics,2,12.0,0.0
+2022,7,26,reverse nordics,3,0.0,0.0
+2022,7,26,reverse nordics,4,0.0,0.0
+2022,7,28,dips,1,11.0,0.0
+2022,7,28,dips,2,7.0,0.0
+2022,7,28,dips,3,6.0,0.0
+2022,7,28,dips,4,0.0,0.0
+2022,7,28,one arm lat pulldown,1,10.0,30.0
+2022,7,28,one arm lat pulldown,2,9.0,30.0
+2022,7,28,one arm lat pulldown,3,9.0,30.0
+2022,7,28,one arm lat pulldown,4,0.0,0.0
+2022,7,28,push ups,1,6.0,22.5
+2022,7,28,push ups,2,5.0,22.5
+2022,7,28,push ups,3,5.0,20.0
+2022,7,28,push ups,4,5.0,20.0
+2022,7,28,side lateral,1,12.0,5.0
+2022,7,28,side lateral,2,12.0,5.0
+2022,7,28,side lateral,3,11.0,5.0
+2022,7,28,side lateral,4,0.0,0.0
+2022,7,28,tricep extensions,1,10.0,0.0
+2022,7,28,tricep extensions,2,10.0,0.0
+2022,7,28,tricep extensions,3,9.0,0.0
+2022,7,28,tricep extensions,4,0.0,0.0
+2022,7,28,trx rows,1,15.0,0.0
+2022,7,28,trx rows,2,11.0,0.0
+2022,7,28,trx rows,3,9.0,0.0
+2022,7,28,trx rows,4,0.0,0.0
+2022,7,31,atg heel elevated squat,1,8.0,44.0
+2022,7,31,atg heel elevated squat,2,8.0,44.0
+2022,7,31,atg heel elevated squat,3,8.0,44.0
+2022,7,31,atg heel elevated squat,4,0.0,0.0
+2022,7,31,hamstring curls,1,13.0,10.0
+2022,7,31,hamstring curls,2,11.0,10.0
+2022,7,31,hamstring curls,3,10.0,10.0
+2022,7,31,hamstring curls,4,0.0,0.0
+2022,7,31,squat (pause),1,5.0,80.0
+2022,7,31,squat (pause),2,5.0,80.0
+2022,7,31,squat (pause),3,5.0,80.0
+2022,7,31,squat (pause),4,0.0,0.0
+2022,7,31,sumo dl,1,5.0,127.5
+2022,7,31,sumo dl,2,5.0,125.0
+2022,7,31,sumo dl,3,6.0,120.0
+2022,7,31,sumo dl,4,5.0,120.0
+2022,8,2,db curls,1,8.0,17.0
+2022,8,2,db curls,2,7.0,17.0
+2022,8,2,db curls,3,9.0,14.5
+2022,8,2,db curls,4,0.0,0.0
+2022,8,2,delt row,1,15.0,0.0
+2022,8,2,delt row,2,12.0,0.0
+2022,8,2,delt row,3,12.0,0.0
+2022,8,2,delt row,4,0.0,0.0
+2022,8,2,overhead press,1,5.0,45.0
+2022,8,2,overhead press,2,5.0,42.5
+2022,8,2,overhead press,3,6.0,40.0
+2022,8,2,overhead press,4,0.0,0.0
+2022,8,2,ring push ups,1,8.0,0.0
+2022,8,2,ring push ups,2,5.0,0.0
+2022,8,2,ring push ups,3,5.0,0.0
+2022,8,2,ring push ups,4,5.0,0.0
+2022,8,2,straight arm pulldown,1,10.0,10.0
+2022,8,2,straight arm pulldown,2,9.0,10.0
+2022,8,2,straight arm pulldown,3,8.0,10.0
+2022,8,2,straight arm pulldown,4,0.0,0.0
+2022,8,2,weighted pull ups,1,6.0,15.0
+2022,8,2,weighted pull ups,2,5.0,15.0
+2022,8,2,weighted pull ups,3,5.0,15.0
+2022,8,2,weighted pull ups,4,0.0,0.0
+2022,8,4,backsquats,1,5.0,95.0
+2022,8,4,backsquats,2,5.0,95.0
+2022,8,4,backsquats,3,5.0,90.0
+2022,8,4,backsquats,4,5.0,90.0
+2022,8,4,hypers,1,15.0,44.0
+2022,8,4,hypers,2,13.0,44.0
+2022,8,4,hypers,3,12.0,44.0
+2022,8,4,hypers,4,0.0,0.0
+2022,8,4,leg curls,1,12.0,10.0
+2022,8,4,leg curls,2,10.0,10.0
+2022,8,4,leg curls,3,9.0,10.0
+2022,8,4,leg curls,4,0.0,0.0
+2022,8,4,reverse nordics,1,13.0,0.0
+2022,8,4,reverse nordics,2,12.0,0.0
+2022,8,4,reverse nordics,3,10.0,0.0
+2022,8,4,reverse nordics,4,0.0,0.0
+2022,8,6,dips,1,10.0,0.0
+2022,8,6,dips,2,7.0,0.0
+2022,8,6,dips,3,6.0,0.0
+2022,8,6,dips,4,0.0,0.0
+2022,8,6,one arm lat pulldown,1,10.0,30.0
+2022,8,6,one arm lat pulldown,2,9.0,30.0
+2022,8,6,one arm lat pulldown,3,9.0,30.0
+2022,8,6,one arm lat pulldown,4,0.0,0.0
+2022,8,6,push ups,1,6.0,20.0
+2022,8,6,push ups,2,5.0,20.0
+2022,8,6,push ups,3,6.0,15.0
+2022,8,6,push ups,4,6.0,15.0
+2022,8,6,side lateral,1,14.0,5.0
+2022,8,6,side lateral,2,12.0,5.0
+2022,8,6,side lateral,3,12.0,5.0
+2022,8,6,side lateral,4,0.0,0.0
+2022,8,6,tricep extensions,1,11.0,0.0
+2022,8,6,tricep extensions,2,10.0,0.0
+2022,8,6,tricep extensions,3,10.0,0.0
+2022,8,6,tricep extensions,4,0.0,0.0
+2022,8,6,trx rows,1,14.0,0.0
+2022,8,6,trx rows,2,9.0,0.0
+2022,8,6,trx rows,3,9.0,0.0
+2022,8,6,trx rows,4,0.0,0.0
+2022,8,8,atg heel elevated squat,2,0.0,0.0
+2022,8,8,atg heel elevated squat,3,0.0,0.0
+2022,8,8,atg heel elevated squat,4,0.0,0.0
+2022,8,8,hamstring curls,2,0.0,0.0
+2022,8,8,hamstring curls,3,0.0,0.0
+2022,8,8,hamstring curls,4,0.0,0.0
+2022,8,8,squat (pause),1,5.0,80.0
+2022,8,8,squat (pause),2,5.0,80.0
+2022,8,8,squat (pause),3,5.0,80.0
+2022,8,8,squat (pause),4,0.0,0.0
+2022,8,8,sumo dl,1,6.0,115.0
+2022,8,8,sumo dl,2,5.0,115.0
+2022,8,8,sumo dl,3,6.0,100.0
+2022,8,8,sumo dl,4,6.0,100.0
+2022,8,10,db curls,1,8.0,17.0
+2022,8,10,db curls,2,7.0,17.0
+2022,8,10,db curls,3,9.0,14.5
+2022,8,10,db curls,4,0.0,0.0
+2022,8,10,delt row,1,15.0,0.0
+2022,8,10,delt row,2,13.0,0.0
+2022,8,10,delt row,3,13.0,0.0
+2022,8,10,delt row,4,0.0,0.0
+2022,8,10,overhead press,1,5.0,45.0
+2022,8,10,overhead press,2,5.0,42.5
+2022,8,10,overhead press,3,6.0,40.0
+2022,8,10,overhead press,4,0.0,0.0
+2022,8,10,ring push ups,1,8.0,0.0
+2022,8,10,ring push ups,2,6.0,0.0
+2022,8,10,ring push ups,3,5.0,0.0
+2022,8,10,ring push ups,4,5.0,0.0
+2022,8,10,straight arm pulldown,1,10.0,10.0
+2022,8,10,straight arm pulldown,2,10.0,10.0
+2022,8,10,straight arm pulldown,3,9.0,10.0
+2022,8,10,straight arm pulldown,4,0.0,0.0
+2022,8,10,weighted pull ups,1,6.0,15.0
+2022,8,10,weighted pull ups,2,6.0,15.0
+2022,8,10,weighted pull ups,3,5.0,15.0
+2022,8,10,weighted pull ups,4,0.0,0.0
+2022,8,12,backsquats,1,5.0,95.0
+2022,8,12,backsquats,2,5.0,95.0
+2022,8,12,backsquats,3,6.0,90.0
+2022,8,12,backsquats,4,5.0,90.0
+2022,8,12,leg curls,1,13.0,10.0
+2022,8,12,leg curls,2,13.0,10.0
+2022,8,12,leg curls,3,10.0,10.0
+2022,8,12,leg curls,4,0.0,0.0
+2022,8,12,leg extensions,1,15.0,25.0
+2022,8,12,leg extensions,2,14.0,25.0
+2022,8,12,leg extensions,3,13.0,25.0
+2022,8,12,leg extensions,4,0.0,0.0
+2022,8,12,rdls,1,12.0,100.0
+2022,8,12,rdls,2,11.0,100.0
+2022,8,12,rdls,3,12.0,90.0
+2022,8,12,rdls,4,0.0,0.0
+2022,8,15,band crossover,1,20.0,0.0
+2022,8,15,band crossover,2,20.0,0.0
+2022,8,15,band crossover,3,19.5,0.0
+2022,8,15,band crossover,4,0.0,0.0
+2022,8,15,one arm lat pulldown,1,0.0,0.0
+2022,8,15,one arm lat pulldown,2,0.0,0.0
+2022,8,15,one arm lat pulldown,3,0.0,0.0
+2022,8,15,one arm lat pulldown,4,0.0,0.0
+2022,8,15,push ups,1,14.0,0.0
+2022,8,15,push ups,2,12.0,0.0
+2022,8,15,push ups,3,10.0,0.0
+2022,8,15,push ups,4,9.0,0.0
+2022,8,15,side lateral,1,0.0,0.0
+2022,8,15,side lateral,2,0.0,0.0
+2022,8,15,side lateral,3,0.0,0.0
+2022,8,15,side lateral,4,0.0,0.0
+2022,8,15,tricep extensions,1,0.0,0.0
+2022,8,15,tricep extensions,2,0.0,0.0
+2022,8,15,tricep extensions,3,0.0,0.0
+2022,8,15,tricep extensions,4,0.0,0.0
+2022,8,15,trx rows,1,15.0,0.0
+2022,8,15,trx rows,2,11.0,0.0
+2022,8,15,trx rows,3,9.0,0.0
+2022,8,15,trx rows,4,0.0,0.0
+2022,8,19,atg heel elevated squat,1,10.0,44.0
+2022,8,19,atg heel elevated squat,2,9.0,44.0
+2022,8,19,atg heel elevated squat,3,8.0,44.0
+2022,8,19,atg heel elevated squat,4,0.0,0.0
+2022,8,19,hamstring curls,1,15.0,10.0
+2022,8,19,hamstring curls,2,8.0,15.0
+2022,8,19,hamstring curls,3,7.0,15.0
+2022,8,19,hamstring curls,4,0.0,0.0
+2022,8,19,squat (pause),1,5.0,80.0
+2022,8,19,squat (pause),2,5.0,80.0
+2022,8,19,squat (pause),3,5.0,75.0
+2022,8,19,squat (pause),4,0.0,0.0
+2022,8,19,sumo dl,1,4.0,120.0
+2022,8,19,sumo dl,2,5.0,110.0
+2022,8,19,sumo dl,3,5.0,110.0
+2022,8,19,sumo dl,4,5.0,105.0
+2022,8,21,db curls,1,8.0,14.5
+2022,8,21,db curls,2,7.0,14.5
+2022,8,21,db curls,3,6.0,14.5
+2022,8,21,db curls,4,0.0,0.0
+2022,8,21,delt row,1,18.0,0.0
+2022,8,21,delt row,2,14.0,0.0
+2022,8,21,delt row,3,12.0,0.0
+2022,8,21,delt row,4,0.0,0.0
+2022,8,21,overhead press,1,2.0,45.0
+2022,8,21,overhead press,2,7.0,40.0
+2022,8,21,overhead press,3,6.0,40.0
+2022,8,21,overhead press,4,0.0,0.0
+2022,8,21,ring push ups,1,9.0,0.0
+2022,8,21,ring push ups,2,7.0,0.0
+2022,8,21,ring push ups,3,4.5,0.0
+2022,8,21,ring push ups,4,4.0,0.0
+2022,8,21,straight arm pulldown,1,10.0,10.0
+2022,8,21,straight arm pulldown,2,9.0,10.0
+2022,8,21,straight arm pulldown,3,9.0,10.0
+2022,8,21,straight arm pulldown,4,0.0,0.0
+2022,8,21,weighted pull ups,1,6.0,15.0
+2022,8,21,weighted pull ups,2,6.0,15.0
+2022,8,21,weighted pull ups,3,5.0,15.0
+2022,8,21,weighted pull ups,4,0.0,0.0
+2022,8,23,backsquats,1,5.0,95.0
+2022,8,23,backsquats,2,5.0,85.0
+2022,8,23,backsquats,3,5.0,85.0
+2022,8,23,backsquats,4,5.0,80.0
+2022,8,23,leg curls,1,9.0,15.0
+2022,8,23,leg curls,2,8.0,15.0
+2022,8,23,leg curls,3,7.0,15.0
+2022,8,23,leg curls,4,0.0,0.0
+2022,8,23,leg extensions,1,14.0,30.0
+2022,8,23,leg extensions,2,12.0,30.0
+2022,8,23,leg extensions,3,11.0,30.0
+2022,8,23,leg extensions,4,0.0,0.0
+2022,8,23,rdls,1,12.0,100.0
+2022,8,23,rdls,2,14.0,90.0
+2022,8,23,rdls,3,11.0,90.0
+2022,8,23,rdls,4,0.0,0.0
+2022,8,25,dips,1,10.0,0.0
+2022,8,25,dips,2,7.0,0.0
+2022,8,25,dips,3,5.0,0.0
+2022,8,25,dips,4,0.0,0.0
+2022,8,25,one arm lat pulldown,1,10.0,30.0
+2022,8,25,one arm lat pulldown,2,9.0,30.0
+2022,8,25,one arm lat pulldown,3,9.0,30.0
+2022,8,25,one arm lat pulldown,4,0.0,0.0
+2022,8,25,push ups,1,7.0,20.0
+2022,8,25,push ups,2,6.0,20.0
+2022,8,25,push ups,3,5.0,20.0
+2022,8,25,push ups,4,5.0,20.0
+2022,8,25,side lateral,1,13.0,5.0
+2022,8,25,side lateral,2,12.0,5.0
+2022,8,25,side lateral,3,11.0,5.0
+2022,8,25,side lateral,4,0.0,0.0
+2022,8,25,tricep pushdowns,1,12.0,0.0
+2022,8,25,tricep pushdowns,2,11.0,0.0
+2022,8,25,tricep pushdowns,3,11.0,0.0
+2022,8,25,tricep pushdowns,4,0.0,0.0
+2022,8,25,trx rows,1,10.0,10.0
+2022,8,25,trx rows,2,8.0,10.0
+2022,8,25,trx rows,3,9.0,0.0
+2022,8,25,trx rows,4,0.0,0.0
+2022,8,28,atg heel elevated squat,1,0.0,0.0
+2022,8,28,atg heel elevated squat,2,0.0,0.0
+2022,8,28,atg heel elevated squat,3,0.0,0.0
+2022,8,28,atg heel elevated squat,4,0.0,0.0
+2022,8,28,hamstring curls,1,0.0,0.0
+2022,8,28,hamstring curls,2,0.0,0.0
+2022,8,28,hamstring curls,3,0.0,0.0
+2022,8,28,hamstring curls,4,0.0,0.0
+2022,8,28,squat (pause),1,5.0,75.0
+2022,8,28,squat (pause),2,5.0,75.0
+2022,8,28,squat (pause),3,5.0,75.0
+2022,8,28,squat (pause),4,0.0,0.0
+2022,8,28,sumo dl,1,3.0,115.0
+2022,8,28,sumo dl,2,5.0,110.0
+2022,8,28,sumo dl,3,7.0,100.0
+2022,8,28,sumo dl,4,6.0,100.0
+2022,8,30,db curls,1,9.0,14.5
+2022,8,30,db curls,2,8.0,14.5
+2022,8,30,db curls,3,7.0,14.5
+2022,8,30,db curls,4,0.0,0.0
+2022,8,30,delt row,1,12.0,5.0
+2022,8,30,delt row,2,12.0,5.0
+2022,8,30,delt row,3,13.0,0.0
+2022,8,30,delt row,4,0.0,0.0
+2022,8,30,overhead press,1,5.0,42.5
+2022,8,30,overhead press,2,5.0,42.5
+2022,8,30,overhead press,3,5.0,40.0
+2022,8,30,overhead press,4,0.0,0.0
+2022,8,30,ring push ups,1,9.0,0.0
+2022,8,30,ring push ups,2,6.0,0.0
+2022,8,30,ring push ups,3,5.0,0.0
+2022,8,30,ring push ups,4,4.0,0.0
+2022,8,30,straight arm pulldown,1,11.0,10.0
+2022,8,30,straight arm pulldown,2,10.0,10.0
+2022,8,30,straight arm pulldown,3,9.0,10.0
+2022,8,30,straight arm pulldown,4,0.0,0.0
+2022,8,30,weighted pull ups,1,6.0,15.0
+2022,8,30,weighted pull ups,2,6.0,15.0
+2022,8,30,weighted pull ups,3,5.0,15.0
+2022,8,30,weighted pull ups,4,0.0,0.0
+2022,9,2,backsquats,1,5.0,90.0
+2022,9,2,backsquats,2,5.0,85.0
+2022,9,2,backsquats,3,5.0,85.0
+2022,9,2,backsquats,4,5.0,80.0
+2022,9,2,leg curls,1,9.0,15.0
+2022,9,2,leg curls,2,8.0,15.0
+2022,9,2,leg curls,3,7.0,15.0
+2022,9,2,leg curls,4,0.0,0.0
+2022,9,2,leg extensions,1,10.0,35.0
+2022,9,2,leg extensions,2,12.0,30.0
+2022,9,2,leg extensions,3,11.0,30.0
+2022,9,2,leg extensions,4,0.0,0.0
+2022,9,2,rdls,1,12.0,90.0
+2022,9,2,rdls,2,12.0,90.0
+2022,9,2,rdls,3,10.0,90.0
+2022,9,2,rdls,4,0.0,0.0
+2022,9,4,dips,1,9.0,0.0
+2022,9,4,dips,2,6.0,0.0
+2022,9,4,dips,3,5.0,0.0
+2022,9,4,dips,4,0.0,0.0
+2022,9,4,one arm lat pulldown,1,11.0,30.0
+2022,9,4,one arm lat pulldown,2,9.0,30.0
+2022,9,4,one arm lat pulldown,3,8.0,30.0
+2022,9,4,one arm lat pulldown,4,0.0,0.0
+2022,9,4,push ups,1,5.0,22.5
+2022,9,4,push ups,2,5.0,20.0
+2022,9,4,push ups,3,4.0,20.0
+2022,9,4,push ups,4,7.0,10.0
+2022,9,4,side lateral,1,12.0,5.0
+2022,9,4,side lateral,2,11.0,5.0
+2022,9,4,side lateral,3,10.0,5.0
+2022,9,4,side lateral,4,0.0,0.0
+2022,9,4,tricep extensions,1,10.0,0.0
+2022,9,4,tricep extensions,2,10.0,0.0
+2022,9,4,tricep extensions,3,10.0,0.0
+2022,9,4,tricep extensions,4,0.0,0.0
+2022,9,4,trx rows,1,10.0,10.0
+2022,9,4,trx rows,2,8.0,10.0
+2022,9,4,trx rows,3,9.0,0.0
+2022,9,4,trx rows,4,0.0,0.0
+2022,9,6,atg heel elevated squat,1,0.0,0.0
+2022,9,6,atg heel elevated squat,2,0.0,0.0
+2022,9,6,atg heel elevated squat,3,0.0,0.0
+2022,9,6,atg heel elevated squat,4,0.0,0.0
+2022,9,6,hamstring curls,1,0.0,0.0
+2022,9,6,hamstring curls,2,0.0,0.0
+2022,9,6,hamstring curls,3,0.0,0.0
+2022,9,6,hamstring curls,4,0.0,0.0
+2022,9,6,squat (pause),1,5.0,75.0
+2022,9,6,squat (pause),2,5.0,75.0
+2022,9,6,squat (pause),3,5.0,75.0
+2022,9,6,squat (pause),4,0.0,0.0
+2022,9,6,sumo dl,1,1.0,120.0
+2022,9,6,sumo dl,2,6.0,105.0
+2022,9,6,sumo dl,3,5.0,105.0
+2022,9,6,sumo dl,4,5.0,105.0
+2022,9,8,chin ups,1,5.0,10.0
+2022,9,8,chin ups,2,6.0,7.5
+2022,9,8,chin ups,3,5.0,7.5
+2022,9,8,chin ups,4,0.0,0.0
+2022,9,8,db curls,1,10.0,14.5
+2022,9,8,db curls,2,7.0,14.5
+2022,9,8,db curls,3,7.0,14.5
+2022,9,8,db curls,4,0.0,0.0
+2022,9,8,delt row,1,13.0,5.0
+2022,9,8,delt row,2,11.0,5.0
+2022,9,8,delt row,3,13.0,0.0
+2022,9,8,delt row,4,0.0,0.0
+2022,9,8,overhead press,1,6.0,42.5
+2022,9,8,overhead press,2,5.0,42.5
+2022,9,8,overhead press,3,6.0,40.0
+2022,9,8,overhead press,4,0.0,0.0
+2022,9,8,ring push ups,1,8.0,0.0
+2022,9,8,ring push ups,2,7.0,0.0
+2022,9,8,ring push ups,3,6.0,0.0
+2022,9,8,ring push ups,4,5.0,0.0
+2022,9,8,straight arm pulldown,1,11.0,10.0
+2022,9,8,straight arm pulldown,2,10.0,10.0
+2022,9,8,straight arm pulldown,3,9.0,10.0
+2022,9,8,straight arm pulldown,4,0.0,0.0
+2022,9,11,backsquats,1,5.0,90.0
+2022,9,11,backsquats,2,5.0,85.0
+2022,9,11,backsquats,3,5.0,85.0
+2022,9,11,backsquats,4,6.0,80.0
+2022,9,11,hypers,1,16.0,44.0
+2022,9,11,hypers,2,12.0,44.0
+2022,9,11,hypers,3,10.0,44.0
+2022,9,11,hypers,4,0.0,0.0
+2022,9,11,leg curls,1,10.0,15.0
+2022,9,11,leg curls,2,7.0,15.0
+2022,9,11,leg curls,3,7.0,15.0
+2022,9,11,leg curls,4,0.0,0.0
+2022,9,11,leg extensions,1,12.0,35.0
+2022,9,11,leg extensions,2,11.0,35.0
+2022,9,11,leg extensions,3,10.0,35.0
+2022,9,11,leg extensions,4,0.0,0.0
+2022,9,13,dips,1,10.0,0.0
+2022,9,13,dips,2,7.0,0.0
+2022,9,13,dips,3,6.0,0.0
+2022,9,13,dips,4,0.0,0.0
+2022,9,13,one arm lat pulldown,1,7.0,35.0
+2022,9,13,one arm lat pulldown,2,10.0,30.0
+2022,9,13,one arm lat pulldown,3,9.0,30.0
+2022,9,13,one arm lat pulldown,4,0.0,0.0
+2022,9,13,push ups,1,6.0,22.5
+2022,9,13,push ups,2,5.0,22.5
+2022,9,13,push ups,3,4.0,20.0
+2022,9,13,push ups,4,6.0,15.0
+2022,9,13,side lateral,1,13.0,5.0
+2022,9,13,side lateral,2,12.0,5.0
+2022,9,13,side lateral,3,12.0,5.0
+2022,9,13,side lateral,4,0.0,0.0
+2022,9,13,tricep extensions,1,11.0,0.0
+2022,9,13,tricep extensions,2,10.0,0.0
+2022,9,13,tricep extensions,3,9.0,0.0
+2022,9,13,tricep extensions,4,0.0,0.0
+2022,9,13,trx rows,1,13.0,10.0
+2022,9,13,trx rows,2,8.0,10.0
+2022,9,13,trx rows,3,8.0,0.0
+2022,9,13,trx rows,4,0.0,0.0
+2022,9,15,atg heel elevated squat,1,9.0,44.0
+2022,9,15,atg heel elevated squat,2,9.0,44.0
+2022,9,15,atg heel elevated squat,3,8.0,44.0
+2022,9,15,atg heel elevated squat,4,0.0,0.0
+2022,9,15,bw hypers,1,22.0,0.0
+2022,9,15,bw hypers,2,20.0,0.0
+2022,9,15,bw hypers,3,20.0,0.0
+2022,9,15,bw hypers,4,0.0,0.0
+2022,9,15,squat (pause),1,5.0,80.0
+2022,9,15,squat (pause),2,5.0,75.0
+2022,9,15,squat (pause),3,5.0,75.0
+2022,9,15,squat (pause),4,0.0,0.0
+2022,9,15,sumo dl,1,3.0,120.0
+2022,9,15,sumo dl,2,5.0,110.0
+2022,9,15,sumo dl,3,5.0,110.0
+2022,9,15,sumo dl,4,6.0,105.0
+2022,9,18,chin ups,1,6.0,10.0
+2022,9,18,chin ups,2,5.0,10.0
+2022,9,18,chin ups,3,6.0,7.5
+2022,9,18,chin ups,4,0.0,0.0
+2022,9,18,db curls,1,10.0,14.5
+2022,9,18,db curls,2,8.0,14.5
+2022,9,18,db curls,3,7.0,14.5
+2022,9,18,db curls,4,0.0,0.0
+2022,9,18,delt row,1,13.0,10.0
+2022,9,18,delt row,2,9.0,10.0
+2022,9,18,delt row,3,9.0,0.0
+2022,9,18,delt row,4,0.0,0.0
+2022,9,18,overhead press,1,6.0,42.5
+2022,9,18,overhead press,2,4.0,42.5
+2022,9,18,overhead press,3,5.0,40.0
+2022,9,18,overhead press,4,0.0,0.0
+2022,9,18,ring push ups,1,9.0,0.0
+2022,9,18,ring push ups,2,6.0,0.0
+2022,9,18,ring push ups,3,5.0,0.0
+2022,9,18,ring push ups,4,4.0,0.0
+2022,9,18,straight arm pulldown,1,11.0,10.0
+2022,9,18,straight arm pulldown,2,10.0,10.0
+2022,9,18,straight arm pulldown,3,7.0,10.0
+2022,9,18,straight arm pulldown,4,0.0,0.0
+2022,9,20,backsquats,1,5.0,85.0
+2022,9,20,backsquats,2,5.0,85.0
+2022,9,20,backsquats,3,5.0,80.0
+2022,9,20,backsquats,4,5.0,80.0
+2022,9,20,hypers,1,15.0,44.0
+2022,9,20,hypers,2,13.0,44.0
+2022,9,20,hypers,3,10.0,44.0
+2022,9,20,hypers,4,0.0,0.0
+2022,9,20,leg curls,1,11.0,15.0
+2022,9,20,leg curls,2,7.0,15.0
+2022,9,20,leg curls,3,7.0,15.0
+2022,9,20,leg curls,4,0.0,0.0
+2022,9,20,leg extensions,1,10.0,40.0
+2022,9,20,leg extensions,2,11.0,35.0
+2022,9,20,leg extensions,3,10.0,35.0
+2022,9,20,leg extensions,4,0.0,0.0
+2022,9,23,dips,1,10.0,0.0
+2022,9,23,dips,2,6.0,0.0
+2022,9,23,dips,3,5.0,0.0
+2022,9,23,dips,4,0.0,0.0
+2022,9,23,one arm lat pulldown,1,7.0,35.0
+2022,9,23,one arm lat pulldown,2,10.0,30.0
+2022,9,23,one arm lat pulldown,3,9.0,30.0
+2022,9,23,one arm lat pulldown,4,0.0,0.0
+2022,9,23,push ups,1,6.0,22.5
+2022,9,23,push ups,2,5.0,22.5
+2022,9,23,push ups,3,5.0,20.0
+2022,9,23,push ups,4,5.0,20.0
+2022,9,23,side lateral,1,13.0,5.0
+2022,9,23,side lateral,2,13.0,5.0
+2022,9,23,side lateral,3,12.0,5.0
+2022,9,23,side lateral,4,0.0,0.0
+2022,9,23,tricep extensions,1,11.0,0.0
+2022,9,23,tricep extensions,2,9.0,0.0
+2022,9,23,tricep extensions,3,9.0,0.0
+2022,9,23,tricep extensions,4,0.0,0.0
+2022,9,23,trx rows,1,11.0,15.0
+2022,9,23,trx rows,2,8.0,10.0
+2022,9,23,trx rows,3,8.0,0.0
+2022,9,23,trx rows,4,0.0,0.0
+2022,9,26,atg heel elevated squat,1,0.0,0.0
+2022,9,26,atg heel elevated squat,2,0.0,0.0
+2022,9,26,atg heel elevated squat,3,0.0,0.0
+2022,9,26,atg heel elevated squat,4,0.0,0.0
+2022,9,26,db curls,1,10.0,14.5
+2022,9,26,db curls,2,8.0,14.5
+2022,9,26,db curls,3,8.0,14.5
+2022,9,26,db curls,4,0.0,0.0
+2022,9,26,delt row,1,13.0,10.0
+2022,9,26,delt row,2,10.0,10.0
+2022,9,26,delt row,3,12.0,0.0
+2022,9,26,delt row,4,0.0,0.0
+2022,9,26,hamstring curls,1,0.0,0.0
+2022,9,26,hamstring curls,2,0.0,0.0
+2022,9,26,hamstring curls,3,,0.0
+2022,9,26,hamstring curls,4,0.0,0.0
+2022,9,26,overhead press,1,6.0,42.5
+2022,9,26,overhead press,2,5.0,42.5
+2022,9,26,overhead press,3,5.0,40.0
+2022,9,26,overhead press,4,0.0,0.0
+2022,9,26,pull ups*,1,7.0,10.0
+2022,9,26,pull ups*,2,6.0,10.0
+2022,9,26,pull ups*,3,5.0,10.0
+2022,9,26,pull ups*,4,0.0,0.0
+2022,9,26,ring push ups,1,9.0,0.0
+2022,9,26,ring push ups,2,7.0,0.0
+2022,9,26,ring push ups,3,5.0,0.0
+2022,9,26,ring push ups,4,5.0,0.0
+2022,9,26,squat (pause),1,5.0,80.0
+2022,9,26,squat (pause),2,5.0,75.0
+2022,9,26,squat (pause),3,5.0,75.0
+2022,9,26,squat (pause),4,0.0,0.0
+2022,9,26,straight arm pulldown,1,11.0,10.0
+2022,9,26,straight arm pulldown,2,10.0,10.0
+2022,9,26,straight arm pulldown,3,9.0,10.0
+2022,9,26,straight arm pulldown,4,0.0,0.0
+2022,9,26,sumo dl,1,4.0,120.0
+2022,9,26,sumo dl,2,6.0,110.0
+2022,9,26,sumo dl,3,5.0,110.0
+2022,9,26,sumo dl,4,6.0,105.0
+2022,9,30,backsquats,1,5.0,90.0
+2022,9,30,backsquats,2,5.0,85.0
+2022,9,30,backsquats,3,5.0,85.0
+2022,9,30,backsquats,4,5.0,80.0
+2022,9,30,hypers,1,16.0,44.0
+2022,9,30,hypers,2,13.0,44.0
+2022,9,30,hypers,3,10.0,44.0
+2022,9,30,hypers,4,0.0,0.0
+2022,9,30,leg curls,1,0.0,0.0
+2022,9,30,leg curls,2,0.0,0.0
+2022,9,30,leg curls,3,0.0,0.0
+2022,9,30,leg curls,4,0.0,0.0
+2022,9,30,leg extensions,1,0.0,0.0
+2022,9,30,leg extensions,2,0.0,0.0
+2022,9,30,leg extensions,3,0.0,0.0
+2022,9,30,leg extensions,4,0.0,0.0
+2022,10,4,dips,1,11.0,0.0
+2022,10,4,dips,2,7.0,0.0
+2022,10,4,dips,3,6.0,0.0
+2022,10,4,dips,4,0.0,0.0
+2022,10,4,one arm lat pulldown,1,7.0,35.0
+2022,10,4,one arm lat pulldown,2,10.0,30.0
+2022,10,4,one arm lat pulldown,3,9.0,30.0
+2022,10,4,one arm lat pulldown,4,0.0,0.0
+2022,10,4,push ups,1,6.0,22.5
+2022,10,4,push ups,2,5.0,22.5
+2022,10,4,push ups,3,5.0,20.0
+2022,10,4,push ups,4,5.0,20.0
+2022,10,4,side lateral,1,15.0,5.0
+2022,10,4,side lateral,2,14.0,5.0
+2022,10,4,side lateral,3,12.0,5.0
+2022,10,4,side lateral,4,0.0,0.0
+2022,10,4,tricep extensions,1,10.0,0.0
+2022,10,4,tricep extensions,2,9.0,0.0
+2022,10,4,tricep extensions,3,8.0,0.0
+2022,10,4,tricep extensions,4,0.0,0.0
+2022,10,4,trx rows,1,12.0,15.0
+2022,10,4,trx rows,2,8.0,10.0
+2022,10,4,trx rows,3,9.0,0.0
+2022,10,4,trx rows,4,0.0,0.0
+2022,10,6,atg heel elevated squat,1,0.0,0.0
+2022,10,6,atg heel elevated squat,2,0.0,0.0
+2022,10,6,atg heel elevated squat,3,0.0,0.0
+2022,10,6,atg heel elevated squat,4,0.0,0.0
+2022,10,6,hamstring curls,1,0.0,0.0
+2022,10,6,hamstring curls,2,0.0,0.0
+2022,10,6,hamstring curls,3,0.0,0.0
+2022,10,6,hamstring curls,4,0.0,0.0
+2022,10,6,squat (pause),1,5.0,80.0
+2022,10,6,squat (pause),2,6.0,75.0
+2022,10,6,squat (pause),3,5.0,75.0
+2022,10,6,squat (pause),4,0.0,0.0
+2022,10,6,sumo dl,1,5.0,120.0
+2022,10,6,sumo dl,2,5.0,115.0
+2022,10,6,sumo dl,3,5.0,110.0
+2022,10,6,sumo dl,4,6.0,105.0
+2022,10,9,chin ups,1,6.0,10.0
+2022,10,9,chin ups,2,6.0,10.0
+2022,10,9,chin ups,3,5.0,10.0
+2022,10,9,chin ups,4,0.0,0.0
+2022,10,9,db curls,1,9.0,14.5
+2022,10,9,db curls,2,8.0,14.5
+2022,10,9,db curls,3,8.0,14.5
+2022,10,9,db curls,4,0.0,0.0
+2022,10,9,delt row,1,13.0,10.0
+2022,10,9,delt row,2,10.0,10.0
+2022,10,9,delt row,3,15.0,0.0
+2022,10,9,delt row,4,0.0,0.0
+2022,10,9,overhead press,1,6.0,42.5
+2022,10,9,overhead press,2,5.0,42.5
+2022,10,9,overhead press,3,5.0,40.0
+2022,10,9,overhead press,4,0.0,0.0
+2022,10,9,ring push ups,1,9.0,0.0
+2022,10,9,ring push ups,2,6.0,0.0
+2022,10,9,ring push ups,3,5.0,0.0
+2022,10,9,ring push ups,4,5.0,0.0
+2022,10,9,straight arm pulldown,1,14.0,0.0
+2022,10,9,straight arm pulldown,2,13.0,0.0
+2022,10,9,straight arm pulldown,3,14.0,0.0
+2022,10,9,straight arm pulldown,4,0.0,0.0
+2022,10,12,backsquats,1,5.0,90.0
+2022,10,12,backsquats,2,5.0,85.0
+2022,10,12,backsquats,3,5.0,85.0
+2022,10,12,backsquats,4,6.0,80.0
+2022,10,12,good mornings,1,16.0,60.0
+2022,10,12,good mornings,2,15.0,60.0
+2022,10,12,good mornings,3,14.0,60.0
+2022,10,12,good mornings,4,0.0,0.0
+2022,10,12,hypers,1,25.0,0.0
+2022,10,12,hypers,2,25.0,0.0
+2022,10,12,hypers,3,25.0,0.0
+2022,10,12,hypers,4,0.0,0.0
+2022,10,14,dips,1,11.0,0.0
+2022,10,14,dips,2,7.0,0.0
+2022,10,14,dips,3,6.0,0.0
+2022,10,14,dips,4,0.0,0.0
+2022,10,14,lat pulldown,1,20.0,0.0
+2022,10,14,lat pulldown,2,16.0,0.0
+2022,10,14,lat pulldown,3,16.0,0.0
+2022,10,14,lat pulldown,4,0.0,0.0
+2022,10,14,push ups,1,5.0,22.5
+2022,10,14,push ups,2,5.0,22.5
+2022,10,14,push ups,3,5.0,20.0
+2022,10,14,push ups,4,5.0,17.5
+2022,10,14,side lateral,1,15.0,5.0
+2022,10,14,side lateral,2,14.0,5.0
+2022,10,14,side lateral,3,12.0,5.0
+2022,10,14,side lateral,4,0.0,0.0
+2022,10,14,tricep extensions,1,10.0,0.0
+2022,10,14,tricep extensions,2,10.0,0.0
+2022,10,14,tricep extensions,3,9.0,0.0
+2022,10,14,tricep extensions,4,0.0,0.0
+2022,10,14,trx rows,1,11.0,15.0
+2022,10,14,trx rows,2,10.0,10.0
+2022,10,14,trx rows,3,10.0,0.0
+2022,10,14,trx rows,4,0.0,0.0
+2022,10,16,squat (pause),1,5.0,75.0
+2022,10,16,squat (pause),2,5.0,75.0
+2022,10,16,squat (pause),3,5.0,75.0
+2022,10,16,squat (pause),4,0.0,0.0
+2022,10,16,sumo dl,1,5.0,120.0
+2022,10,16,sumo dl,2,6.0,110.0
+2022,10,16,sumo dl,3,5.0,110.0
+2022,10,16,sumo dl,4,6.0,105.0
+2022,10,18,chin ups,1,6.0,10.0
+2022,10,18,chin ups,2,6.0,10.0
+2022,10,18,chin ups,3,5.0,10.0
+2022,10,18,chin ups,4,0.0,0.0
+2022,10,18,db curls,1,9.0,14.5
+2022,10,18,db curls,2,8.0,14.5
+2022,10,18,db curls,3,7.0,14.5
+2022,10,18,db curls,4,0.0,0.0
+2022,10,18,delt row,1,16.0,0.0
+2022,10,18,delt row,2,13.0,0.0
+2022,10,18,delt row,3,12.0,0.0
+2022,10,18,delt row,4,0.0,0.0
+2022,10,18,overhead press,1,6.0,42.5
+2022,10,18,overhead press,2,5.0,42.5
+2022,10,18,overhead press,3,5.0,40.0
+2022,10,18,overhead press,4,0.0,0.0
+2022,10,18,pullover,1,10.0,14.5
+2022,10,18,pullover,2,10.0,14.5
+2022,10,18,pullover,3,10.0,14.5
+2022,10,18,pullover,4,0.0,0.0
+2022,10,18,ring push ups,1,9.0,0.0
+2022,10,18,ring push ups,2,6.0,0.0
+2022,10,18,ring push ups,3,5.0,0.0
+2022,10,18,ring push ups,4,5.0,0.0
+2022,10,20,backsquats,1,5.0,90.0
+2022,10,20,backsquats,2,5.0,85.0
+2022,10,20,backsquats,3,5.0,85.0
+2022,10,20,backsquats,4,6.0,80.0
+2022,10,20,good mornings,1,16.0,60.0
+2022,10,20,good mornings,2,16.0,60.0
+2022,10,20,good mornings,3,15.0,60.0
+2022,10,20,good mornings,4,0.0,0.0
+2022,10,22,bw pullups,1,8.0,0.0
+2022,10,22,bw pullups,2,8.0,0.0
+2022,10,22,bw pullups,3,8.0,0.0
+2022,10,22,bw pullups,4,0.0,0.0
+2022,10,22,dips,1,11.0,0.0
+2022,10,22,dips,2,6.0,0.0
+2022,10,22,dips,3,5.0,0.0
+2022,10,22,dips,4,0.0,0.0
+2022,10,22,push ups,1,5.0,22.5
+2022,10,22,push ups,2,5.0,22.5
+2022,10,22,push ups,3,5.0,20.0
+2022,10,22,push ups,4,7.0,10.0
+2022,10,22,side lateral,1,15.0,5.0
+2022,10,22,side lateral,2,13.0,5.0
+2022,10,22,side lateral,3,12.0,5.0
+2022,10,22,side lateral,4,0.0,0.0
+2022,10,22,tricep extensions,1,10.0,0.0
+2022,10,22,tricep extensions,2,9.0,0.0
+2022,10,22,tricep extensions,3,9.0,0.0
+2022,10,22,tricep extensions,4,0.0,0.0
+2022,10,22,trx rows,1,13.0,10.0
+2022,10,22,trx rows,2,10.0,10.0
+2022,10,22,trx rows,3,10.0,0.0
+2022,10,22,trx rows,4,0.0,0.0
+2022,10,24,atg heel elevated squat,1,0.0,0.0
+2022,10,24,atg heel elevated squat,2,0.0,0.0
+2022,10,24,atg heel elevated squat,3,0.0,0.0
+2022,10,24,atg heel elevated squat,4,0.0,0.0
+2022,10,24,barbell hacksquat,1,6.0,80.0
+2022,10,24,barbell hacksquat,2,5.0,90.0
+2022,10,24,barbell hacksquat,3,5.0,90.0
+2022,10,24,barbell hacksquat,4,0.0,0.0
+2022,10,24,hamstring curls,1,0.0,0.0
+2022,10,24,hamstring curls,2,0.0,0.0
+2022,10,24,hamstring curls,3,0.0,0.0
+2022,10,24,hamstring curls,4,0.0,0.0
+2022,10,24,sumo dl,1,5.0,110.0
+2022,10,24,sumo dl,2,4.0,120.0
+2022,10,24,sumo dl,3,5.0,110.0
+2022,10,24,sumo dl,4,6.0,105.0
