@@ -15,11 +15,11 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
 
-df1 = pd.read_csv('Lower A Clean.csv')
-df2 = pd.read_csv('Lower B Clean.csv')
-df3 = pd.read_csv('Upper A Clean.csv')
-df4 = pd.read_csv('Upper B Clean.csv')
-df5 = pd.read_csv('Upper Lower Maj Clean.csv')
+df1 = pd.read_csv('/data/Lower A Clean.csv')
+df2 = pd.read_csv('/data/Lower B Clean.csv')
+df3 = pd.read_csv('/data/Upper A Clean.csv')
+df4 = pd.read_csv('/data/Upper B Clean.csv')
+df5 = pd.read_csv('/data/Upper Lower Maj Clean.csv')
 
 frames = [df1, df2, df3, df4, df5]
 
@@ -68,10 +68,10 @@ pivoted_df.head()
 
 # %%
 # removed type column by exporting
-pivoted_df.to_csv('Trainingdata Final Clean.csv', index=False)
+pivoted_df.to_csv('/data/Trainingdata Final Clean.csv', index=False)
 
 # %%
-df_training = pd.read_csv('Trainingdata Final Clean.csv')
+df_training = pd.read_csv('/data/Trainingdata Final Clean.csv')
 df_training = df_training.set_index(['year', 'month', 'day'])
 df_training = df_training[df_training['reps'] != 0]
 
@@ -149,7 +149,7 @@ print('\nlength: ', df_training.exercise.nunique())
 # This time I can put the raw data directly in python because it is already pretty well structured.
 
 # %%
-df = pd.read_csv('weight.csv')
+df = pd.read_csv('/data/weight.csv')
 df = df.drop(columns=['Fat mass (kg)', 'Bone mass (kg)',
              'Muscle mass (kg)', 'Hydration (kg)', 'Comments'], axis=1)
 df = df.rename(columns={'Date': 'date', 'Weight (kg)': 'bodyweight'})
@@ -194,4 +194,4 @@ df.head()
 # %%
 df = df.dropna(subset=['exercise'])
 
-df.to_csv('Training and Weight data clean.csv', index=False)
+df.to_csv('/data/Training and Weight data clean.csv', index=False)
