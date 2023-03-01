@@ -15,17 +15,11 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
 
-df1 = pd.read_csv('/data/Lower A Clean.csv')
-df2 = pd.read_csv('/data/Lower B Clean.csv')
-df3 = pd.read_csv('/data/Upper A Clean.csv')
-df4 = pd.read_csv('/data/Upper B Clean.csv')
-df5 = pd.read_csv('/data/Upper Lower Maj Clean.csv')
+df = pd.read_csv('data/Trainingdata Rough Clean.csv')
 
-frames = [df1, df2, df3, df4, df5]
-
-df = pd.concat(frames)
 df.rename(columns={"excercise": "exercise"}, inplace=True)
 df.exercise = df.exercise.str.lower()
+df = df[df.Date.str.contains('Date') == False]
 df.head()
 
 # %% [markdown]
@@ -36,7 +30,6 @@ df['date'] = pd.to_datetime(df.Date)
 df['year'] = df['date'].dt.year
 df['month'] = df['date'].dt.month
 df['day'] = df['date'].dt.day
-df = df.drop('Date', axis=1)
 
 df.head()
 
@@ -68,10 +61,10 @@ pivoted_df.head()
 
 # %%
 # removed type column by exporting
-pivoted_df.to_csv('/data/Trainingdata Final Clean.csv', index=False)
+pivoted_df.to_csv('data/Trainingdata remove index.csv', index=False)
 
 # %%
-df_training = pd.read_csv('/data/Trainingdata Final Clean.csv')
+df_training = pd.read_csv('data/Trainingdata remove index.csv')
 df_training = df_training.set_index(['year', 'month', 'day'])
 df_training = df_training[df_training['reps'] != 0]
 
@@ -132,15 +125,15 @@ print("All exercises:\n", df_training.exercise.unique())
 print("\nNumber of different exercises: ", df_training.exercise.nunique())
 
 # %%
-print('\nNumber of sets of each exercise:\n',
-      df_training['exercise'].value_counts())
+print('\nTop 10 number of sets of each exercise:\n',
+      df_training['exercise'].value_counts().head(10))
 
 # %%
 df_training = df_training.groupby('exercise').filter(lambda x: len(x) > 4)
 
-print('\nNumber of sets of each exercise:\n',
-      df_training['exercise'].value_counts())
-print('\nlength: ', df_training.exercise.nunique())
+print('\nTop 10 number of sets of each exercise:\n',
+      df_training['exercise'].value_counts().head(10))
+print('\nNumber of different exercises: ', df_training.exercise.nunique())
 
 # %% [markdown]
 # ## Weight data
@@ -149,7 +142,7 @@ print('\nlength: ', df_training.exercise.nunique())
 # This time I can put the raw data directly in python because it is already pretty well structured.
 
 # %%
-df = pd.read_csv('/data/weight.csv')
+df = pd.read_csv('data/weight.csv')
 df = df.drop(columns=['Fat mass (kg)', 'Bone mass (kg)',
              'Muscle mass (kg)', 'Hydration (kg)', 'Comments'], axis=1)
 df = df.rename(columns={'Date': 'date', 'Weight (kg)': 'bodyweight'})
@@ -194,4 +187,4 @@ df.head()
 # %%
 df = df.dropna(subset=['exercise'])
 
-df.to_csv('/data/Training and Weight data clean.csv', index=False)
+df.to_csv('data/Training and Weight data clean.csv', index=False)
