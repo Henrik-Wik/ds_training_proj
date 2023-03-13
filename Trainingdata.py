@@ -8,12 +8,13 @@
 # %% [markdown]
 # I did a rough cleaning of the data in Power BI in order to more easily see what data to remove and change. Then for the more thorough cleaning I import all the data from csv-files into python with pandas.
 
-# %%
-import pandas as pd
 import datetime as dt
-import seaborn as sns
+
 import matplotlib.pyplot as plt
 import numpy as np
+# %%
+import pandas as pd
+import seaborn as sns
 
 df = pd.read_csv('data/Trainingdata Rough Clean.csv')
 
@@ -97,6 +98,8 @@ exercise_rename_list = {
     'axelpress': 'db shoulder press',
     'back squat': 'squats',
     'backsquats': 'squats',
+    'bench press (pause)': 'bench press',
+    'larsen press': 'bench press',
     'bw pullups': 'pull ups',
     'pullups': 'pull ups',
     'pull ups*': 'pull ups',
@@ -120,6 +123,7 @@ exercise_rename_list = {
     'single leg machine curls': 'hamstring curls',
     'leg curls': 'hamstring curls',
 }
+
 df_training['exercise'] = df_training['exercise'].replace(exercise_rename_list)
 print("All exercises:\n", df_training.exercise.unique())
 print("\nNumber of different exercises: ", df_training.exercise.nunique())
@@ -187,4 +191,67 @@ df.head()
 # %%
 df = df.dropna(subset=['exercise'])
 
-df.to_csv('data/Training and Weight data clean.csv', index=False)
+# df.to_csv('data/Training and Weight data clean.csv', index=False)
+
+df.set_index('date', inplace=True)
+
+# %%
+# Calculating tonnage
+
+df['tonnage'] = df['weight']*df['reps']*df['set #'].count()
+df['tonnage_avg'] = df['tonnage'].rolling(window=100).mean()
+# %%
+
+df['tonnage'].plot(kind='line', figsize=(10, 8))
+df['tonnage_avg'].plot(kind='line', figsize=(10, 8))
+plt.title('Tonnage Over Time')
+plt.xlabel('Time')
+plt.ylabel('Tonnage')
+plt.legend()
+
+# %%
+
+exercise_names = ['hamstring curls', 'sumo dl', 'bench press', 'inverted rows',
+                  'pull ups', 'squats', 'romanian deadlifts', 'overhead press']
+
+fig, axs = plt.subplots(4, 2, figsize=(10, 8))
+
+for i, exercise_name in enumerate(exercise_names):
+    row = i // 2
+    col = i % 2
+    exercise_df = df[df['exercise'] == exercise_name]
+    exercise_df['tonnage'] = exercise_df['weight'] * \
+        exercise_df['reps'] * exercise_df['set #']
+    grouped_df = exercise_df.groupby('date')['tonnage'].sum().reset_index()
+    axs[row, col].plot(grouped_df['date'], grouped_df['tonnage'])
+    axs[row, col].set_title(f'Tonnage for {exercise_name}')
+    axs[row, col].set_xlabel('Date')
+    axs[row, col].set_ylabel('Tonnage')
+    axs[row, col].tick_params(axis='x', rotation=45)
+
+plt.tight_layout()
+# %%
+# Boxplots
+exercise_names = ['hamstring curls', 'sumo dl', 'bench press', 'inverted rows',
+                  'pull ups', 'squats', 'romanian deadlifts', 'overhead press']
+
+fig, axs = plt.subplots(4, 2, figsize=(10, 8))
+
+for i, exercise_name in enumerate(exercise_names):
+    row = i // 2
+    col = i % 2
+    exercise_df = df[df['exercise'] == exercise_name]
+    exercise_df['tonnage'] = exercise_df['weight'] * \
+        exercise_df['reps'] * exercise_df['set #']
+    grouped_df = exercise_df.groupby('date')['tonnage'].sum().reset_index()
+    axs[row, col].boxplot(grouped_df['tonnage'])
+    axs[row, col].set_title(f'Tonnage for {exercise_name}')
+    axs[row, col].set_xlabel('Exercise')
+    axs[row, col].set_ylabel('Tonnage')
+
+plt.tight_layout()
+# %%
+df['exercise'].value_counts().nlargest(10).plot(kind='bar', figsize=(10, 8))
+plt.title('Top 10 Exercises')
+plt.xlabel('Exercise')
+plt.ylabel('Count')
