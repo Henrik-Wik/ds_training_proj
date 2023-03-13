@@ -198,19 +198,28 @@ df.set_index('date', inplace=True)
 # %%
 # Calculating tonnage
 
-df['tonnage'] = df['weight']*df['reps']*df['set #'].count()
+df['tonnage'] = df['weight']*df['reps']*df['set #'].count() / 1000 # Divide by 1000 to get tonnes
 df['tonnage_avg'] = df['tonnage'].rolling(window=100).mean()
 # %%
+# Total tonnage resampled weekly and monthly to mmore easily visualize
+df_weekly = df.resample('W').mean()
+df_monthly = df.resample('M').mean()
 
-df['tonnage'].plot(kind='line', figsize=(10, 8))
-df['tonnage_avg'].plot(kind='line', figsize=(10, 8))
-plt.title('Tonnage Over Time')
-plt.xlabel('Time')
-plt.ylabel('Tonnage')
-plt.legend()
+df_weekly['tonnage'].plot(kind='line', figsize=(10, 8))
+df_monthly['tonnage'].plot(kind='line', figsize=(10, 8))
+plt.title('Total Tonnage Over Time')
+plt.xlabel('Date')
+plt.ylabel('Weight (Tonnes)')
+plt.legend(['weekly','monthly'])
 
 # %%
-
+# Top 10 Exercises
+df['exercise'].value_counts().nlargest(10).plot(kind='bar', figsize=(10, 8))
+plt.title('Top 10 Exercises')
+plt.xlabel('Exercise')
+plt.ylabel('Total Count')
+# %%
+# Tonnage line graphs
 exercise_names = ['hamstring curls', 'sumo dl', 'bench press', 'inverted rows',
                   'pull ups', 'squats', 'romanian deadlifts', 'overhead press']
 
@@ -221,17 +230,18 @@ for i, exercise_name in enumerate(exercise_names):
     col = i % 2
     exercise_df = df[df['exercise'] == exercise_name]
     exercise_df['tonnage'] = exercise_df['weight'] * \
-        exercise_df['reps'] * exercise_df['set #']
+        exercise_df['reps'] * exercise_df['set #'].count() / \
+        1000  # Divide by 1000 to get tonnes
     grouped_df = exercise_df.groupby('date')['tonnage'].sum().reset_index()
     axs[row, col].plot(grouped_df['date'], grouped_df['tonnage'])
     axs[row, col].set_title(f'Tonnage for {exercise_name}')
     axs[row, col].set_xlabel('Date')
-    axs[row, col].set_ylabel('Tonnage')
+    axs[row, col].set_ylabel('Weight (Tonnes)')
     axs[row, col].tick_params(axis='x', rotation=45)
 
 plt.tight_layout()
 # %%
-# Boxplots
+# Tonnage Boxplots
 exercise_names = ['hamstring curls', 'sumo dl', 'bench press', 'inverted rows',
                   'pull ups', 'squats', 'romanian deadlifts', 'overhead press']
 
@@ -242,16 +252,54 @@ for i, exercise_name in enumerate(exercise_names):
     col = i % 2
     exercise_df = df[df['exercise'] == exercise_name]
     exercise_df['tonnage'] = exercise_df['weight'] * \
-        exercise_df['reps'] * exercise_df['set #']
+        exercise_df['reps'] * exercise_df['set #'].count() / \
+        1000  # Divide by 1000 to get tonnes
     grouped_df = exercise_df.groupby('date')['tonnage'].sum().reset_index()
     axs[row, col].boxplot(grouped_df['tonnage'])
     axs[row, col].set_title(f'Tonnage for {exercise_name}')
     axs[row, col].set_xlabel('Exercise')
-    axs[row, col].set_ylabel('Tonnage')
+    axs[row, col].set_ylabel('Weight (Tonnes)')
 
 plt.tight_layout()
 # %%
-df['exercise'].value_counts().nlargest(10).plot(kind='bar', figsize=(10, 8))
-plt.title('Top 10 Exercises')
-plt.xlabel('Exercise')
-plt.ylabel('Count')
+# Weight box plots
+exercise_names = ['hamstring curls', 'sumo dl', 'bench press', 'inverted rows',
+                  'pull ups', 'squats', 'romanian deadlifts', 'overhead press']
+
+fig, axs = plt.subplots(4, 2, figsize=(10, 8))
+
+for i, exercise_name in enumerate(exercise_names):
+    row = i // 2
+    col = i % 2
+    exercise_df = df[df['exercise'] == exercise_name]
+    grouped_df = exercise_df.groupby('date')['weight'].max().reset_index()
+    axs[row, col].boxplot(grouped_df['weight'])
+    axs[row, col].set_title(f'Weight for {exercise_name}')
+    axs[row, col].set_ylabel('Weight (Kg)')
+    axs[row, col].set_xticklabels({exercise_name})
+
+
+plt.tight_layout()
+# %%
+# Max Weight over time Linegraphs
+exercise_names = ['hamstring curls', 'sumo dl', 'bench press', 'inverted rows',
+                  'pull ups', 'squats', 'romanian deadlifts', 'overhead press']
+
+fig, axs = plt.subplots(4, 2, figsize=(10, 8))
+
+for i, exercise_name in enumerate(exercise_names):
+    row = i // 2
+    col = i % 2
+    exercise_df = df[df['exercise'] == exercise_name]
+    exercise_df['max_weight'] = exercise_df.groupby(
+        'date')['weight'].transform('max')
+    grouped_df = exercise_df.groupby('date')['max_weight'].max().reset_index()
+    axs[row, col].plot(grouped_df['date'], grouped_df['max_weight'])
+    axs[row, col].set_title(f'Max Weight for {exercise_name}')
+    axs[row, col].set_xlabel('Exercise')
+    axs[row, col].set_ylabel('Weight (Kg)')
+    axs[row, col].tick_params(axis='x', rotation=45)
+
+
+plt.tight_layout()
+# %%
