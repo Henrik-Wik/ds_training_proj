@@ -1,0 +1,412 @@
+Date;Week;sets:;excercise;set 1;set 2;set 3;set 4;rest (min);comments;RPE
+2021-12-07;50;3;Sumo DL;6 x 85kg;6 x 85;6 x 85;;3;;
+;;3;leg press;4 x 82kg;6 x 73;6 x 62;;3;ett ben;
+;;3;Hamstring curls;8 x 60;8ish x 60;7ish x 55;;2;;
+;;3;Quad extensions;16 x 68;12 x 68;12 x 68 + finisher;;2;;
+;;3;Calves;12 x 127kg;12 x 118;10 x 109 + finisher;;1.5;maskin;
+;;3;oblique maskin;16 x 32kg;20 x 25;20 x 25;;1;;
+;;18;;;;;;;;
+2021-12-25;52;4;Sumo DL;6 x 90kg;6 x 90;6 x 90;6 x 90;3;;
+;;4;ATG split squat;10 x 20kg;14 x 10 ;12 x 10;10 x 10;2 / ben;;
+;;3;Nordic curls;8 + 8;7 + 8;6 + 8;;0;Ecc;
+;;3;utfall?;20;20;20;;2;Bw;
+;;3;Calves;;;;;0;maskin;
+;;3;abs;;;;;1;;
+;;20;;;;;;;;
+2022-01-02;1;4;Sumo DL;5 x 95kg;5 x 95;5 x 90;5 x 90;3;;
+;;4;ATG split squat;10 x 20kg;8 x 20kg;7 x 20;7 x 20;2 / ben;;
+;;3;leg curls;16 x 5kg;12 x 5;12 x 5;;0;Maskin;
+;;3;Utfall;26;24;24;;2;Bw;
+;;14;;;;;;;;
+2022-01-10;3;4;Sumo DL;4 x 100kg;6 x 95;6 x 95;6 x 95;3;3 plattor;
+;;4;ATG split squat;11 x 20kg;9 x 20;7 x 20;7 x 20;2 / ben;;
+;;3;leg curls;7 x 10kg;13 x 5;11 x 5;;0;Maskin;
+;;3;Sissy sqauts;6 x bw;6;6;;2;;
+;;14;;;;;;;;
+2022-01-19;4;4;Sumo DL;6 x 100kg;5 x 100kg;5 x 100;5 x 100;3;3 plattor;
+;;3;ATG split squat;10 x 20kg;9 x 20;8 x 20;;2/ ben;;
+;;3;leg curls;9 x 5kg;9 x 5;7 x 5;;0;strikt;
+;;3;Sissy squats;7 x bw;7;7;;2;;
+;;13;;;;;;;;
+2022-01-28;5;4;Sumo DL;6 x 105kg;6 x 105;6 x 105;5 x 105;3;3 plattor;
+;;3;ATG split squat;11 x 20kg;10 x 20;9 x 20;;2/ ben;;
+;;3;leg curls;10x 5kg;7 x 5;7 x 5;;0;strikt;
+;;3;Sissy squats;7 x bw;7;7;;2;;
+;;13;;;;;;;;
+2022-02-06;6;4;Sumo DL;5 x 110kg;5 x 110;5 x 110;5 x 110;3;3 plattor;
+;;3;ATG split squat;12 x 20kg;10 x 20;9 x 20;;2/ ben;;
+;;3;leg curls;10 x 5;9 x 5;7 x 5;;0;strikt;
+;;3;Sissy squats;8 x bw;7 x bw;7;;2;;
+;;13;;;;;;;;
+2022-02-15;8;4;Sumo DL;5 x 110kg;6 x 105;6 x 105;6 x 105;3;3 plattor;
+;;3;ATG split squat;6 x 29kg;6 x 29;5 x 29;;2/ ben;hantlar;
+;;3;leg curls;11 x 5;9 x 5;9 x 5;;0;strikt;
+;;3;Sissy squats;9 x bw;8;8;;2;;
+;;13;;;;;;;;
+2022-02-24;9;4;Sumo DL;6 x 110kg;5 x 110;5 x 110;5 x 110;3;3 plattor;
+;;3;ATG split squat;7 x 29kg;7 x 29;7 x 29;;2/ ben;hantlar;
+;;3;leg curls;12 x 5kg;10 x 5;8 x 5;;0;strikt;
+;;3;Sissy squats;9 x bw;8;8;;2;;
+;;13;;;;;;;;
+2022-03-04;10;4;Sumo DL;5 x 112,5 kg;5 x 112,5;5 x 112,5;5 x 110;3;3 plattor;
+;;3;ATG split squat;5 x 34 kg;7 x 29;7 x 29;;2/ ben;hantlar;
+;;3;leg curls;skip volume;;;;0;strikt;
+;;3;Sissy squats;skip volume;;;;2;;
+;;13;;;;;;;;
+2022-03-12;11;4;Sumo DL;5 x 112,5 kg;5 x 112,5;5 x 112,5;5 x 112,5;3;3 plattor;
+;;3;ATG split squat;6 x 34kg;6 x 31,5;6 x 31,5;;2/ ben;hantlar;
+;;3;leg curls;10 x 5kg;9 x 5;8 x 5;;0;strikt;
+;;3;Sissy squats;12 x bw ;11 x bw;10 x bw;;2;;
+;;13;;;;;;;;
+2022-03-22;13;4;Regular DL;5 x 90;5 x 100;5 x 100;5 x 100;3;3 plattor;
+;;3;ATG split squat;6 x 31,5;6 x 31,5;5 x 31,5;;2/ ben;hantlar;
+;;3;leg curls;10 x 5kg;9 x 5;8 x 5;;0;strikt;
+;;3;Sissy squats;12 x bw;12 x bw;12 x bw;;2;;
+;;13;;;;;;;;
+2022-03-31;14;4;Regular DL;6 x 105kg;6 x 105;5 x 105;6 x 105?;3;3 plattor;8
+;;3;ATG split squat;6 x 31,5 kg;6 x 31,5;6 x 31,5;;2/ ben;hantlar;8.5
+;;3;leg curls;9 x 5 kg;8 x 5;8 x 5;;0;strikt;9
+;;3;Sissy squats;8 x 5 kg;;;ont i kn;2;;9
+;;13;;;;;;;;
+2022-04-09;15;4;Regular DL;5 x 110kg;6 x 105;6 x 105;5 x 105;4;3 plattor;8
+;;3;ATG split squat;8 x 31,5;7 x 31,5;7 x 31,5;;2/ ben;3 plattor;8.5
+;;3;leg curls;ont i knveck;;;;0;strikt;9
+;;3;Sissy squats;ont i kn;;;;2;;9
+;;13;;;;;;;lite ont i korsrygg;
+2022-04-18;17;4;Regular DL;5 x 115kg;5 x 115;5 x 115;4 x 115;4;3 plattor;8
+;;3;ATG split squat;6 x 34kg;6 x 34;6 x 34;;2/ ben;3 plattor;8.5
+;;3;leg curls;11 x 5kg;;;knveck ont;1;strikt;9
+;;3;Sissy squats;17;16 x r nordic;10 x 10kg;knveck ont;2;;9
+;;13;;;;;;;;
+2022-04-27;18;4;Regular DL;;;;;4;3 plattor;8
+;;3;Pin squat;;;;;2/ ben;3 plattor;8.5
+;;3;leg curls;;;;;1;strikt;9
+;;3;;;;;;2;;9
+;;13;;;;;;;;
+Date;Week;sets:;excercise;set 1;set 2;set 3;set 4;rest (min);comments;RPE
+2021-12-09;50;4;Weighted Pull ups;5 x 13,75 kg;5 x 12,5;6ish x 10;6 x 7,5;3;;
+;;4;Militrpress;5 x 42,5kg;5 x 40;6 x 37,5;7 x 35;3;;
+;;3;Close grip row;16 x 35kg;16 x 40;15 x 40;x;2;;
+;;3;straight arm pulldown;12 x 22,5kg;12 x 22,5;10 x 22,5;x;2;;
+;;3;Single leg hyper extensions;16 per ben;16 totalt;16;x;1/ben;;
+;;3;Triceps;12 x 30kg;6 x 30;10 x 25;x;2;;
+;;20;;;;;;;;
+2021-12-17;51;4;Weighted Pull ups;6 x 15kg;5 x 15;5 x 12,5;5ish x 12,5;3;neutral grip;
+;;4;Axelpress;6 x 19,5;5 x 19,5;5 x 19,5;4 x 19,5;3;Sittande/ p kn;
+;;3;Close grip row;15;13;12 + finisher;;0;Matbord ;
+;;3;straight arm pulldown;15 x 15kg;13 x 15;13 x 15;;2;;
+;;3;Hyper extensions;28;25;25;;0;;
+;;3;Triceps;22 x 15;12 x 20;12 x 20;;2;;
+;;20;;;;;;;;
+2021-12-27;53;4;Weighted Pull ups;5 x 15kg;5ish x 15;4 x 12,5;4 x 10;3;neutral grip;
+;;4;Axelpress;5 x 40kg;6 x 35;5 x 35;6 x 30;2;Maskin;
+;;3;Close grip row;18 x 19,5kg;16 x 19,5;14 x 19,5;;0;;
+;;3;straight arm pulldown;10 x 20kg;10 x 20;15 x 15;;2;;
+;;3;Hyper extensions;25 x 10;25 x 10;18 x 10 + 6;;0;;
+;;3;Overhead band Triceps;12;10;9 + finisher;;2;Svart, en arm;
+;;20;;;;;;;;
+2022-01-04;2;4;Weighted Chin ups;6 x 15kg;5 x 12,5;5 x 10;4 x 10;3;;
+;;4;Axelpress;7 x 19,5 kg;6 x 19,5;5 x 19,5;5 x 19,5;3;Sittande;
+;;3;Single arm Band row;30 x svart;24 x s + r;20;;0;Lat focus;
+;;3;Overhead band Triceps;13;11;10;;2;Svart, en arm;
+;;3;straight arm pulldown;9 x 20 kg;16 x 15;15 x 15;;0;;
+;;3;axelpress;9 x 30 kg;7 x 30;9 x 25;;2;;
+;;20;;;;;;;;
+2022-01-12;3;4;Weighted Chin ups;5,5 x 15kg;5 x 12,5;5 x 10;4 x 10;3;;
+;;4;Axelpress;8 x 19,5 kg;7 x 19,5 ;5 x 19,5;5 x 19,5;3;Sittande;
+;;3;decline press;10;9;8;;0;2 trapp steg;
+;;3;lat pulldown;15 x 50kg;10 x 55;8 x 55;;2;close grip;
+;;3;inverted row;13;12;12;;0;under matbord;
+;;3;Overhead band Triceps;11;11;9 + finisher;;2;Svart, en arm;
+;;20;;;;;;;;
+2022-01-21;4;4;Weighted Chin ups;6 x 15kg;5 x 15;5 x 12,5;5 x 10;3;;
+;;4;Axelpress;9 x 19,5 kg;7 x 19,5 ;5 x 19,5;5 x 19,5;3;Sittande;
+;;3;decline press;9;8;7;;0;2 trapp steg;
+;;3;lat pulldown;12 x 55kg;10 x 55;8 x 55;;2;close grip;
+;;3;inverted row;14;13;13;;0;under matbord;
+;;3; band Triceps pushdowns;17;18;16;;2;Svart, en arm;
+;;20;;;;;;;;
+2022-01-30;5;4;Weighted Chin ups;6 x 16,25 kg;5 x 15;5 x 13,75;5 x 12,5;3;;
+;;4;Axelpress;6 x 22 kg;4 x 22;6 x 19,5 ;5 x 19,5;3;Sittande;
+;;3;decline press;11;9;7;;0;2 trapp steg;
+;;3;lat pulldown;13 x 55;10 x 55;8 x 55;;2;close grip;
+;;3;inverted row;15;14;12;;0;under matbord;
+;;3; band Triceps pushdowns;16;16;16;;2;Svart, en arm;
+;;20;;;;;;;;
+2022-02-07;7;4;Weighted Chin ups;6 x 16,25 kg;5 x 16,25;5 x 13,75;5 x 12,5;3;;
+;;4;Axelpress;6 x 22 kg;5 x 22;6 x 19,5 ;5 x 19,5;3;Sittande;
+;;3;decline press;12;10;8;;0;2 trapp steg;
+;;3;lat pulldown;10 x 60kg;8 x 60;8 x 55;;2;close grip;
+;;3;inverted row;13;13;12;;0;under matbord;
+;;3; band Triceps pushdowns;18;16;16 + finisher ;;2;Svart, en arm;
+;;20;;;;;;;;
+2022-02-18;8;4;Weighted pull ups;5 x 16,25;5 x 15;5 x 13,75;5 x 12,5;3;Neutral grip;
+;;4;Axelpress;6 x 22kg;5 x 22;6 x 19,5 ;5 x 19,5;3;Sittande;
+;;3;decline press;12;10;9;;0;2 trapp steg;
+;;3;lat pulldown;10 x 60kg;8 x 60;10 x 55;;2;wide grip;
+;;3;inverted row;12;12;12;;0;under matbord;
+;;3; band Triceps pushdowns;16;15;14;;2;Svart, en arm;
+;;20;;;;;;;;
+2022-02-26;9;4;Weighted pull ups;5 x 16,25;5 x 15;4,5 x 12,5;5 x 10;3; Ringar;
+;;4;Axelpress;6 x 22 kg;6 x 22;4 x 22;6 x 19,5;3;Sittande;
+;;3;decline press;11;9;8;;0;2 trapp steg;
+;;3;lat pulldown;12 x 60;9 x 60;8 x 60;;2;wide grip;
+;;3;ring Rows ;11;11;9;;0;streck ;
+;;3; band Triceps pushdowns;16;15;14;;2;Svart, en arm;
+;;20;;;;;;;;
+2022-03-06;10;4;Weighted pull ups;5 x 16,25;5 x 13,75;4 x 12,5;5ish x 10;3; Ringar;
+;;4;Axelpress;6 x 22 kg;5 x 22;7 x 19,5 ;6 x 19,5;3;Sittande;
+;;3;decline press;11;10;8;;1;3 trapp steg;
+;;3;lat pulldown;10 x 65 kg;8 x 65;7 x 65;;2;close grip;
+;;3;ring Rows ;11;11;11;;0;streck 3 ;
+;;3; band Triceps pushdowns;16;15;15;;2;Svart, en arm;
+;;20;;;;;;;;
+2022-03-14;12;4;Weighted pull ups;12 x bw;8;6;6;3; Ringar;
+;;4;Axelpress;8 x bw;7;7;7;3;3 trapp steg;
+;;3;decline press;;;;;1;3 trapp steg;
+;;3;lat pulldown;;;;;2;close grip;
+;;3;ring Rows ;;;;;0;streck 3 ;
+;;3; band Triceps pushdowns;;;;;2;Svart, en arm;
+;;20;;;;;;;#NAMN?;
+2022-03-25;13;4;Weighted pull ups;4 x 13,75;5 x 11,25;4 x 8,75;4 x 7,5;3; Ringar;9
+;;4;Axelpress;7 x 20,75kg;6 x 20,75;4 x 20,75;4 x 20,75;3;Sittande;8,5
+;;3;decline press;12;10;8;;1;3 trapp steg;8,5
+;;3;lat pulldown;8 x 65kg;8 x 60;10 x 55;;2;close grip;9
+;;3;ring Rows ;12;11;10;;0;streck 3 ;9
+;;3; band Triceps extensions;13;9;9;;2;Svart, en arm;9,5
+;;20;;;;;;;;
+2022-04-02;14;4;Weighted pull ups;5 x 13,75 kg;5 x 11,25;5 x 8,75;5 x 7,5;3; Ringar;9
+;;4;Axelpress;8 x 20,75;5 x 20,75;5 x 20,75;4 x 20,75;3;Sittande;9
+;;3;decline press;11;9;9;;1;3 trapp steg;9
+;;3;lat pulldown;9 x 65 kg;7 x 65;8 x 60;;2;close grip;9
+;;3;ring Rows ;12;11;10;;0;streck 3 ;9,5
+;;3; band Triceps extensions;10;8;8;;2;Svart, en arm;9,5
+;;20;;;;;;;;
+2022-04-10;15;4;Weighted pull ups;6 x 13,75;5 x 11,25;5 x 8,75;5 x 7,5;3; Ringar;9
+;;4;Militrpress;5 x 40 kg;5 x 40;5 x 40;5 x 40;3;Sittande;9
+;;3;decline push ups;10;10;9;;1;3 trapp steg;9
+;;3;lat pulldown;9 x 65;8 x 65;9 x 60;;3;close grip;9
+;;3;ring Rows ;10 x 4;11 x 3;11;;0;streck 3;9,5
+;;3; band Triceps extensions;11;9;8;;2;Svart, en arm;9,5
+;;20;;;;;;;;
+2022-04-22;17;4;Bench press;5 x 65kg;4 x 65;5 x 60;5 x 60;3;;8
+;;4;Weighted pull ups;5 x 10 kg;5 x 10;5 x 5;5 x 5;3;ringar;9
+;;3;band crossover;18;16;15;;1;;8
+;;3;lat pulldown;9 x 65kg;8 x 65;7 x 65;;2;close grip;9
+;;3;ring Rows ;12;11;9;;0;streck 3;9,5
+;;3; band Triceps extensions;10;9;9;;2;Svart, en arm;9,5
+;;20;;;;;;;;
+Date;Week;sets:;excercise;set 1;set 2;set 3;set 4;rest (min);comments;RPE
+2021-12-03;49;3;Barbell hacksquat;5 x 85kg;5 x 80;5 x 75;;3;;
+;;3;Rdls;18 x 60kg;16 x 60;15 x 60;;3;;
+;;3;reverse nordics;12;12;12;;2;;
+;;3;single leg hyper;8 per ben;16 tot.;14;;2;;
+;;3;Tibialis raise;17;12;10;;2;;
+;;3;Plank;1m 20s;1m;55s;;;;
+;;18;;;;;;;;
+2021-12-11;50;4;Barbell hacksquat;5 x 90;6 x 85;5 x 85;6 x 80;3;;
+;;4;Rdls;16 x 60;16 x 60;16 x 60;16 x 60;3;;
+;;3;reverse nordics;16;15;15;;2;;
+;;3;single leg hyper;22 tot;22;22 + finisher;;;;
+;;3;Tibialis raise;22;15;12 + finisher ;;2;;
+;;3;Plank;1m 25s;1m;1m;;;;
+;;20;;;;;;;;
+2021-12-21;52;4;Barbell hacksquat;4 x 90;5 x 85;5 x 85;5 x 85;3;;
+;;4;Rdls;13 x 70 grepp;16 x 70;16 x 70;16 x 70;3;;
+;;3;reverse nordics;14;14;13;;0;;
+;;3;Hyperextension ;30;30;28;;2;;
+;;3;Tibialis raise;20;14;11 + finisher;;0;;
+;;3;Plank;1m20s;1m;55s;;2;;
+;;20;;;;;;;;
+2021-12-29;53;4;Barbell hacksquat;6 x 90;6 x 90;5 x 90;5 x 90;3;;
+;;4;Rdls;16 x 80;15 x 80;16 x 70;16 x70;3;;
+;;3;reverse nordics;16;10 + 12;12;;0;;
+;;3;Hyperextension ;36 x bw;35 x bw;32;;2;;
+;;3;Tibialis raise;18;14;12 + finisher ;;0;;
+;;3;Laying leg raise;20 tot;18;16;;2;Obliques;
+;;20;;;;;;;;
+2022-01-06;2;4;Barbell hacksquat;5 x 95;5 x 95;5 x 95;5 x 95;3;Frn plattor;
+;;4;Rdls;16 x 75;16 x 80;16 x 80;14 x 80;3;Frn plattor;
+;;3;reverse nordics;12;10;10;;0;;
+;;3;nordic curls ;7;6;5 + finisher;;2;;
+;;14;;;;;;;;
+2022-01-14;3;4;Barbell hacksquat;5 x 105 kg;5 x 105;5 x 105;5 x 105;3;Frn 3 plattor;
+;;4;Rdls;14 x 90 kg;13 x 90;12 x 90;12 x 90;3;Frn 3 plattor;
+;;3;reverse nordics;18;16;16;;0;;
+;;3;single leg machine curls ;6 x 5kg;6 x 5;6 x 5;;2;full rom;
+;;14;;;;;;;;
+2022-01-23;4;4;Barbell hacksquat;6 x 100kg felrkning;5 x 100kg;5 x 100;5 x 100;3;Frn 3 plattor;
+;;3;Rdls;14 x 90;14 x 90;14 x 90;;3;Frn 3 plattor;
+;;3;reverse nordics;16;12;12;;0;;
+;;3;single leg machine curls ;9 x 5kg;7 x 5;6 x 5;;2;full rom;
+;;13;;;;;;;;
+2022-02-01;6;4;Barbell hacksquat;5 x 110kg;5 x 110;5 x 110;5 x 110;3;Frn 3 plattor;
+;;3;Rdls;11 x 95kg;10 x 95;10 x 95;;3;Frn 3 plattor;
+;;3;reverse nordics;12;12;11;;0;mer baktlutad;
+;;3;single leg machine curls ;10 x 5;8 x 5;8 x 5;;2;full rom;
+;;13;;;;;;;;
+2022-02-09;7;4;Barbell hacksquat;5 x 112,5 kg;5 x 112,5;5 x 110;5 x 110;3;Frn 3 plattor;
+;;3;Rdls;12 x 95 kg;11 x 95;10 x 95;;3;Frn 3 plattor;
+;;3;reverse nordics;13 x 5kg;12 x bw;11;;0;mer baktlutad;
+;;3;single leg machine curls ;10 x 5kg;9 x 5;9 x 5;;2;full rom;
+;;13;;;;;;;;
+2022-02-20;8;4;Barbell hacksquat;5 x 112,5 kg;4 x 112,5;4 x 110;4 x 110;3;Frn 3 plattor;
+;;3;Rdls;14 x 95kg;12 x 95;11 x 95;;3;Frn 3 plattor;
+;;3;reverse nordics;16 x bw;12;11;;0;mer baktlutad;
+;;3;single leg machine curls ;10 x 5kg;9 x 5;7 x 5;;2;full rom;
+;;13;;;;;;;;
+2022-02-28;10;4;Barbell hacksquat;5 x 110kg;4 x 110;4 x 105;4 x 105;3;ont i brstrygg;
+;;3;Rdls;14 x 95kg;12 x 95;12 x 95;;3;;
+;;3;reverse nordics;14 x bw;12;20 (mindre lutning);;0;lite ont;
+;;3;single leg machine curls ;11 x 5kg;9 x 5;8 x 5;;2;full rom;
+;;13;;;;;;;;
+2022-03-08;11;4;Barbell hacksquat;5 x 110kg;5 x 110;5 x 110;5 x 110;3;ont i brstrygg;
+;;3;Rdls;12 x 100kg;11 x 100;11 x 100;;3;;
+;;3;reverse nordics;16;14;12;;0;lite ont i kn;
+;;3;single leg machine curls ;11 x 5kg;9 x 5;8 x 5;;2;full rom;
+;;13;;;;;;;;
+2022-03-17;12;4;Barbell hacksquat;5 x 112,5 kg;5 x 112,5;5 x 110;5 x 110;3;;
+;;3;Rdls;13 x 100 kg;12 x 100;12 x 100;;3;;
+;;3;reverse nordics;14;14;12;;0;;
+;;3;single leg machine curls ;11 x 5kg;9 x 5;6 x 5;;2;full rom;
+;;13;;;;;;;;
+2022-03-27;13;4;beltsquat;6 x 45kg;10 x 45;7 x 45;7 x 45;3;ont i brstrygg;9
+;;3;Rdls;12 x 95 kg;12 x 90;12 x 90;;3;ont i brstrygg;8
+;;3;reverse nordics;16;14;13;;0;;9
+;;3;single leg machine curls ;11 x 5kg;11 x 5;9 x 5;;2;full rom;9
+;;13;;;;;;;;
+2022-04-04;15;4;back squat;6 x 60;7 x 60;6 x 60;7 x 60;3;nerirn upp;7?
+;;3;Rdls;14 x 90 kg;13 x 90;13 x 90;;3;;8
+;;3;reverse nordics;;;;;0;;9
+;;3;single leg machine curls ;;;;;2;full rom;9
+;;13;;;;;;;byggt ihop rack;
+2022-04-14;16;4;back squat;5 x 80;5 x 80;5 x 80;5 x 80;3;high bar?;7?
+;;3;Rdls;12 x 100kg;12 x 100;11 x 100;;3;;8
+;;3;reverse nordics;16;16;15;;0;;9
+;;3;single leg machine curls ;12 x 0kg;15 x 0;15 x 0;ont i vnster knveck;2;full rom;9
+;;13;;;;;;;;
+2022-04-24;17;4;back squat;5 x 85kg;5 x 80;6 x 75;8 x 70;3;;8
+;;3;Rdls;12 x 100 kg;11 x 100;11 x 100;;3;;8
+;;3;reverse nordics;13 x 10kg;12 x 10;12 x 10 + finisher;;0;;9
+;;3;single leg machine curls ;11 x 5kg;11 x 5;10 x 5;;2;;9
+;;13;;;;;;;;
+Date;Week;sets:;excercise;set 1;set 2;set 3;set 4;rest (min);comments;RPE
+2021-12-05;49;3;Bench press;5 x 65kg;6 x 60;6 x 57,5;;3;;
+;;3;rear delt row;16 x 41kg;15 x 41;14 x 41;;2;;
+;;3;Incline db press;8 x 26kg;6 x 26;7 x 24;;2;;
+;;3;dips;6 x bw;6 x -10kg?;9 x -20;;2;maskin;
+;;3;side lateral;15 x 6 kg;13 x 6;10 x 6;;0;;
+;;3;Biceps;6 x 18 kg;6 x 16;7 x 14;;1;;
+;;18;;;;;;;;
+2021-12-13;51;4;Weighted push ups;6 x 20;5 x 17,5;5 x 15;5 x 12,5;3;Blte;
+;;4;decline push ups;9;7;6;6;3;;
+;;3;wide row;16 x 19,5;16 x 19,5;16 x 19,5;;0;hantlar;
+;;3;dips;6;6;5;;2;;
+;;3;Y raise;12 x 5;12 x 5;12 x 5;;0;;
+;;3;Band curls;22;16;16 + finisher ;;2;Lila;
+;;20;;;;;;;;
+2021-12-21;52;4;Weighted push ups;5 x 20kg;4 x 17,5;4 x 15;4 x 12,5;3;Ryggsck;
+;;4;decline push ups;10;8;7;7;3;;
+;;3;wide row;20 x 19,5;18 x 19,5;18 x 19,5;;0;;
+;;3;dips;6;6;6;;2;;
+;;3;side lateral;12 x 5kg;12 x 5;8 x 5 + finisher;;0;;
+;;3;Barbell curls;10 x 35kg;10 x 35;9 x 35;;2;;
+;;20;;;;;;;;
+2021-12-31;53;4;Weighted push ups;5 x 20kg;5 x 20;5 x 17,5;5 x 15;3;1 trappsteg;
+;;4;decline push ups;8;6;6;5;2;3 trappsteg;
+;;3;wide row;15 x 30kg;18 x 30;16 x 30;;0;Maskin;
+;;3;Machine press;13 x 40kg;10 x 40;10 x 40;;2;;
+;;3;side lateral;16 x 10kg;16 x 10;16 x 10;;0;Cheatreps;
+;;3;Barbell curls;11 x 35 kg;9 x 35;9 x 35;;2;;
+;;20;;;;;;;;
+2022-01-08;2;4;Weighted push ups;5 x 20;4 x 20;4 x 17,5;5 x 15;3;Pallar;
+;;4;decline push ups;9;8;7;6;2;3 trappsteg;
+;;3;wide row;15 x 40;12 x 35;15 x 30;;0;Maskin;
+;;3;straight arm pulldown;13 x 15;12 x 15;10 x 15;;2;Close grip;
+;;3;side lateral;6 + 4 x 3,75 + 2,5;6 x 3,75 + 4 x 2,5;6 + 4 + finisher;;0;en arm, lngsamt;
+;;3;Barbell curls;10 x 37,5;8 x 37,5;7 x 37,5 ;;2;;
+;;20;;;;;;;;
+2022-01-16;3;4;Weighted push ups;5 x 20kg;5 x 17,5;5 x 15;4 x 15;3;Pallar;
+;;4;decline push ups;7 x rtt band;6 x rtt;6 x bw;5 x bw;2;bnk;
+;;3;wide row;12 x 45 kg;13 x 40;12 x 40;;0;Maskin;
+;;3;straight arm pulldown;15 x 15kg;12 x 15;11 x 15;;2;Close grip;
+;;3;side lateral;8 x 3,75 + 4 x 2,5;8 + 4;8 + 6;;0;en arm, lngsamt;
+;;3;Barbell curls;11 x 37,5kg;9 x 37,5;8 x 37,5;;2;;
+;;20;;;;;;;;
+2022-01-25;5;4;Weighted push ups;6 x 20;5 x 17,5;6 x 15;4 x 15;3;Pallar;
+;;4;decline push ups;8;6;6;5;2;bnk;
+;;3;wide row;14 x 45;13 x 45;13 x 45;;0;Maskin;
+;;3;side lateral;9 x 3,75 + 4 x 2,5;9 + 4;7 + 6;;2;en arm, lngsamt;
+;;3;straight arm pulldown;14 x 20kg;14 x 20;12 x 20;;0;Close grip;
+;;3;Barbell curls;9 x 40kg;8 x 40;7 x 40;;2;;
+;;20;;;;;;;;
+2022-02-03;6;4;Weighted push ups;5 x 20;5 x 17,5;5 x 15;5 x 12,5;3;blte hgre upp ;
+;;4;decline push ups;7;7;6;5;2;bnk;
+;;3;wide row;12 x 50;12 x 50;10 x 50;;0;Maskin;
+;;3;side lateral;10 + 5;9 + 5;9 + finisher;;2;en arm, lngsamt;
+;;3;straight arm pulldown;16 x 20;13 x 20;10 x 20;;0;Close grip;
+;;3;Barbell curls;10 x 40kg ;9 x 40;7 x 40;;2;;
+;;20;;;;;;;;
+2022-02-13;7;4;Weighted push ups;4 x 20;6 x 15;5 x 15;6 x 12,5;3;blte hgre upp ;
+;;4;decline push ups;9;6;6;5;2;bnk;
+;;3;wide row;10 x 55;10 x 55;8 x 55;;0;Maskin;
+;;3;side lateral;10 + 6;10 + 6;10 + 6;;2;en arm, lngsamt;
+;;3;straight arm pulldown;14 x 20;12 x 20;10 x 20;;0;wide grip;
+;;3;Barbell curls;8 x 42,5;6 x 42,5;5 x 42,5;;2;;
+;;20;;;;;;;;
+2022-02-22;9;4;Weighted push ups;5 x 20kg;5 x 20;5 x 17,5;4 x 15;3;utan handtag;
+;;4;decline push ups;9;6;6;6;2;bnk;
+;;3;wide row;12 x 55kg;11 x 55;10 x 55;;0;Maskin;
+;;3;side lateral;12 + 6;12 + 6;12 + 6;;2;en arm, lngsamt;
+;;3;straight arm pulldown;16 x 20;14 x 20;12 x 20;;0;wide grip;
+;;3;Barbell curls;8 x 42,5;7 x 42,5;6 x 42,5;;2;;
+;;20;;;;;;;;
+2022-03-02;10;4;Ring push ups;6 x 5kg;5 x 5kg;5 x 5;5 x bw;3;streck 7;
+;;4;decline push ups;9;7;6;6;2;bnk;
+;;3;wide row;12 x 55kg;11 x 55;10 x 55;;0;Maskin;
+;;3;side lateral;15 + 6;15 + 6;14 + 6;;2;en arm, lngsamt;
+;;3;straight arm pulldown;16 x 20;14 x 20;12 x 20;;0;close grip;
+;;3;Barbell curls;10 x 42,5kg;8 x 42,5;7 x 42,5;;2;;
+;;20;;;;;;;;
+2022-03-10;11;4;Ring push ups;5 x 10 kg;5 x 10kg;5 x 7,5;5 x 5;3;streck 7;
+;;4;decline push ups;9;7;6;6;2;bnk;
+;;3;wide row;14 x 55kg;12 x 55;12 x 55;;0;Maskin;
+;;3;side lateral;14 + 6;14 + 6;12 + 6;;2;en arm, lngsamt;
+;;3;straight arm pulldown;10;10;9;;0;en arm, svart band;
+;;3;Barbell curls;9 x 45 kg;7 x 45;6 x 45;;2;;
+;;20;;;;;;;;
+2022-03-20;12;4;Ring push ups;5 x 10 kg;5 x 10;4 x 7,5;5 x 5;3;streck 7;
+;;4;decline push ups;9;7;6;6;2;bnk;
+;;3;inverted delt row;16 x 5;12 x 7;12 x 7;;0;ringar;
+;;3;side lateral;14 + 6;10 + 6;10 + 6;;2;en arm, lngsamt;
+;;3;straight arm pulldown;8 x 25;14 x 20;12 x 20;;0;maskin;
+;;3;Barbell curls;9 x 45 kg;7 x 45;7 x 45;;2;;
+;;20;;;;;;;;
+2022-03-29;14;4;Ring push ups;5 x 7,5;5? x 6,25;5 x 5;4 x 3,75;3;streck 7;8.5
+;;4;decline push ups;10;7;6;6;2;bnk;9
+;;3;inverted delt row;13;12;12;;0;ringar, streck 7;10
+;;3;side lateral;16 + 8;14 + 8;14 + 8;;2;en arm, lngsamt;9
+;;3;straight arm pulldown;3 x 25 + 10 x 20;12 x 20;10 x 20;;1;maskin;9
+;;3;Barbell curls;9 x 45 kg;7 x 45;6 x 45;;2;;9
+;;20;;;;;;;;
+2022-04-07;15;4;Barbell benchpress;3 x 70;5 x 65 kg;4 x 65;4 x 60;3;;8.5
+;;4;decline push ups;11;7;7;6;2;2 trappsteg;9
+;;3;inverted delt row;11;11;11;;0;ringar, streck 7;10
+;;3;side lateral;15 + 8;12 + 8;12 + 8;;2;en arm, lngsamt;9
+;;3;straight arm pulldown;16 x 20;14 x 20;13 x 20;;1;maskin;9
+;;3;Barbell curls;8 x 45;7 x 42,5;6 x 42,5;;2;stora stngen;9
+;;20;;;;;;;;
+2022-04-16;16;4;Barbell benchpress;4 x 70kg;5 x 65;6 x 60;6 x 60;3;;8.5
+;;4;ring push ups;7;5;4;5?;2;streck 8;9
+;;3;inverted delt row;16;12;13;;0;ringar, streck 7;9,5
+;;3;side lateral;16 + 8;16 + 8;16 + 8;;2;en arm, lngsamt;9
+;;3;straight arm pulldown;18 x 20;14 x 20;13 x 20;;1;maskin;9
+;;3;Barbell curls;7 x 45;8 x 40;7 x 40;;2;stora stngen;9
+;;20;;;;;;;;
+2022-04-26;18;4;Barbell benchpress;;;;;3;;8.5
+;;3;ring push ups;;;;;2;streck 8;9
+;;3;inverted delt row;;;;;0;ringar, streck 7;9,5
+;;3;side lateral;;;;;2;en arm, lngsamt;9
+;;3;straight arm pulldown;;;;;1;maskin;9
+;;3;Barbell curls;;;;;2;stora stngen;9
+;;19;;;;;;;;
