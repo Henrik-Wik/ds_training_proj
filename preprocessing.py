@@ -30,7 +30,6 @@ columns_to_keep = [
     "month",
     "day",
     "exercise",
-    "rest (min)",
     "set 1",
     "set 2",
     "set 3",
@@ -60,7 +59,7 @@ df.drop(columns=["set 1", "set 2", "set 3", "set 4"], inplace=True)
 # melt the dataframe into a long format
 melted_df = pd.melt(
     df,
-    id_vars=["year", "month", "day", "exercise", "rest (min)"],
+    id_vars=["year", "month", "day", "exercise"],
     value_vars=[
         "set 1 reps",
         "set 2 reps",
@@ -89,7 +88,7 @@ melted_df = melted_df.drop(columns=["set"])
 # %%
 # pivot the dataframe to get reps and weights in separate columns
 pivoted_df = melted_df.pivot_table(
-    index=["year", "month", "day", "exercise", "rest (min)", "set #"],
+    index=["year", "month", "day", "exercise", "set #"],
     columns="type",
     values="values",
     aggfunc="first",
@@ -100,5 +99,14 @@ df = pivoted_df[pivoted_df["reps"] != 0]
 
 # %%
 
-df = df.applymap(lambda x: ''.join(c for c in x if c.isalnum() or c == '.')if isinstance(x, str) and x not in df['exercise'].values else x)
+df[['reps','weight']] = df[['reps','weight']].replace(r'[a-zA-Z]', '', regex=True)
+df.replace(',','.', regex=True, inplace=True)
+
+
+#%%
+
+
+df.head(20)
+
+
 # %%
